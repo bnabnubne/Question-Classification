@@ -1,0 +1,1201 @@
+STT,Question,Label
+1,vì sao mèo ăn những vật_thể lạ ?,Why
+2,bạn đã chạy được bao_nhiêu km trong tuần này ?,Quantity
+3,"tôi tính làm tủ áo_cánh kính cửa_lùa , có nên làm cửa lùa không nhỉ hay làm cửa cánh thôi ?",Yes/No
+4,cách phòng_ngừa và điều_trị búi_lông “ hairball ” của mèo ?,How
+5,bạn đã tham_gia bao_nhiêu buổi tư_vấn nghề_nghiệp trong năm nay ?,Quantity
+6,nhóm của bạn đã tổ_chức bao_nhiêu sự_kiện trong năm nay ?,Quantity
+7,bạn đã sửa bao_nhiêu bài_tập cho học_sinh trong tuần này ?,Quantity
+8,bạn đã thử bao_nhiêu món ăn đường_phố trong chuyến du_lịch vừa_qua ?,Quantity
+9,có nên làm tủ quần_áo cánh kính không ?,Yes/No
+10,bạn đã đăng bao_nhiêu bài viết lên blog cá_nhân ?,Quantity
+11,bạn đã nộp bao_nhiêu bài_tập cho giảng_viên trong học_kỳ này ?,Quantity
+12,đại_học bách_khoa hà_nội có bao_nhiêu ngành ?,Quantity
+13,bạn đã gặp_gỡ bao_nhiêu đối_tác mới trong dự_án vừa_qua ?,Quantity
+14,bạn đã tham_gia bao_nhiêu hoạt_động ngoại_khóa trong học_kỳ này ?,Quantity
+15,đồ_chơi 39k có nên mua cho bé ?,Yes/No
+16,báo giá đá tự_nhiên lát sân vườn ?,Quantity
+17,sâm tươi hàn_quốc thích_hợp cho gia_đình ?,Yes/No
+18,giá đá bazan bao_nhiêu ?,Quantity
+19,có bao_nhiêu bài_tập bạn cần hoàn_thành trước kỳ thi ?,Quantity
+20,thuê xe đi ninh_thuận_giá bao_nhiêu ?,Quantity
+21,tác_giả của bộ truyện “ harry_potter ” là ai ?,Who
+22,những lý_do vì sao nên chọn du_học phần_lan,Why
+23,ẩn comment_khách như_thế_nào ?,How
+24,tại_sao acid_hữu_cơ chỉ_tiêu_diệt vi_khuẩn bệnh mà không tiêu_diệt vi_khuẩn có_ích ?,Why
+25,"giải_pháp lưu_trữ hồ_sơ , tài_liệu ?",How
+26,công_ty bạn đã ký được bao_nhiêu hợp_đồng trong tháng này ?,Quantity
+27,các chuyên_gia ước_tính lợi_nhuận khi giao_dịch nhị phân bằng phương_pháp nào ?,How
+28,mua laptop intel core i5 là đủ hay thêm tý để có hẳn i7 ?,Yes/No
+29,"gian bếp nhà mình khá hẹp , mình không biết nên trang_trí sao cho đẹp ?",How
+30,bạn đã gửi bao_nhiêu lời mời kết_bạn trên mạng xã_hội tuần qua ?,Quantity
+31,bạn đã hoàn_thành bao_nhiêu câu hỏi trong bài kiểm_tra online ?,Quantity
+32,làm_sao để nhuộm tóc màu khói ?,How
+33,bạn đã học được bao_nhiêu bài_học từ khóa_học trực_tuyến ?,Quantity
+34,tại_sao chúng_ta cần tái_chế rác_thải nhựa ?,Why
+35,nguyên_nhân chính dẫn đến bệnh tiểu_đường ?,Why
+36,có bao_nhiêu cuốn sách trên kệ sách của bạn ?,Quantity
+37,trong tháng này bạn đã tiết_kiệm được bao_nhiêu tiền ?,Quantity
+38,bạn đã đạt được bao_nhiêu giải_thưởng trong các cuộc thi quốc_gia ?,Quantity
+39,ai là người sáng_lập công_ty microsoft ?,Who
+40,tại_sao cây_xanh giúp giảm nhiệt_độ môi_trường ?,Why
+41,bí_thư đoàn_trường điện - điện_tử là ai ?,Who
+42,sông_hương chảy qua địa_phương nào ?,Where
+43,thành_phố hồ_chí_minh thuộc miền nào của việt_nam ?,Where
+44,di_tích cố_đô huế thuộc tỉnh nào ?,Where
+45,ngôn_ngữ lập_trình nào phổ_biến nhất trong năm 2024 ?,What
+46,vì sao trẻ_em cần ngủ đủ giấc mỗi ngày ?,Why
+47,khi nào ngày lễ quốc_khánh việt_nam diễn ra ?,When
+48,năm nào đánh_dấu sự ra_đời của máy_tính đầu_tiên ?,When
+49,tại_sao việc tập_thể_dục đều_đặn lại quan_trọng ?,Why
+50,đại_học bách_khoa hà_nội thành_lập năm nào ?,When
+51,tại_sao rừng nhiệt_đới được gọi_là “ lá phổi của trái_đất ” ?,Why
+52,khi mua một màn_hình lcd cũ thì cần kiểm_tra như_thế_nào ?,How
+53,hướng_dẫn để cài_đặt phần_mềm trên máy_tính ?,How
+54,bạn thân nhất của bạn là ai ?,Who
+55,nguyễn_ái_quốc là ai trong lịch_sử việt_nam ?,Who
+56,địa_điểm tổ_chức sea_games lần thứ 31 là ở đâu ?,Where
+57,khi nào xuất_hiện hiện_tượng nguyệt_thực tiếp_theo ?,When
+58,tại_sao việc học online ngày_càng trở_nên phổ_biến ?,Why
+59,cách để học tốt môn_toán ?,How
+60,chiếc túi này nhìn thế_nào nhỉ ?,How
+61,buổi sáng nay bạn đã ăn gì chưa ?,Yes/No
+62,căn_hộ này có view ra biển hay không ?,Yes/No
+63,ánh_sáng trong phòng có đủ để đọc sách không ?,Yes/No
+64,lớp giải_tích 1 chiều nay bắt_đầu lúc mấy giờ ?,When
+65,người mới đến văn_phòng hôm_qua tên gì ?,Who
+66,mẫu thiết_kế này hợp với phong_cách nào ?,What
+67,số điện_thoại bạn lưu hôm_qua đâu rồi ?,Where
+68,cái bánh_bao này ai làm thế ?,Who
+69,đợt khuyến_mãi kéo_dài đến bao_giờ ?,When
+70,bữa tiệc sắp tới sẽ tổ_chức ở ?,Where
+71,cách làm món chè này có khó không ?,Yes/No
+72,lịch_trình chuyến đi đã được chốt chưa ?,Yes/No
+73,mẫu xe_đạp điện này bao_nhiêu tiền ?,Quantity
+74,địa_điểm hẹn_hò tối nay đã được chọn chưa ?,Yes/No
+75,chỗ nào bán hoa tươi vào sáng sớm ?,Where
+76,cuộc họp hôm_qua kết_quả ra sao ?,How
+77,hợp_đồng mới đã ký_kết chưa ?,Yes/No
+78,phần quà này có gì đặc_biệt ?,What
+79,hành_lý của bạn đã chuẩn_bị đầy_đủ chưa ?,Yes/No
+80,bức tranh treo ở phòng khách của ai vẽ ?,Who
+81,tạp_chí này số mới nhất có bài viết gì hay ?,What
+82,bé nhà bạn dạo này có khỏe không ?,Yes/No
+83,cách nào để sắp_xếp thời_gian hiệu_quả hơn ?,How
+84,bộ phim sắp tới có phải do đạo_diễn nổi_tiếng thực_hiện ?,Yes/No
+85,cuốn sách này thuộc thể_loại gì ?,What
+86,sản_phẩm này xuất_xứ từ nước nào ?,Where
+87,lớp_học yoga có còn chỗ trống không ?,Yes/No
+88,giày thể_thao mới của bạn có bền không ?,Yes/No
+89,quá_trình vận_chuyển hàng hóa diễn ra thế_nào ?,How
+90,chuyến du_lịch mùa hè này có gì thú_vị ?,What
+91,công_việc hiện_tại có đáp_ứng được mong_muốn của bạn không ?,Yes/No
+92,quyển sổ_tay này bạn mua ở đâu vậy ?,Where
+93,nhóm trưởng có đưa ra kế_hoạch cụ_thể chưa ?,Yes/No
+94,bạn dự_định tham_gia sự_kiện nào vào tuần tới ?,What
+95,"bài hát này nghe rất quen , do ai sáng_tác ?",Who
+96,mèo có cần tiêm vaccine định_kỳ không ?,Yes/No
+97,sự_kiện lần này có nhiều người tham_dự không ?,Yes/No
+98,công_viên gần đây có tổ_chức hội_chợ cuối tuần không ?,Yes/No
+99,kỳ nghỉ lễ này bạn dự_định làm gì ?,What
+100,mẫu điện_thoại này có tính_năng mới nào hấp_dẫn ?,What
+101,áo sơ_mi này chất_liệu có mát không ?,Yes/No
+102,công_trình kiến_trúc này được xây_dựng từ năm nào ?,When
+103,bài thuyết_trình này có cần thêm hình_ảnh minh_họa không ?,Yes/No
+104,tình_hình thời_tiết cuối tuần này thế_nào ?,How
+105,món quà tặng sếp nhân_dịp sinh_nhật nên chọn gì ?,What
+106,bạn đã nộp bài_tập đúng hạn chưa ?,Yes/No
+107,dự_định năm tới của bạn là gì ?,What
+108,ai đã giành giải_thưởng nobel năm nay ?,Who
+109,khi nào kỳ thi học_kỳ bắt_đầu ?,When
+110,ở đâu có_thể thuê xe_đạp giá rẻ ?,Where
+111,tại_sao cá có_thể sống trong nước ?,Why
+112,bạn muốn chọn căn_hộ này hay căn_hộ kia ?,What
+113,có phải bạn đã hoàn_thành dự_án trước thời_hạn không ?,Yes/No
+114,bao_nhiêu chiếc xe_máy được bán mỗi tháng tại cửa_hàng này ?,Quantity
+115,cách nào để quản_lý thời_gian hiệu_quả hơn ?,How
+116,ai là người đại_diện công_ty trong buổi họp hôm_qua ?,Who
+117,chỗ nào tổ_chức các lớp_học miễn_phí ?,Where
+118,khi nào bạn sẽ nghỉ_phép ?,When
+119,tại_sao học tiếng anh lại quan_trọng ?,Why
+120,làm thế_nào để tăng năng_suất lao_động ?,How
+121,nên chọn laptop dùng amd hay intel ?,What
+122,hôm_nay có phải là ngày hội sách không ?,Yes/No
+123,điều gì giúp bạn giữ được động_lực khi làm_việc ?,What
+124,người đã giới_thiệu bạn đến công_ty này ?,Who
+125,làm_sao để viết báo_cáo chuyên_nghiệp hơn ?,How
+126,nơi nào bán đồ điện_tử giảm_giá ?,Where
+127,khi nào bạn dự_định học một ngôn_ngữ mới ?,When
+128,ai sẽ tham_gia buổi họp_báo ngày_mai ?,Who
+129,có cách nào để giảm đau_đầu nhanh_chóng ?,How
+130,bạn thích đọc sách giấy hay sách điện_tử ?,What
+131,chiếc xe_đạp này có phù_hợp với bạn không ?,Yes/No
+132,bao_nhiêu ngày bạn cần để hoàn_thành bài_tập lớn ?,Quantity
+133,món quà ý_nghĩa nhất bạn từng nhận được ?,What
+134,ai là lớp trưởng của lớp này ?,Who
+135,khi nào bạn sẽ tham_gia buổi tập_huấn kỹ_năng ?,When
+136,vì sao con_người cần tập_thể_dục đều_đặn ?,Why
+137,tương_lai của ai sẽ ra sao ?,How
+138,tôi hợp son_hồng hay son_đỏ ?,What
+139,bạn đã ăn sáng chưa ?,Yes/No
+140,laptop gaming có_thể nâng_cấp những bộ_phận nào ?,What
+141,người nào đã lên kế_hoạch cho chuyến đi này ?,Who
+142,chỗ nào có tổ_chức hội_chợ việc_làm ?,Where
+143,khi nào bạn cần hoàn_thành báo_cáo ?,When
+144,lí_do khiến giới trẻ thích mua_sắm trực_tuyến ?,Why
+145,làm_sao để duy_trì chế_độ ăn_uống lành_mạnh ?,How
+146,bạn chọn đi học trực_tiếp hay học trực_tuyến ?,What
+147,hôm_nay bạn có cảm_thấy khỏe không ?,Yes/No
+148,điều bạn mong_muốn nhất trong năm nay ?,What
+149,ai là người truyền_cảm_hứng lớn nhất trong cuộc_sống của bạn ?,Who
+150,bao_nhiêu tiền cần để đi du_lịch châu_âu ?,Quantity
+151,tôi có_thể học cách làm đồ thủ_công ở đâu ?,Where
+152,khi nào bạn định thử một công_việc mới ?,When
+153,tại_sao chúng_ta nên đọc sách mỗi ngày ?,Why
+154,làm thế_nào để thiết_kế một căn phòng đẹp ?,How
+155,bạn thường_thức khuya hay dậy sớm để học ?,What
+156,có phải bạn đã quên mang theo tài_liệu không ?,Yes/No
+157,muốn cải_thiện kỹ_năng học_tập cần làm gì ?,What
+158,ai đã mời bạn đến tham_gia sự_kiện này ?,Who
+159,khi nào bạn có_thể nộp bài_tập cuối kỳ ?,When
+160,tại_sao bạn lại chọn học đại_học ở thành_phố này ?,Why
+161,cách để quản_lý chi_tiêu hàng tháng ?,How
+162,bạn sẽ chọn làm_việc ở công_ty lớn hay công_ty nhỏ ?,What
+163,cái gì là điểm mạnh nhất của bạn trong công_việc ?,What
+164,ai đã giúp bạn vượt qua khó_khăn lần trước ?,Who
+165,tìm_kiếm các tài_liệu chuyên_ngành ở đâu ?,Where
+166,khi nào bạn sẽ nhận được thông_báo kết_quả ?,When
+167,lí_do nào khiến bạn lại không tham_gia buổi họp hôm_qua ?,Why
+168,làm thế_nào để giữ cân_bằng giữa công_việc và cuộc_sống ?,How
+169,bạn thích sống ở thành_phố hay vùng quê ?,Where
+170,điều bạn cảm_thấy tự_hào về bản_thân ?,What
+171,ai là người bạn ngưỡng_mộ nhất trong ngành của mình ?,Who
+172,thời_điểm phù_hợp để mua hoa đào chơi tết ?,When
+173,tại_sao loài cá_voi lại lớn như_vậy ?,Why
+174,làm_sao để học cách chơi guitar nhanh hơn ?,How
+175,bạn muốn tham_gia câu_lạc_bộ sách hay câu_lạc_bộ âm_nhạc ?,What
+176,có nên mua những laptop gaming mỏng nhẹ ?,Yes/No
+177,điều gì giúp bạn duy_trì sự tập_trung khi làm_việc ?,What
+178,ai là người đóng_góp nhiều nhất trong nhóm ?,Who
+179,ở đâu có_thể tham_gia khóa_học ngắn_hạn về lập_trình ?,Where
+180,khi nào bạn sẽ gửi báo_cáo tài_chính ?,When
+181,tại_sao con_người lại mơ khi ngủ ?,Why
+182,làm thế_nào để cải_thiện mối quan_hệ với đồng_nghiệp ?,How
+183,bạn chọn tham_gia chuyến đi cuối tuần này hay ở nhà nghỉ_ngơi ?,What
+184,lớp et-e16 02 - k67 có bao_nhiêu sinh_viên ?,Quantity
+185,ai là người đã viết bài báo khoa_học này ?,Who
+186,khi nào bạn dự_định học thêm kỹ_năng mới ?,When
+187,tại_sao bạn lại quyết_định rời bỏ công_việc cũ ?,Why
+188,làm_sao để lên kế_hoạch cho một chuyến du_lịch ?,How
+189,bạn thích làm_việc nhóm hay làm_việc độc_lập hơn ?,What
+190,yếu_tố quan_trọng để thành_công trong công_việc ?,What
+191,ai sẽ là người đại_diện phát_biểu trong buổi lễ ?,Who
+192,bạn đã từng thử món ăn đặc_sản của miền trung chưa ?,Yes/No
+193,làm thế_nào để tải ứng_dụng từ app_store ?,How
+194,tại_sao hoa hướng_dương luôn quay về phía mặt_trời ?,Why
+195,tôi có_thể học kỹ_năng nấu_ăn cơ_bản ở đâu ?,Where
+196,kỳ nghỉ lễ sắp tới bạn dự_định đi đâu ?,Where
+197,điều gì làm_bạn cảm_thấy tự_hào về đất_nước mình ?,What
+198,có phải bạn đã quên đem theo sách giáo_trình hôm_nay ?,Yes/No
+199,cậu đã làm được bao_nhiêu bài_tập rồi ?,Quantity
+200,làm cách nào để khắc_phục lỗi khi sử_dụng phần_mềm ?,How
+201,ai phát_minh ra điện_thoại_di_động đầu_tiên ?,Who
+202,tại_sao cây_xanh lại cần ánh_sáng mặt_trời để sống ?,Why
+203,bạn thích du_lịch nước_ngoài hay khám_phá trong nước hơn ?,What
+204,chiếc áo này có phải là sản_phẩm mới nhất trong bộ sưu_tập không ?,Yes/No
+205,khi nào bạn sẽ bắt_đầu học đàn piano ?,When
+206,ai đã giúp bạn hoàn_thành bài_tập lớn này ?,Who
+207,ở đâu bán_sách giáo_trình với giá ưu_đãi ?,Where
+208,điều gì khiến bạn cảm_thấy hạnh_phúc nhất trong công_việc ?,What
+209,làm_sao để tiết_kiệm năng_lượng khi sử_dụng điều hòa ?,How
+210,liệu ai có thay_thế con_người không ?,Yes/No
+211,món ăn nào bạn yêu thích nhất trong dịp tết ?,What
+212,tại_sao chúng_ta cần bảo_vệ môi_trường sống ?,Why
+213,lớp yoga buổi tối mở ở đâu ?,Where
+214,khi nào bạn dự_định mua máy_tính mới ?,When
+215,điều gì làm_bạn cảm_thấy tự_tin khi trình_bày trước đám đông ?,What
+216,làm thế_nào để tăng_cường khả_năng giao_tiếp tiếng anh ?,How
+217,ai có nguy_hiểm không ?,Yes/No
+218,cần bao_nhiêu tiền để mở một cửa_hàng nhỏ ?,Quantity
+219,bạn muốn tham_gia câu_lạc_bộ âm_nhạc hay thể_thao ?,What
+220,ai là người phụ_trách tổ_chức sự_kiện tuần này ?,Who
+221,điều gì giúp bạn duy_trì động_lực học_tập ?,What
+222,làm cách nào để cải_thiện chất_lượng không_khí trong nhà ?,How
+223,có ai trong gia_đình bạn từng học ở trường này không ?,Yes/No
+224,khi nào là thời_điểm tốt nhất để tập_thể_dục mỗi ngày ?,When
+225,tại_sao trẻ_em cần ngủ đủ giấc mỗi ngày ?,Why
+226,có đúng không khi cho rằng trí_tuệ nhân_tạo đang dần thay_thế con_người trong nhiều lĩnh_vực ?,Yes/No
+227,ở đâu có dịch_vụ chăm_sóc thú cưng uy_tín ?,Where
+228,lý_do chính khiến bạn chọn ngành học này ?,Why
+229,người đầu_tiên chinh_phục đỉnh everest là ?,Who
+230,bạn muốn dùng món tráng miệng nào trong thực_đơn hôm_nay ?,What
+231,điều gì bạn thấy thú_vị nhất khi làm_việc nhóm ?,What
+232,làm thế_nào để phát_triển tư_duy sáng_tạo ?,How
+233,khi nào bạn sẽ tổ_chức sinh_nhật cho con ?,When
+234,điều gì khiến bạn muốn trở_thành nhà_khoa_học ?,What
+235,tại_sao các loài chim lại di_cư vào mùa đông ?,Why
+236,bạn đã từng tham_gia lớp_học nấu_ăn truyền_thống chưa ?,Yes/No
+237,tìm_hiểu về lịch_sử việt_nam chi_tiết ở đâu ?,Where
+238,điều gì khiến bạn tin_tưởng sản_phẩm này hơn ?,What
+239,làm_sao để sắp_xếp công_việc khoa_học hơn ?,How
+240,có phải bạn đang tìm_kiếm một công_việc mới không ?,Yes/No
+241,bao_nhiêu người tham_gia chương_trình thiện_nguyện lần trước ?,Quantity
+242,khi nào bạn sẽ đi du_lịch cùng gia_đình ?,When
+243,điều gì làm_bạn cảm_thấy yêu_thích môn toán_học ?,What
+244,làm cách nào để cải_thiện khả_năng viết luận_văn ?,How
+245,có ai trong lớp đã nộp bài_tập chưa ?,Yes/No
+246,chỗ nào bán các sản_phẩm thủ_công mỹ_nghệ độc_đáo ?,Where
+247,bạn sẽ chọn máy_ảnh kỹ_thuật_số hay máy_ảnh film ?,What
+248,tại_sao các loài động_vật cần môi_trường sống tự_nhiên ?,Why
+249,"chơi game crack , dùng windows lậu có sao không ?",Yes/No
+250,chủ_đề nào làm_bạn thấy hứng_thú nhất ?,What
+251,khi nào là thời_điểm thích_hợp để bắt_đầu một sở_thích mới ?,When
+252,ai sẽ là người hướng_dẫn bạn trong khóa_học này ?,Who
+253,điều gì khiến bạn quyết_định thay_đổi phong_cách sống ?,What
+254,làm thế_nào để bảo_vệ dữ_liệu cá_nhân khi sử_dụng mạng xã_hội ?,How
+255,có phải bạn đã từng tham_gia các cuộc thi tranh_biện không ?,Yes/No
+256,bao_nhiêu giờ bạn dành để học ngoại_ngữ mỗi tuần ?,Quantity
+257,bạn muốn đi thăm bảo_tàng hay công_viên sinh_thái vào cuối tuần ?,Yes/No
+258,tại_sao chúng_ta cần tái_chế rác_thải nhựa ?,Why
+259,điều gì làm_bạn thấy thư_giãn sau một ngày làm_việc dài ?,What
+260,ai hoạt_động như_thế_nào ?,How
+261,người đã giới_thiệu bạn vào công_việc hiện_tại ?,Who
+262,bạn muốn học thêm ngoại_ngữ nào ngoài tiếng anh ?,What
+263,chỗ nào cung_cấp các khóa_học miễn_phí về thiết_kế đồ họa ?,Where
+264,điều gì khiến bạn nhớ nhất về thời đi học ?,What
+265,khi nào bạn dự_định tham_gia các khóa_học phát_triển kỹ_năng ?,When
+266,làm_sao để giảm_thiểu tác_động tiêu_cực từ ô_nhiễm tiếng ồn ?,How
+267,tại_sao con_người cần phát_triển công_nghệ xanh ?,Why
+268,bạn đã từng thử nấu món ăn_theo phong_cách nước_ngoài chưa ?,Yes/No
+269,tôi có_thể tìm_kiếm các bài viết học_thuật uy_tín ở đâu ?,Where
+270,giới_hạn của ai về mặt phát_triển là gì ?,What
+271,ai đã truyền cảm_hứng cho bạn trong hoạt_động này ?,Who
+272,điều gì làm_bạn cảm_thấy hứng_thú khi tham_gia hoạt_động ngoại_khóa ?,What
+273,khắc_phục lỗi màn_hình không hiển_thị chuột bằng cách nào ?,How
+274,bạn đã từng nghĩ đến việc bắt_đầu khởi_nghiệp chưa ?,Yes/No
+275,khi nào là thời_điểm thích_hợp để học cách đầu_tư ?,When
+276,tại_sao chúng_ta nên chú_trọng đến sức_khỏe tinh_thần ?,Why
+277,điều gì làm_bạn cảm_thấy hạnh_phúc trong cuộc_sống hàng ngày ?,What
+278,làm cách nào để lập kế_hoạch học_tập hiệu_quả ?,How
+279,có phải bạn đang tìm_hiểu về các chương_trình trao_đổi sinh_viên không ?,Yes/No
+280,đăng_ký các lớp_học kỹ_năng mềm ở đâu ?,Where
+281,bạn muốn chọn làm_việc ở thành_phố lớn hay vùng quê yên_tĩnh ?,Where
+282,điều gì khiến bạn cảm_thấy yêu_thích việc đi du_lịch ?,What
+283,làm_sao để chọn một cuốn sách phù_hợp với sở_thích ?,How
+284,khi nào bạn sẽ tổ_chức buổi họp_mặt gia_đình ?,When
+285,tại_sao chúng_ta nên học_hỏi từ những thất_bại ?,Why
+286,bạn đã từng tham_gia các buổi hòa_nhạc trực_tiếp chưa ?,Who
+287,cái gì là điều đầu_tiên bạn làm khi bắt_đầu một ngày mới ?,What
+288,ai đã giúp bạn trong giai_đoạn khó_khăn nhất ?,Who
+289,điều gì khiến bạn cảm_thấy an_tâm khi làm_việc tại công_ty này ?,What
+290,làm thế_nào để xây_dựng một mối quan_hệ bền_vững ?,How
+291,bạn thích gì hơn : chó hay mèo ?,What
+292,bạn học được kỹ_năng này như_thế_nào ?,How
+293,ai là thủ_tướng đầu_tiên của việt_nam ?,Who
+294,tương_lai của giáo_dục sẽ thay_đổi như_thế_nào ?,How
+295,bạn mong_muốn có bao_nhiêu căn nhà sau 10 năm nữa ?,Quantity
+296,khi nào bạn tốt_nghiệp đại_học ?,When
+297,"bạn thường uống gì vào buổi sáng , trà hay cà_phê ?",What
+298,"nếu có_thể sống ở bất_kỳ nơi nào trên thế_giới , bạn sẽ chọn nơi nào ?",Where
+299,bạn đã tham_gia cuộc họp sáng nay chưa ?,Yes/No
+300,hôm_qua cậu được bao_nhiêu điểm ?,Quantity
+301,nguyên_nhân nào dẫn đến sự thay_đổi khí_hậu ?,Why
+302,ai sẽ dạy lớp_học tuần tới ?,Who
+303,cách nào để tiết_kiệm thời_gian khi làm_việc ?,How
+304,thư_viện gần nhất chỗ nào ?,Where
+305,bạn có đọc sách mỗi ngày không ?,Yes/No
+306,điều gì quan_trọng nhất trong cuộc_sống của bạn ?,What
+307,bao_giờ công_ty tổ_chức hội_thảo ?,When
+308,đây có phải là món ăn bạn thích không ?,Yes/No
+309,thành_phố nào là thủ_đô của việt_nam ?,Where
+310,làm thế_nào để giảm cân hiệu_quả ?,How
+311,bạn có bao_nhiêu người bạn thân ?,Quantity
+312,công_ty của bạn có bao_nhiêu nhân_viên ?,Quantity
+313,bạn thường nghe loại nhạc nào khi thư_giãn ?,What
+314,điều gì sẽ xảy ra nếu bạn trúng xổ_số ?,What
+315,lịch_sử việt_nam bắt_đầu từ khi nào ?,When
+316,người nào chịu trách_nhiệm về dự_án này ?,Who
+317,điều gì khiến bạn chọn một công_việc mới ?,What
+318,tại_sao bạn quyết_định chuyển ngành học ?,Why
+319,làm_sao để giải bài_toán này ?,How
+320,bạn sẽ làm_gì nếu không có internet trong một tuần ?,How
+321,bạn học trung_học ở trường nào ?,Where
+322,tại_sao bạn nghỉ làm_việc ở công_ty trước ?,Why
+323,làm thế_nào để tạo một kế_hoạch tài_chính hiệu_quả ?,How
+324,địa_điểm nào nổi_tiếng nhất ở việt_nam ?,Where
+325,"nếu không làm công_việc này , bạn sẽ làm gì ?",What
+326,ai đã sáng_lập ra shopee ?,Who
+327,bạn đã gặp anh ấy lần đầu khi nào ?,When
+328,bao_nhiêu tiền là đủ để mua nhà ?,Quantity
+329,đây có phải là quyết_định cuối_cùng của bạn không ?,Yes/No
+330,cái gì làm_bạn cảm_thấy hạnh_phúc ?,What
+331,lý_do nào khiến bạn chọn học ngành này ?,Why
+332,bạn đã hoàn_thành bao_nhiêu dự_án trong năm nay ?,Quantity
+333,làm thế_nào để sửa lỗi phần_mềm này ?,How
+334,loại sách nào bạn hay đọc khi có thời_gian rảnh ?,What
+335,ai là người đứng đầu bộ_phận nhân_sự ?,Who
+336,thành_phố nào bạn muốn ghé thăm nhất ?,Where
+337,tại_sao bạn thích làm_việc tại công_ty này ?,Why
+338,công_nghệ này hoạt_động như_thế_nào ?,How
+339,khi nào bạn định kết_hôn ?,When
+340,đây có phải là điện_thoại mới của bạn không ?,Yes/No
+341,điều gì là thách_thức lớn nhất trong công_việc của bạn ?,What
+342,vì sao bạn chọn sản_phẩm này thay_vì sản_phẩm khác ?,Why
+343,cách nào nhanh nhất để học một ngôn_ngữ mới ?,How
+344,ai đã giúp bạn vượt qua khó_khăn lần trước ?,Who
+345,ngày nào bạn thích nhất trong tuần ?,When
+346,bao_nhiêu học_sinh đang học trong lớp của bạn ?,Quantity
+347,bạn có muốn tham_gia sự_kiện này không ?,Yes/No
+348,giảng_viên môn nlp lớp bạn là ai ?,Who
+349,thành_phố nào bạn nghĩ là đáng sống nhất ?,Where
+350,bạn sẽ làm gì nếu trúng giải độc_đắc ?,How
+351,tại_sao bạn muốn chuyển đến sống ở thành_phố này ?,Why
+352,làm thế_nào để tiết_kiệm chi_phí khi mua_sắm ?,How
+353,giảng_viên môn nlp của bạn rất tuyệt_vời phải không ?,Yes/No
+354,ai là người gửi email đó cho bạn ?,Who
+355,đây có phải là lần đầu_tiên bạn đến đây không ?,Yes/No
+356,khi nào bạn định bắt_đầu dự_án mới ?,When
+357,địa_điểm nào ở việt_nam bạn muốn đến nhất ?,Where
+358,điều gì khiến bạn cảm_thấy hứng_thú với công_việc hiện_tại ?,What
+359,ai là người lãnh_đạo nhóm của bạn ?,Who
+360,vì sao bạn lại thay_đổi quyết_định ?,Why
+361,bạn sẽ làm_gì nếu được nghỉ_phép một tuần ?,How
+362,thành_phố nào nổi_tiếng với món phở ?,Where
+363,bạn đã tham_gia lớp_học đó chưa ?,Yes/No
+364,làm thế_nào để quản_lý thời_gian hiệu_quả hơn ?,How
+365,bạn có bao_nhiêu anh_chị_em ?,Quantity
+366,sự_kiện này diễn ra vào ngày nào ?,When
+367,cái gì là ưu_tiên hàng_đầu của bạn trong năm nay ?,What
+368,"khi nào bạn thích đọc sách nhất , buổi sáng hay buổi tối ?",When
+369,tại_sao bạn lại chọn làm_việc ở đây ?,Why
+370,bạn sẽ đi du_lịch ở đâu vào_kỳ nghỉ này ?,Where
+371,cách nào để học lập_trình nhanh nhất ?,How
+372,khi nào bạn có_thể gửi báo_cáo cho tôi ?,When
+373,bao_nhiêu tiền để bạn mua chiếc xe này ?,Quantity
+374,đây có phải là lần cuối_cùng bạn gặp anh ấy không ?,Yes/No
+375,điều gì khiến bạn cảm_thấy lo_lắng nhất ?,What
+376,bạn sẽ chọn người nào để dẫn_dắt dự_án ?,Who
+377,khi nào bạn sẽ quyết_định chọn ngành học ?,When
+378,"nếu không phải hôm_nay , bạn sẽ chọn ngày nào ?",When
+379,bạn nghĩ rằng công_nghệ ảnh_hưởng đến cuộc_sống như_thế_nào ?,What
+380,khi nào bạn sẽ tổ_chức tiệc cưới ?,When
+381,khi nào bạn muốn học một kỹ_năng mới ?,When
+382,làm thế_nào bạn có_thể cải_thiện kỹ_năng giao_tiếp ?,How
+383,cái gì là yếu_tố quyết_định trong thành_công ?,What
+384,bạn đã viết được bao_nhiêu trang cho báo_cáo ?,Quantity
+385,đây có phải là giải_pháp tốt nhất không ?,Yes/No
+386,ai sẽ đưa ra quyết_định cuối_cùng ?,Who
+387,bạn thích ăn_ở nhà_hàng nào nhất ?,Where
+388,khi nào bạn cảm_thấy mình trưởng_thành hơn ?,When
+389,bạn sẽ chọn địa_điểm nào để nghỉ_dưỡng ?,Where
+390,bạn sinh ra ở đâu ?,Where
+391,có bao_nhiêu người đã tham_gia buổi họp hôm_nay ?,Quantity
+392,điều gì làm_bạn cảm_thấy tự_hào nhất ?,What
+393,tại_sao bạn cảm_thấy hạnh_phúc với công_việc này ?,Why
+394,cách nào để đạt được mục_tiêu trong thời_gian ngắn ?,How
+395,địa_điểm nào bạn sẽ chọn để tổ_chức tiệc cưới ?,Where
+396,bạn có đồng_ý với quyết_định của họ không ?,Yes/No
+397,khi nào bạn nghĩ là thời_điểm thích_hợp để đầu_tư ?,When
+398,điều gì khiến bạn quyết_định học ở nước_ngoài ?,Why
+399,bạn muốn du_lịch ở đâu để khám_phá mạo_hiểm hoặc thư_giãn ?,Where
+400,ai đã phát_minh ra bóng_đèn ?,Who
+401,bạn đã thực_hiện bao_nhiêu cuộc_gọi hôm_qua ?,Quantity
+402,tại_sao bạn chọn học ngành công_nghệ_thông_tin ?,Why
+403,cách nào bạn sử_dụng để tìm_kiếm thông_tin nhanh nhất ?,How
+404,bạn đã từng thử món ăn này chưa ?,Yes/No
+405,bạn thường đến quán cà_phê nào ?,Where
+406,ai là người trả tiền ăn hôm_qua ?,Who
+407,bạn có bao_nhiêu món đồ cần mua ?,Quantity
+408,bạn học ngoại_ngữ như_thế_nào ?,How
+409,thời_điểm nào bạn thấy khó_khăn nhất ?,When
+410,bạn nghĩ rằng thế_giới sẽ thay_đổi ra sao trong 20 năm tới ?,What
+411,bạn có muốn tham_gia cuộc thi này không ?,Yes/No
+412,điều gì làm_bạn cảm_thấy yêu_đời hơn ?,What
+413,tại_sao bạn không tham_gia sự_kiện lần trước ?,Why
+414,trong lớp bạn có bao_nhiêu học_sinh ?,Quantity
+415,khi nào bạn nhận ra sở_thích của mình ?,When
+416,bạn đã ghé thăm bao_nhiêu quốc_gia ?,Quantity
+417,ai là nhà vô_địch giải đấu năm nay ?,Who
+418,bạn đã từng đến thăm thành_phố đà_nẵng chưa ?,Yes/No
+419,bạn sẽ làm gì nếu gặp lại người bạn cũ ?,How
+420,khái_niệm nào là cơ_bản nhất trong vật_lý ?,What
+421,sinh_viên xuất_sắc đại_học bách_khoa hà_nội tốt_nghiệp có được lương nghìn đô không ?,Yes/No
+422,"nếu bạn được chọn đi du_lịch miễn_phí , bạn sẽ đi đâu ?",Where
+423,cách nào tốt nhất để tiết_kiệm tiền ?,How
+424,nơi nào bạn nghĩ là tốt nhất để học_tập ?,Where
+425,món quà nào bạn muốn nhận vào sinh_nhật ?,What
+426,ai là người đã gợi_ý cho bạn cuốn sách bạn thích nhất ?,Who
+427,bạn đã dành bao_nhiêu giờ để hoàn_thành bài_tập ?,Quantity
+428,khi nào bạn dự_định hoàn_thành dự_án này ?,When
+429,điều gì bạn muốn thay_đổi trong tương_lai ?,What
+430,ai sẽ tham_gia cùng bạn trong chuyến du_lịch sắp tới ?,Who
+431,điều gì khiến bạn chọn ngành học này ?,What
+432,ai đã viết bài hát này ?,Who
+433,đây có phải là lựa_chọn cuối_cùng của bạn không ?,Yes/No
+434,đâu là nơi bạn cảm_thấy bình_yên nhất ?,Where
+435,bạn có nghĩ rằng mình sẽ thành_công không ?,Yes/No
+436,điều gì khiến bạn yêu thích lĩnh_vực giáo_dục ?,Why
+437,thành_phố nào bạn thích sống nhất ?,Where
+438,lý_do nào khiến bạn chọn sản_phẩm này ?,Why
+439,số_lượng khách mời dự_kiến là bao_nhiêu ?,Quantity
+440,làm thế_nào bạn vượt qua những khó_khăn trong cuộc_sống ?,How
+441,loại sách nào bạn thích đọc nhất ?,What
+442,bạn nghĩ rằng công_nghệ ảnh_hưởng đến cuộc_sống như_thế_nào ?,What
+443,ai là người đã truyền cảm_hứng cho bạn ?,Who
+444,bạn thường làm gì để thư_giãn sau một ngày dài ?,How
+445,bạn có cảm_thấy cần thêm thời_gian không ?,Yes/No
+446,ngày nào bạn cảm_thấy hạnh_phúc nhất trong đời ?,When
+447,đây có phải là lần đầu bạn đến_nơi này không ?,Yes/No
+448,loại_hình nghệ_thuật nào bạn thấy thú_vị nhất ?,What
+449,bạn nghĩ gì về giá_trị của lòng trung_thực ?,What
+450,thời_điểm nào bạn thấy bản_thân mạnh_mẽ nhất ?,When
+451,ai sẽ đại_diện công_ty tham_dự buổi hội_thảo ?,Who
+452,cái gì giúp bạn vượt qua những thử_thách ?,What
+453,làm thế_nào để bạn tạo động_lực cho nhân_viên ?,How
+454,bạn thích loại phim nào nhất ?,What
+455,tại_sao bạn nghĩ rằng kế_hoạch này sẽ thành_công ?,Why
+456,bạn muốn làm_gì trong thời_gian rảnh_rỗi ?,What
+457,điều gì là nguồn động_lực lớn nhất của bạn ?,What
+458,cách nào để quản_lý dự_án hiệu_quả hơn ?,How
+459,cố_vấn học_tập của lớp et-e16 02 - k67 là ai ?,Who
+460,lớp et-e16 02 - k67 có bao_nhiêu sinh_viên ?,Quantity
+461,lớp et-e16 02 - k67 có sinh_viên nước_ngoài không ?,Yes/No
+462,làm thế_nào để đạt được học_bổng ?,How
+463,"cần làm gì để đạt được danh_hiệu "" sinh_viên 5 tốt """,How
+464,bạn đã học được những điều gì từ môn nlp ?,What
+465,bạn có thường_xuyên tham_gia các hoạt_động tình_nguyện không ?,Yes/No
+466,làm thế_nào bạn chọn được món ăn trong thực_đơn ?,How
+467,mỗi ngày bạn học bao_nhiêu giờ ?,Quantity
+468,người đàn_ông cao nhất thế_giới là ai ?,Who
+469,seeecup diễn ra_vào khi nào ?,When
+470,điều gì làm ảnh_hưởng đến kết_quả học_tập của bạn ?,What
+471,bạn có kế_hoạch gì để cải_thiện kết_quả học_tập của mình ?,How
+472,bạn làm thế_nào để chọn được sản_phẩm điện_thoại phù_hợp ?,How
+473,thủ_đô của nước đức là gì ?,Where
+474,bạn thường làm gì để giảm stress ?,How
+475,"trong tuần qua , bạn đã nghe bao_nhiêu bài hát thuộc_thể_loại bạn thích ?",Quantity
+476,bạn cao bao_nhiêu cm ?,Quantity
+477,tại_sao bạn lại chọn ngành truyền_thông_số và kỹ_thuật đa phương_tiện ?,Why
+478,bạn hài_lòng với lựa_chọn này chứ ?,Yes/No
+479,làm thế_nào để học tốt các môn đại_cương ?,How
+480,bạn có yêu đại_học bách_khoa hà_nội không ?,Yes/No
+481,bạn nghĩ ai sẽ là nhà vô_địch seeecup 2024 ?,Who
+482,điều gì làm_bạn cảm_thấy hạnh_phúc nhất ?,What
+483,hiệu_trưởng của trường điện - điện_tử là ai ?,Who
+484,câu slogan của sinh_viên trường điện - điện_tử là gì ?,What
+485,bch seee có phải là ngôi nhà thứ hai của bạn không ?,Yes/No
+486,một tháng bạn thường đọc bao_nhiêu cuốn sách ?,Quantity
+487,bạn sẽ làm gì vào noel năm nay ?,What
+488,bạn có người_yêu chưa ?,Yes/No
+489,bạn có thích học_toán hơn văn_không ?,Yes/No
+490,ai là người truyền_cảm_hứng lớn nhất trong cuộc_sống của bạn ?,Who
+491,món quà nào bạn đã nhận được mà bạn trân_trọng nhất ?,What
+492,khi nào bạn cảm_thấy tự_hào nhất về bản_thân ?,When
+493,tại_sao bạn chọn học tại ngôi trường này ?,Why
+494,bạn thường làm gì để giữ tinh_thần lạc_quan trong những ngày khó_khăn ?,How
+495,có phải bạn thường ưu_tiên nghỉ_ngơi vào cuối tuần ?,Yes/No
+496,điều gì làm_bạn ấn_tượng nhất khi lần đầu_tiên gặp_gỡ ai đó ?,What
+497,kỳ nghỉ cuối_cùng bạn đi đâu ?,Where
+498,bạn có chọn làm_việc ở công_ty yêu_thích nếu được mời không ?,Yes/No
+499,bạn đã bao_giờ tham_gia vào một khóa_học quân_sự chưa ?,Yes/No
+500,làm thế_nào để bạn đối_mặt với áp_lực trong công_việc hoặc học_tập ?,How
+501,bạn nghĩ việc sử_dụng công_nghệ có ảnh_hưởng tích_cực hay tiêu_cực đến trẻ_em ?,What
+502,bạn có muốn học lý_thuyết hơn thực_hành không ?,Yes/No
+503,điều gì khiến bạn ngủ nhiều như_vậy ?,What
+504,bạn đã từng nghĩ đến việc thử_thách bản_thân với một kỹ_năng mới chưa ?,Yes/No
+505,khi nào bạn cảm_thấy mình đang làm điều đúng_đắn nhất ?,When
+506,bạn muốn được sinh_sống ở đâu nếu không phải ở quê_hương của mình ?,Where
+507,làm thế_nào để bạn giúp bạn_bè vượt qua khó_khăn ?,How
+508,ai là người đầu_tiên bạn muốn chia_sẻ khi có một tin_vui ?,Who
+509,"nếu có_thể quay ngược thời_gian , bạn muốn sửa_chữa điều gì trong quá_khứ ?",What
+510,có phải bạn thích các hoạt_động ngoài_trời hơn ở nhà ?,Yes/No
+511,bạn có cảm_thấy thoải_mái khi làm_việc nhóm không ?,Yes/No
+512,tại_sao bạn lại chọn ngành học hoặc nghề_nghiệp hiện_tại ?,Why
+513,bạn thường dành bao_nhiêu thời_gian để tập_thể_dục mỗi tuần ?,Quantity
+514,khi nào bạn bắt_đầu cảm_thấy mình thực_sự trưởng_thành ?,When
+515,bạn nghĩ yếu_tố quan_trọng nhất để xây_dựng một mối quan_hệ tốt_đẹp là gì ?,What
+516,bạn sẽ làm gì để kỷ_niệm một ngày đặc_biệt của mình ?,How
+517,món ăn truyền_thống nào bạn cảm_thấy tự_hào nhất khi giới_thiệu cho bạn_bè quốc_tế ?,What
+518,bạn có_thể giải_thích cách bạn quản_lý thời_gian trong lịch_trình bận_rộn không ?,How
+519,điều gì làm_bạn cảm_thấy khó_khăn nhất khi học một ngôn_ngữ mới ?,What
+520,tại_sao bạn chọn loại âm_nhạc này để thư_giãn ?,Why
+521,bạn nghĩ gì về ý_tưởng làm_việc từ xa trong tương_lai ?,What
+522,ai là người bạn cảm_thấy biết_ơn nhất trong cuộc_sống của mình ?,Who
+523,khi nào là lần cuối_cùng bạn dành thời_gian cho gia_đình một_cách trọn_vẹn ?,When
+524,bạn nghĩ điều gì tạo nên một nhà_lãnh_đạo tốt ?,What
+525,bạn sẽ làm gì nếu trúng số độc_đắc ?,How
+526,khi nào bạn cảm_thấy cần phải thay_đổi thói_quen hiện_tại ?,When
+527,bạn đã bao_giờ thử_nghiệm một công_thức nấu_ăn mới chưa ?,Yes/No
+528,làm thế_nào để bạn duy_trì sự tập_trung trong công_việc ?,How
+529,tại_sao bạn nghĩ rằng việc học_tập suốt đời là quan_trọng ?,Why
+530,"nếu có cơ_hội , bạn sẽ chọn làm_việc ở ngành_nghề nào khác ?",What
+531,bạn nghĩ như_thế_nào về việc xây_dựng thói_quen bảo_vệ môi_trường ?,What
+532,bạn có_thể chia_sẻ một kỷ_niệm đáng nhớ về thời đi học không ?,What
+533,ai là người đã có ảnh_hưởng lớn đến quyết_định quan_trọng nhất của bạn ?,Who
+534,làm thế_nào để bạn vượt qua nỗi sợ_hãi trong cuộc_sống ?,How
+535,bạn đã bao_giờ phải đưa ra một quyết_định khó_khăn chưa ?,Yes/No
+536,tại_sao bạn thích sách thay_vì các phương_tiện giải_trí khác ?,Why
+537,bạn nghĩ như_thế_nào về việc kết_hợp trí_tuệ nhân_tạo vào cuộc_sống hàng ngày ?,What
+538,bạn có kế_hoạch gì đặc_biệt cho tương_lai gần không ?,Yes/No
+539,"nếu chỉ còn một ngày để sống , bạn sẽ làm gì ?",How
+540,tại_sao bạn nghĩ rằng sự trung_thực là phẩm_chất quan_trọng ?,Why
+541,bạn đã từng thay_đổi ý_kiến của mình về một vấn_đề lớn chưa ?,Yes/No
+542,bạn đã từng làm_việc gì khiến bạn cảm_thấy hối_hận chưa ?,Yes/No
+543,trường điện - điện_tử có bao_nhiêu khoa ?,Quantity
+544,con gà này có_giá bao_nhiêu ?,Quantity
+545,tại_sao bạn muốn học ngành này ?,Why
+546,người_yêu đầu_tiên của bạn là ai ?,Who
+547,khóa học python có_giá bao_nhiêu ?,Quantity
+548,tại_sao mọi người lại thích chơi hơn học ?,Why
+549,bạn đang cố_gắng vì điều gì ?,What
+550,mục_tiêu của bạn sau khi ra trường là gì ?,What
+551,bạn tốt_nghiệp đại_học bách_khoa hà_nội vào năm nào ?,When
+552,tại_sao bạn thích tham_gia các công_tác đoàn - hội ?,Why
+553,điện_thoại của bạn thuộc hãng nào ?,What
+554,"nếu có 1 điều_ước , bạn sẽ ước điều gì ?",What
+555,bạn đã từng không thích một người nào đó chưa ?,Yes/No
+556,trường điện - điện_tử được thành_lập vào năm nào ?,When
+557,trường điện - điện_tử được gộp từ bao_nhiêu viện ?,Quantity
+558,bạn có một ước_mơ lớn nào mà chưa thực_hiện được không ?,Yes/No
+559,tại_sao bạn chọn tổ_chức tiệc cưới ở nhà_hàng đó ?,Why
+560,điều gì làm_bạn cảm_thấy hạnh_phúc mỗi ngày ?,What
+561,bạn có nghĩ rằng công_nghệ sẽ thay_đổi hoàn_toàn cách học trong tương_lai ?,What
+562,bạn có bao_giờ trải qua một tình_huống dở_khóc_dở_cười trong công_việc học_tập ?,Yes/No
+563,bạn nghĩ thế_nào về việc_làm_việc từ xa ?,What
+564,bạn có bao_giờ muốn bắt_đầu một công_việc kinh_doanh riêng không ?,Yes/No
+565,"nếu có_thể trở_thành một chuyên_gia trong một lĩnh_vực nào đó , bạn sẽ chọn gì ?",What
+566,điều gì làm_bạn cảm_thấy tự_hào nhất về bản_thân ?,What
+567,bạn nghĩ gì về việc học_hỏi từ những những người bạn của mình ?,What
+568,bạn cảm_thấy thế_nào khi đối_mặt với những thử_thách mới trong công_việc học_tập ?,How
+569,"nếu có_thể thay_đổi một quyết_định quan_trọng trong cuộc_đời , bạn sẽ thay_đổi gì ?",What
+570,bạn có bao_giờ bị ảnh_hưởng bởi một cuốn sách hoặc bộ phim nào đó không ?,Yes/No
+571,"nếu bạn có_thể sống trong một thời_đại khác , bạn sẽ chọn thời_kỳ nào ?",When
+572,bạn có tin vào định_mệnh không ?,Yes/No
+573,bạn nghĩ gì về việc tìm_kiếm cơ_hội thay_vì chờ_đợi cơ_hội đến ?,What
+574,bạn chọn sử_dụng sản_phẩm nilon hay sản_phẩm đã tái_chế ?,Yes/No
+575,bạn rất yêu bố_mẹ của bạn đúng không ?,Yes/No
+576,bạn đã bao_giờ bị bất_ngờ bởi một người bạn làm điều tốt_đẹp cho bạn ?,Yes/No
+577,"nếu bạn có_thể gặp một người nổi_tiếng , bạn muốn gặp ai ?",Who
+578,bạn sẽ làm gì nếu có_thể quay lại thời_gian và gặp lại bản_thân 10 năm trước ?,What
+579,"nếu có_thể sống ở một hành_tinh khác , bạn sẽ chọn hành_tinh nào ?",Where
+580,bạn nghĩ gì về việc sống một cuộc_sống tối_giản ?,What
+581,bạn có nghĩ rằng sự tự_lập quan_trọng hơn việc dựa vào người khác không ?,Yes/No
+582,điều gì làm_bạn cảm_thấy kiên_nhẫn nhất trong cuộc_sống ?,What
+583,"nếu bạn có_thể thay_đổi một điều trong xã_hội , bạn sẽ thay_đổi gì ?",What
+584,kỳ này bạn học bao_nhiêu môn ?,Quantity
+585,bạn nghĩ rằng một ngày nào đó tất_cả công_việc sẽ được tự_động hóa ?,Yes/No
+586,nơi nào bạn thấy bình_yên nhất mỗi khi nghĩ về ?,Where
+587,bạn có quyết_tâm đạt được điểm a_môn nlp không ?,Yes/No
+588,bộ dữ_liệu của bạn có bao_nhiêu câu hỏi ?,Quantity
+589,cho hỏi yếu_tố cốt_lõi tạo nên hạnh_phúc gia_đình là gì ?,What
+590,bạn cần làm bao_nhiêu dự_án trong kỳ này ?,Quantity
+591,chuyện gì xảy ra với bạn vậy ? kể mình nghe với ?,What
+592,mọi người cho em hỏi sở_thích như_thế_nào là lành_mạnh ?,What
+593,điều gì trong cuộc_sống này quan_trọng nhất theo quan_điểm của bạn ?,What
+594,mục_tiêu năm nay của bạn là gì ? chia_sẻ cho mọi người cùng biết nhé !,What
+595,món tủ của các bạn là món gì ?,What
+596,recommend cho mình vài cuốn sách hay nên đọc với ?,What
+597,dạo này có phim gì hay không mọi người ?,What
+598,con_vật nào bạn thấy đáng yêu nhất ?,What
+599,"theo mọi người , màu_sắc nào thể_hiện sự sang_trọng ?",What
+600,"du_lịch nước_ngoài , nên đi nước_nào đầu_tiên nhỉ ?",What
+601,nhạc gì nghe lúc buồn là “ auto ” tâm_trạng nhỉ ?,What
+602,công_việc lý_tưởng trong tương_lai của bạn là gì ?,What
+603,ước_mơ lớn nhất đời bạn là gì ?,What
+604,bí_kíp để có nhiều tiền là gì ?,What
+605,vượt qua khó_khăn bạn hay làm gì ?,How
+606,"nấu phở ngon , bí_quyết là gì nhỉ ?",How
+607,cách học thuộc hiệu_quả nhất ?,How
+608,"giữ lửa học_tập , ai có bí_kíp gì không ?",How
+609,"gặp tình_huống khó xử , bạn thường làm gì ?",How
+610,"mỗi sáng thức dậy tràn_đầy năng_lượng , bạn làm thế_nào vậy ?",How
+611,"để sống khỏe mạnh , cần lưu_ý những gì ?",How
+612,xử_lý khủng_hoảng truyền_thông thế_nào cho hiệu_quả ?,How
+613,quản_lý thời_gian sao cho khoa_học ?,How
+614,ai có mẹo gì để tự_tin hơn không ?,How
+615,"xây_dựng mối quan_hệ tốt với đồng_nghiệp , bắt_đầu từ đâu ?",How
+616,"tiết_kiệm tiền hiệu_quả , chia_sẻ kinh_nghiệm đi ạ ?",How
+617,"để đạt được mục_tiêu , chúng_ta cần làm gì ?",How
+618,"học kỹ_năng mới , nên bắt_đầu từ đâu nhỉ ?",How
+619,"chiến_thắng nỗi sợ , có ai làm được chưa , chia_sẻ với ?",How
+620,"trở_thành phiên_bản tốt hơn của chính mình , bạn đã làm điều đó như_thế_nào ?",How
+621,"tìm_kiếm đam_mê , có khó lắm không ?",How
+622,"để hạnh_phúc hơn , mình nên thay_đổi điều gì ?",How
+623,"tạo ra sự khác_biệt cho cộng_đồng , bắt_đầu từ những hành_động nhỏ nào ?",How
+624,dùng mạng xã_hội sao cho văn_minh ?,How
+625,"giảm_thiểu rác_thải nhựa , ai có cao_kiến gì không ?",How
+626,"du_lịch bụi giá rẻ , làm thế_nào nhỉ ?",How
+627,"viết một bài_luận “ chất ” , có bí_kíp gì không ?",How
+628,"phỏng_vấn xin việc , làm_sao để “ ghi_điểm ” với nhà tuyển_dụng ?",How
+629,học “ tủ ” có phải là cách học hiệu_quả ?,How
+630,bạn học làm bánh ở đâu vậy ?_chỉ mình với !,How
+631,làm_sao họ thắng trận đó vậy ?_khó tin thật !,How
+632,đường nào để đi đến đó nhanh nhất ?,How
+633,bạn thấy sao về lựa_chọn của mình ?,How
+634,quan_điểm của bạn về vấn_đề này ?,How
+635,chất_lượng dịch_vụ ở đây bạn đánh_giá thế_nào ?,How
+636,liên_lạc với bạn bằng cách nào ?,How
+637,"lúc rảnh_rỗi , bạn thường làm gì ?",How
+638,"cải_thiện kỹ_năng giao_tiếp , có ai có kinh_nghiệm gì không ?",How
+639,"giảm stress hiệu_quả , mách_mình với ?",How
+640,"tăng_cường trí_nhớ , có phương_pháp nào hay ?",How
+641,"ngủ ngon hơn , làm thế_nào đây ?",How
+642,"viết_lách “ mượt ” hơn , luyện_tập thế_nào nhỉ ?",How
+643,bí_quyết để gây ấn_tượng trong lần gặp đầu_tiên ?,How
+644,"để sáng_tạo hơn , cần thay_đổi tư_duy như_thế_nào ?",How
+645,"ra quyết_định đúng_đắn , khó quá , phải làm_sao ?",How
+646,"giữ lửa tình_yêu , có khó lắm không ?",How
+647,"vượt qua thất_vọng , bạn đã làm điều đó như_thế_nào ?",How
+648,"trở_thành leader giỏi , tố_chất cần có là gì ?",How
+649,"học cách tha_thứ , liệu có dễ_dàng ?",How
+650,"xây_dựng sự_nghiệp , bắt_đầu từ đâu là hợp_lý ?",How
+651,"áp_lực công_việc , làm_sao để vượt qua đây ?",How
+652,"tìm sự giúp_đỡ khi cần_thiết , có ngại lắm không ?",How
+653,"cân_bằng công_việc và cuộc_sống , có bí_kíp gì không ạ ?",How
+654,"phát_triển bản_thân , nên bắt_đầu từ kỹ_năng nào ?",How
+655,"rèn_luyện tính kiên_nhẫn , ai có phương_pháp gì hay không ?",How
+656,"giải_quyết mâu_thuẫn , làm thế_nào cho êm_đẹp ?",How
+657,"lắng_nghe hiệu_quả , có phải ai cũng làm được ?",How
+658,"tự_tin vào bản_thân , làm thế_nào để có được ?",How
+659,"chống lại sự trì_hoãn , có cách nào hay không ?",How
+660,"ý_nghĩa cuộc_sống , bạn đã tìm thấy chưa ?",How
+661,sống sao cho ý_nghĩa nhỉ ?,How
+662,"đóng_góp cho xã_hội , nên bắt_đầu từ đâu ?",How
+663,"trở_thành người có_ích , có khó không mọi người ?",How
+664,"để tương_lai tốt_đẹp hơn , chúng_ta cần làm gì ngay từ bây_giờ ?",How
+665,bạn giỏi thế_là do đâu ?,How
+666,chỉ mình cách dùng phần_mềm này với ?,How
+667,sửa cái này ở đâu uy_tín_nhỉ ?,How
+668,"làm video “ triệu view ” , có khó không ?",How
+669,"trở_thành kol , cần những yếu_tố gì ?",How
+670,"trồng cây , có kỹ_thuật gì để cây mau lớn không ?",How
+671,"nuôi dạy con , phương_pháp nào là tốt nhất ?",How
+672,"vì sao việc học cách nói "" không "" lại quan_trọng ?",Why
+673,tại_sao thư_viện tạ_quang_bửu luôn đông nghìn_nghịt ?,Why
+674,"nguyên_nhân nào dẫn đến tình_trạng "" cháy "" phòng vào mùa đăng_ký môn_học ?",Why
+675,vì sao đồ_án tốt_nghiệp lại là nỗi ám_ảnh của sinh_viên năm cuối ?,Why
+676,"điều gì làm_nên sự "" khó_nhằn "" của các môn đại_cương ở bách_khoa ?",What
+677,lý_do gì khiến cho việc tìm phòng trọ gần trường lại khó_khăn ?,Why
+678,"nguyên_nhân của việc "" mất gốc "" kiến_thức là gì ?",Why
+679,tại_sao sinh_viên bách_khoa lại thích mặc áo đồng_phục ?,Why
+680,vì sao một_số bạn lại chọn học nhóm thay_vì học một_mình ?,Why
+681,"điều gì làm cho "" mùa hè xanh "" trở_thành một trải_nghiệm đáng nhớ ?",What
+682,tại_sao con_người lại cần nghệ_thuật ?,Why
+683,vì sao chúng_ta lại cảm_thấy hạnh_phúc khi giúp_đỡ người khác ?,Why
+684,lý_do gì khiến một_số người thích đi du_lịch bụi ?,Why
+685,tại_sao việc đọc sách lại quan_trọng cho sự phát_triển cá_nhân ?,Why
+686,"vì sao chúng_ta lại có những trải_nghiệm "" déjà vu "" ?",Why
+687,điều gì thúc_đẩy con_người sáng_tạo ?,What
+688,tại_sao một_số người lại sợ độ cao ?,Why
+689,vì sao chúng_ta lại cảm_thấy ghen_tị với thành_công của người khác ?,Why
+690,lý_do gì khiến một_số người ăn_chay ?,Why
+691,tại_sao việc bảo_vệ môi_trường lại là trách_nhiệm chung của toàn xã_hội ?,Why
+692,vì sao chúng_ta lại thích nghe nhạc buồn khi thất_tình ?,Why
+693,điều gì tạo nên sự khác_biệt giữa tình_bạn và tình_yêu ?,What
+694,tại_sao một_số người lại nghiện mua_sắm ?,Why
+695,vì sao chúng_ta lại cảm_thấy khó_khăn khi đưa ra quyết_định quan_trọng ?,Why
+696,lý_do gì khiến một_số người thích sống một_mình ?,Why
+697,tại_sao học ngoại_ngữ lại mở ra nhiều cơ_hội ?,Why
+698,vì sao chúng_ta lại có những giấc mơ kỳ_lạ ?,Why
+699,điều gì ảnh_hưởng đến sự hình_thành sở_thích cá_nhân ?,What
+700,tại_sao một_số người lại dễ bị stress hơn những người khác ?,Why
+701,vì sao chúng_ta lại cảm_thấy hối_tiếc về những việc mình chưa làm ?,Why
+702,lý_do gì khiến một_số người có khả_năng lãnh_đạo tốt ?,Why
+703,tại_sao đặt mục_tiêu lại giúp chúng_ta thành_công hơn ?,Why
+704,vì sao chúng_ta lại cảm_thấy đồng_cảm với những hoàn_cảnh khó_khăn ?,Why
+705,điều gì tạo nên sự gắn_kết giữa các thành_viên trong một cộng_đồng ?,What
+706,tại_sao một_số người lại sợ thất_bại ?,Why
+707,vì sao chúng_ta lại thích xem phim kinh_dị ?,Why
+708,lý_do gì khiến một_số người có khả_năng thuyết_phục người khác ?,Why
+709,tại_sao việc duy_trì các mối quan_hệ xã_hội lại quan_trọng ?,Why
+710,vì sao chúng_ta lại cảm_thấy hài_lòng khi hoàn_thành một công_việc khó_khăn ?,Why
+711,điều gì ảnh_hưởng đến quyết_định mua hàng của chúng_ta ?,What
+712,tại_sao một_số người lại thích mạo_hiểm ?,Why
+713,vì sao chúng_ta lại cảm_thấy khó_chịu khi bị người khác chỉ_trích ?,Why
+714,lý_do gì khiến một_số người có khả_năng sáng_tạo nghệ_thuật ?,Why
+715,tại_sao việc học cách quản_lý tài_chính cá_nhân lại cần_thiết ?,Why
+716,vì sao chúng_ta lại cảm_thấy vui_vẻ khi được khen_ngợi ?,Why
+717,điều gì tạo nên sự khác_biệt giữa các nền văn_hóa ?,What
+718,tại_sao một_số người lại có trí_nhớ tốt hơn những người khác ?,Why
+719,vì sao chúng_ta lại cảm_thấy bồn_chồn trước những sự_kiện quan_trọng ?,Why
+720,lý_do gì khiến một_số người có khả_năng tự học hiệu_quả ?,Why
+721,tại_sao nói bách_khoa hà_nội là cái nôi của các start-up công_nghệ ?,Why
+722,vì sao chúng_ta lại cảm_thấy khó_chịu khi bị mắc_kẹt trong giao_thông ?,Why
+723,điều gì ảnh_hưởng đến sự tự_tin của một người ?,What
+724,tại_sao một_số người lại thích nuôi thú cưng ?,Why
+725,vì sao chúng_ta lại cảm_thấy tức_giận khi bị đối_xử bất_công ?,Why
+726,lý_do gì khiến một_số người có khả_năng phục_hồi sau thất_bại nhanh hơn ?,Why
+727,"nguyên_nhân của hiện_tượng "" cộng_hưởng đám đông "" là gì ?",Why
+728,vì sao chúng_ta lại cảm_thấy lo_lắng khi phải thuyết_trình trước đám đông ?,Why
+729,điều gì tạo nên sự hấp_dẫn của một người ?,What
+730,tại_sao một_số người lại thích làm_việc nhóm hơn làm_việc độc_lập ?,Why
+731,vì sao chúng_ta lại cảm_thấy hối_hận khi làm tổn_thương người khác ?,Why
+732,lý_do gì khiến một_số người có khả_năng truyền_cảm_hứng cho người khác ?,Why
+733,"nguyên_nhân của hiện_tượng "" bóng_đè "" là gì ?",Why
+734,vì sao chúng_ta lại cảm_thấy căng_thẳng khi phải thay_đổi thói_quen ?,Why
+735,điều gì ảnh_hưởng đến sự phát_triển trí_tuệ cảm_xúc của một người ?,What
+736,tại_sao một_số người lại thích sống ở thành_phố hơn nông_thôn ?,Why
+737,vì sao chúng_ta lại cảm_thấy buồn khi nghe tin người_thân qua_đời ?,Why
+738,lý_do gì khiến một_số người có khả_năng giải_quyết vấn_đề tốt hơn ?,Why
+739,tại_sao việc học cách tha_thứ lại giúp chúng_ta thanh_thản hơn ?,Why
+740,vì sao chúng_ta lại cảm_thấy hào_hứng khi bắt_đầu một dự_án mới ?,Why
+741,điều gì tạo nên sự khác_biệt giữa các thế_hệ ?,What
+742,tại_sao một_số người lại thích chơi game ?,Why
+743,vì sao chúng_ta lại cảm_thấy sợ_hãi khi phải đối_mặt với những điều không chắc_chắn ?,Why
+744,lý_do gì khiến một_số người có khả_năng sáng_tác âm_nhạc ?,Why
+745,tại_sao việc học cách quản_lý cảm_xúc lại quan_trọng ?,Why
+746,vì sao chúng_ta lại cảm_thấy thoải_mái khi ở bên cạnh những người thân_yêu ?,Why
+747,điều gì ảnh_hưởng đến sự lựa_chọn nghề_nghiệp của một người ?,What
+748,tại_sao một_số người lại thích đọc sách trinh_thám ?,Why
+749,vì sao chúng_ta lại cảm_thấy khó_chịu khi bị người khác lừa_dối ?,Why
+750,vì sao thời_gian lại trôi nhanh hơn khi chúng_ta già đi ?,Why
+751,tại_sao việc học cách yêu_thương bản_thân lại quan_trọng ?,Why
+752,vì sao chúng_ta lại cảm_thấy phấn_khích khi đạt được mục_tiêu ?,Why
+753,"điều gì làm cho "" tuổi thanh_xuân "" ở bách_khoa trở_nên đáng nhớ ?",What
+754,tại_sao một_số người lại thích xem phim cổ_trang ?,Why
+755,vì sao chúng_ta lại cảm_thấy hối_tiếc khi không dành đủ thời_gian cho gia_đình ?,Why
+756,lý_do gì khiến một_số người có khả_năng vượt qua nghịch_cảnh ?,Why
+757,tại_sao việc học cách từ_chối lại quan_trọng ?,Why
+758,vì sao chúng_ta lại cảm_thấy buồn_chán khi không có việc gì để làm ?,Why
+759,điều gì ảnh_hưởng đến sự hình_thành giá_trị_quan của một người ?,What
+760,tại_sao một_số người lại thích tập_thể_dục ?,Why
+761,vì sao chúng_ta lại cảm_thấy tức_giận khi chứng_kiến sự bất_công ?,Why
+762,lý_do gì khiến một_số người có khả_năng sáng_tạo ra những ý_tưởng mới ?,Why
+763,tại_sao việc học cách xây_dựng các mối quan_hệ lành_mạnh lại quan_trọng ?,Why
+764,vì sao chúng_ta lại cảm_thấy hạnh_phúc khi được làm điều mình yêu thích ?,Why
+765,điều gì tạo nên sự khác_biệt giữa các quốc_gia ?,What
+766,vì lẽ gì con_người luôn khao_khát tìm_kiếm ý_nghĩa của cuộc_sống ?,Why
+767,nguyên_nhân gì khiến nhiều người trẻ_ngại kết_hôn và sinh con ?,Why
+768,vì sao lừa_đảo qua mạng ngày_càng tinh_vi và phổ_biến ?,Why
+769,"lý_do gì khiến nhiều người mắc các bệnh về tâm_lý như trầm_cảm , lo_âu ?",Why
+770,tại_sao giá xăng_dầu lại biến_động liên_tục ?,Why
+771,lý_do gì khiến giá nhà_đất ở các thành_phố lớn ngày_càng tăng cao ?,Why
+772,tại_sao một_số người lại có thói_quen mua_sắm để giải_tỏa căng_thẳng ?,Why
+773,vì sao ca_sĩ chi_dân lại vướng vào scandal ?,Why
+774,"tại_sao concert của blackpink lại "" cháy vé "" nhanh_chóng ?",Why
+775,tại_sao nhóm nhạc t-ara lại tan_rã dù đang ở đỉnh_cao sự_nghiệp ?,Why
+776,vì sao phong_cách thời_trang của sơn_tùng mtp lại trở_thành xu_hướng ?,Why
+777,lý_do gì khiến một_số nghệ_sĩ bị tẩy_chay ?,Why
+778,tại_sao chương_trình truyền_hình thực_tế này lại thu_hút đông_đảo khán_giả ?,Why
+779,nguyên_nhân sâu_xa đằng sau những cuộc chiến_tranh tôn_giáo là gì ?,Why
+780,bạn dự_định học tiếng nhật khi nào ?,When
+781,thời_điểm nào trong năm bạn thấy thích_hợp nhất để đi du_lịch ?,When
+782,"theo bạn , khi nào một người được coi là trưởng_thành ?",When
+783,chuyến bay của bạn khi nào sẽ cất_cánh ?,When
+784,đến khi nào bạn mới chịu thừa_nhận sai_lầm của mình ?,When
+785,bạn nghĩ bao_giờ thì mình mới mua được nhà ?,When
+786,khi nào bạn cảm_thấy cần phải thay_đổi bản_thân ?,When
+787,lần cuối_cùng bạn đi khám sức khỏe tổng_quát là khi nào ?,When
+788,khi nào bạn nghĩ là thời_điểm thích_hợp để kết_hôn ?,When
+789,bạn thường thức dậy vào lúc mấy giờ ?,When
+790,khi nào bạn cảm_thấy hối_hận vì đã không nỗ_lực hết_mình ?,When
+791,"theo bạn , khi nào thì nên bắt_đầu tiết_kiệm cho tương_lai ?",When
+792,"lần gần nhất bạn khóc là khi nào , vì lý_do gì ?",When
+793,khi nào bạn dự_định sẽ nghỉ hưu ?,When
+794,bạn nghĩ khi nào thì nên bắt_đầu học cách đầu_tư ?,When
+795,thời_điểm nào trong ngày bạn cảm_thấy làm_việc hiệu_quả nhất ?,When
+796,khi nào bạn cảm_thấy cần phải ở một_mình ?,When
+797,"lần cuối bạn nói "" tôi yêu bạn "" với bố_mẹ là khi nào ?",When
+798,khi nào bạn nghĩ rằng mình đã sẵn_sàng để trở_thành cha_mẹ ?,When
+799,bạn thường đi ngủ vào lúc_nào ?,When
+800,khi nào bạn cảm_thấy lo_lắng về tương_lai ?,When
+801,"theo bạn , khi nào thì nên buông bỏ một mối quan_hệ ?",When
+802,lần đầu_tiên bạn biết yêu là khi nào ?,When
+803,bạn nghĩ khi nào thì con_người có_thể đặt_chân lên sao_hỏa ?,When
+804,thời_điểm nào trong quá_khứ bạn muốn quay lại nhất ?,When
+805,khi nào bạn cảm_thấy tự_tin vào bản_thân mình ?,When
+806,lần cuối_cùng bạn làm_việc tốt là khi nào ?,When
+807,khi nào bạn nghĩ là thời_điểm thích_hợp để nói lời xin_lỗi ?,When
+808,bạn thường dành thời_gian cho gia_đình vào lúc_nào ?,When
+809,khi nào bạn cảm_thấy cần phải thay_đổi công_việc ?,When
+810,lần gần nhất bạn học được một điều mới là khi nào ?,When
+811,khi nào bạn dự_định sẽ đi du_lịch một_mình ?,When
+812,bạn nghĩ khi nào thì nên bắt_đầu lập kế_hoạch cho tương_lai ?,When
+813,thời_điểm nào trong năm bạn cảm_thấy hạnh_phúc nhất ?,When
+814,khi nào bạn cảm_thấy cô_đơn và lạc_lõng ?,When
+815,lần cuối bạn_đọc một cuốn sách là khi nào ?,When
+816,khi nào bạn nghĩ là thời_điểm thích_hợp để bắt_đầu lại từ đầu ?,When
+817,bạn thường làm gì vào cuối tuần ?,When
+818,khi nào bạn cảm_thấy hối_tiếc vì đã không nói ra suy_nghĩ của mình ?,When
+819,"theo bạn , khi nào thì nên ngừng theo_đuổi một mục_tiêu ?",When
+820,lần đầu_tiên bạn kiếm được tiền là khi nào ?,When
+821,khi nào bạn dự_định sẽ học thêm một kỹ_năng mới ?,When
+822,bạn nghĩ khi nào thì nên tha_thứ cho bản_thân ?,When
+823,thời_điểm nào trong ngày bạn cảm_thấy thư_giãn nhất ?,When
+824,khi nào bạn cảm_thấy cần phải trốn chạy khỏi thực_tại ?,When
+825,lần cuối bạn dành thời_gian cho sở_thích cá_nhân là khi nào ?,When
+826,khi nào bạn nghĩ là thời_điểm thích_hợp để kết_thúc một tình bạn ?,When
+827,bạn thường suy_nghĩ về tương_lai vào lúc_nào ?,When
+828,khi nào bạn cảm_thấy hối_hận vì đã làm tổn_thương người khác ?,When
+829,"theo bạn , khi nào thì nên đặt ra giới_hạn cho bản_thân ?",When
+830,lần đầu_tiên bạn biết đến mạng xã_hội là khi nào ?,When
+831,khi nào bạn dự_định sẽ mua xe ô_tô ?,When
+832,bạn nghĩ khi nào thì nên ngừng học_hỏi ?,When
+833,thời_điểm nào trong quá_khứ bạn cảm_thấy tự_hào về bản_thân nhất ?,When
+834,khi nào bạn cảm_thấy cần phải thay_đổi thói_quen sinh_hoạt ?,When
+835,lần cuối bạn giúp_đỡ người khác là khi nào ?,When
+836,khi nào bạn nghĩ là thời_điểm thích_hợp để lập gia_đình ?,When
+837,bạn thường nghe nhạc vào lúc_nào ?,When
+838,khi nào bạn cảm_thấy hối_tiếc vì đã không nắm_bắt cơ_hội ?,When
+839,"theo bạn , khi nào thì nên chấp_nhận rủi_ro ?",When
+840,lần đầu_tiên bạn biết nói_dối là khi nào ?,When
+841,khi nào bạn dự_định sẽ nghỉ_việc ?,When
+842,bạn nghĩ khi nào thì nên học cách buông bỏ ?,When
+843,thời_điểm nào trong ngày bạn cảm_thấy suy_nghĩ sáng_suốt nhất ?,When
+844,khi nào bạn cảm_thấy cần phải tìm_kiếm sự giúp_đỡ ?,When
+845,bạn thường gọi điện cho bố_mẹ vào lúc_nào ?,When
+846,khi nào bạn cảm_thấy hối_hận vì đã lãng_phí thời_gian ?,When
+847,"theo bạn , khi nào thì nên tin vào trực_giác ?",When
+848,lần đầu_tiên bạn biết đến bách_khoa hà_nội là khi nào ?,When
+849,khi nào bạn dự_định sẽ tham_gia hoạt_động tình_nguyện ?,When
+850,bạn nghĩ khi nào thì nên học cách lắng_nghe nhiều hơn ?,When
+851,thời_điểm nào trong năm bạn cảm_thấy uể oải nhất ?,When
+852,khi nào bạn cảm_thấy cần phải thay_đổi môi_trường sống ?,When
+853,lần cuối bạn làm_việc nhà là khi nào ?,When
+854,khi nào bạn nghĩ là thời_điểm thích_hợp để đầu_tư vào bản_thân ?,When
+855,bạn thường xem phim vào lúc_nào ?,When
+856,khi nào bạn cảm_thấy hối_hận vì đã không kiên_trì ?,When
+857,"theo bạn , khi nào thì nên đặt câu hỏi về những điều mình tin_tưởng ?",When
+858,lần đầu_tiên bạn sử_dụng máy_tính là khi nào ?,When
+859,khi nào bạn dự_định sẽ học lái_xe ô_tô ?,When
+860,bạn nghĩ khi nào thì nên học cách chấp_nhận thất_bại ?,When
+861,thời_điểm nào trong ngày bạn cảm_thấy tâm_trạng tốt nhất ?,When
+862,khi nào bạn cảm_thấy cần phải tha_thứ cho người khác ?,When
+863,lần cuối bạn đi xem phim rạp là khi nào ?,When
+864,khi nào bạn nghĩ là thời_điểm thích_hợp để bắt_đầu một mối quan_hệ nghiêm_túc ?,When
+865,bạn thường tập_thể_dục vào lúc_nào ?,When
+866,khi nào bạn cảm_thấy hối_hận vì đã không dũng_cảm hơn ?,When
+867,"theo bạn , khi nào thì nên học cách nói "" không "" ?",When
+868,lần đầu_tiên bạn đi máy_bay là khi nào ?,When
+869,khi nào bạn dự_định sẽ viết một cuốn sách ?,When
+870,bạn nghĩ khi nào thì nên học cách yêu_thương bản_thân ?,When
+871,bạn cảm_thấy cần làm_việc chăm_chỉ hơn vào lúc_nào ?,When
+872,lần cuối_cùng bạn thức khuya là khi nào ?,When
+873,ở đâu bán trái_cây tươi sạch giá tốt ?,Where
+874,nơi nào cung_cấp dịch_vụ sửa_chữa điện_thoại uy_tín ?,Where
+875,ở đâu có dịch_vụ giao đồ_ăn nhanh ?,Where
+876,tôi có_thể mua máy_ảnh cũ chất_lượng ở đâu ?,Where
+877,địa_chỉ nào bán quần_áo thời_trang cho nam ở hà_nội ?,Where
+878,chỗ nào cho thuê xe_máy giá rẻ ?,Where
+879,ở đâu có tổ_chức các sự_kiện văn_hóa truyền_thống ?,Where
+880,tôi có_thể học tiếng anh giao_tiếp ở đâu ?,Where
+881,ở đâu có các lớp_học vẽ cơ_bản ?,Where
+882,ở đâu bán đồ trang_trí tết độc_đáo ?,Where
+883,tôi nên sửa xe_đạp ở đâu tại hà_nội ?,Where
+884,chỗ nào bán nhạc_cụ cho người mới học ?,Where
+885,ở đâu bán vé máy_bay giá rẻ ?,Where
+886,nhà_hàng nào có món ăn việt_nam ngon nhất ?,Where
+887,tôi có_thể tham_gia câu_lạc_bộ bóng_đá ở đâu ?,Where
+888,địa_điểm nào phù_hợp để tổ_chức tiệc cưới ?,Where
+889,nơi nào tổ_chức các buổi hòa_nhạc ngoài_trời ?,Where
+890,ở đâu có chợ bán đồ second-hand tốt nhất ?,Where
+891,ở đâu có_thể đổi ngoại_tệ với tỷ giá tốt ?,Where
+892,tôi có_thể mua máy_tính_xách_tay chính hãng ở đâu ?,Where
+893,ở đâu tổ_chức lễ_hội hoa lớn nhất trong năm ?,Where
+894,nơi nào bán bánh_trung_thu ngon và nổi_tiếng ?,Where
+895,tôi có_thể học lái_xe ô_tô ở đâu ?,Where
+896,ở đâu cung_cấp các khóa học yoga cho người mới bắt_đầu ?,Where
+897,ở đâu có cửa_hàng bán sản_phẩm hữu_cơ chất_lượng ?,Where
+898,nhà_sách nào có nhiều đầu_sách học_thuật nhất ?,Where
+899,tôi có_thể thuê người chụp ảnh chuyên_nghiệp ở đâu ?,Where
+900,chỗ nào bán đồ_chơi trẻ_em an_toàn và giá tốt ?,Where
+901,ở đâu có dịch_vụ dọn_dẹp nhà_cửa chuyên_nghiệp ?,Where
+902,nơi nào bán giày thể_thao chính hãng ?,Where
+903,tôi có_thể đặt phòng khách_sạn giá rẻ ở đâu ?,Where
+904,địa_điểm nào nổi_tiếng với cảnh hoàng_hôn đẹp nhất ?,Where
+905,ở đâu có_thể học_nhảy hiện_đại ?,Where
+906,tôi có_thể mua các món đồ lưu_niệm độc_đáo ở đâu ?,Where
+907,chỗ nào có các lớp_học võ_thuật miễn_phí ?,Where
+908,ở đâu có khu vui_chơi giải_trí cho trẻ_em ?,Where
+909,quán cà_phê nào có không_gian yên_tĩnh để học bài ?,Where
+910,tôi có_thể tìm mua vật_liệu xây_dựng giá rẻ ở đâu ?,Where
+911,địa_chỉ nào cung_cấp dịch_vụ spa uy_tín ?,Where
+912,chỗ nào tổ_chức các buổi hội_thảo công_nghệ ?,Where
+913,ở đâu có các quán ăn chay ngon ?,Where
+914,tôi có_thể sửa máy_tính ở đâu nhanh nhất ?,Where
+915,ở đâu có các lớp_học tiếng hàn cho người đi làm ?,Where
+916,chỗ nào bán phụ_kiện điện_thoại giá rẻ ?,Where
+917,tôi có_thể mua vé xem phim trực_tuyến ở đâu ?,Where
+918,ở đâu có các trung_tâm dạy_nhạc chất_lượng ?,Where
+919,tôi nên thuê xe_hơi tự lái ở đâu ?,Where
+920,địa_điểm nào phù_hợp để cắm trại cuối tuần ?,Where
+921,chỗ nào bán đồ trang_sức handmade đẹp ?,Where
+922,ở đâu có_thể học nấu các món ăn việt_nam truyền_thống ?,Where
+923,nơi nào có dịch_vụ sửa_chữa máy_lạnh tại nhà ?,Where
+924,tôi có_thể học múa truyền_thống ở đâu ?,Where
+925,ở đâu bán đồ nội_thất hiện_đại ?,Where
+926,chỗ nào cho thuê văn_phòng chia_sẻ ?,Where
+927,ở đâu có các lớp_học phát_triển kỹ_năng mềm ?,Where
+928,tôi có_thể tìm_kiếm các bài_tập_thể_dục tại nhà ở đâu ?,Where
+929,ở đâu bán các loại cây_cảnh độc_đáo ?,Where
+930,nơi nào có thư_viện mở_cửa 24/7 ?,Where
+931,địa_chỉ nào bán vé xe_khách uy_tín ?,Where
+932,ở đâu có_thể tham_quan di_tích lịch_sử ?,Where
+933,tôi có_thể mua bánh_mì tươi vào sáng sớm ở đâu ?,Where
+934,ở đâu có các khu nghỉ_dưỡng gần biển ?,Where
+935,chỗ nào bán đồ gia_dụng thông_minh ?,Where
+936,địa_điểm nào tổ_chức các buổi hội_thảo khởi_nghiệp ?,Where
+937,tôi có_thể tham_gia các câu_lạc_bộ sách ở đâu ?,Where
+938,ở đâu bán các loại hoa_quả nhập_khẩu chất_lượng ?,Where
+939,tôi nên sửa đồng_hồ ở đâu ?,Where
+940,ở đâu có_thể tham_gia các lớp_học phát_triển cá_nhân ?,Where
+941,địa_chỉ nào cung_cấp dịch_vụ giặt_ủi nhanh ?,Where
+942,tôi có_thể tìm chỗ học sửa_chữa xe_máy ở đâu ?,Where
+943,ở đâu có các khu chợ đêm đông vui ?,Where
+944,chỗ nào bán đồ điện_tử đã qua sử_dụng ?,Where
+945,nơi nào có công_viên giải_trí lớn nhất ?,Where
+946,tôi có_thể thuê thợ sơn nhà ở đâu ?,Where
+947,ở đâu bán các loại đồ_chơi giáo_dục ?,Where
+948,địa_điểm nào nổi_tiếng với các món ăn đường_phố ?,Where
+949,tôi có_thể tìm mua các loại sách ngoại_văn ở đâu ?,Where
+950,chỗ nào bán đồng_hồ chính hãng ?,Where
+951,tôi nên tìm nơi học kỹ_năng giao_tiếp ở đâu ?,Where
+952,nơi nào cung_cấp dịch_vụ chăm_sóc cây_cảnh ?,Where
+953,tôi có_thể tham_gia các khóa_học miễn_phí trực_tuyến ở đâu ?,Where
+954,ở đâu bán_dụng_cụ thể_thao chất_lượng ?,Where
+955,chỗ nào tổ_chức các lớp_học làm bánh ?,Where
+956,tôi có_thể mua vé xem hòa_nhạc ở đâu ?,Where
+957,ở đâu có các lớp_học kỹ_thuật miễn_phí ?,Where
+958,nơi nào tổ_chức các buổi hội_thảo văn_hóa ?,Where
+959,tôi có_thể tìm mua đồ_dùng học_tập giá rẻ ở đâu ?,Where
+960,chỗ nào cung_cấp dịch_vụ lắp_đặt camera an_ninh ?,Where
+961,ở đâu có_thể tham_quan vườn hoa ?,Where
+962,địa_điểm nào tổ_chức hội_thảo về phát_triển kinh_doanh ?,Where
+963,tôi có_thể tìm mua nhạc_cụ cổ_truyền ở đâu ?,Where
+964,chỗ nào tổ_chức các lớp_học ngoại_ngữ vào buổi tối ?,Where
+965,ở đâu có dịch_vụ giao hàng nhanh trong ngày ?,Where
+966,địa_chỉ nào bán đồ_chơi trí_tuệ cho trẻ_em ?,Where
+967,tôi nên học thiết_kế thời_trang ở đâu ?,Where
+968,nơi nào có các lớp_học sáng_tạo nội_dung ?,Where
+969,ở đâu có các khu chợ nổi truyền_thống ?,Where
+970,ai là người đứng đầu chính_phủ việt_nam hiện_nay ?,Who
+971,người phát_minh ra máy_bay là ai ?,Who
+972,ai là người thiết_kế tòa nhà cao nhất thế_giới ?,Who
+973,ai đã viết cuốn tiểu_thuyết “ chiến_tranh và hòa_bình ” ?,Who
+974,người thắng giải_oscar cho nam_diễn_viên chính xuất_sắc nhất năm nay là ai ?,Who
+975,ai đã khởi_xướng phong_trào chống phân_biệt chủng_tộc ở mỹ ?,Who
+976,ai là tác_giả của tác_phẩm “ tắt_đèn ” ?,Who
+977,người sáng_lập công_ty apple là ai ?,Who
+978,ai là nhân_vật lịch_sử được in trên tờ tiền mệnh_giá cao nhất ở việt_nam ?,Who
+979,ai là tổng_thống đầu_tiên của mỹ ?,Who
+980,người phát_hiện ra_thuyết tương_đối là ai ?,Who
+981,ai là người đầu_tiên đặt_chân lên mặt_trăng ?,Who
+982,người đóng vai chính trong bộ phim này là ai ?,Who
+983,ai là người giữ kỷ_lục chạy 100 m nhanh nhất thế_giới ?,Who
+984,ai là nhà vô_địch thế_giới bóng_đá năm nay ?,Who
+985,ai đã sáng_tác bài quốc_ca việt_nam ?,Who
+986,ai là người dẫn_chương_trình truyền_hình nổi_tiếng nhất ở việt_nam ?,Who
+987,người được bầu làm miss_universe năm nay là ai ?,Who
+988,ai là nhân_vật chính trong cuốn sách bạn vừa đọc ?,Who
+989,ai là người bạn thân nhất của bạn ?,Who
+990,người giáo_viên bạn yêu_quý nhất thời học_sinh là ai ?,Who
+991,ai là người đã cứu bạn trong tình_huống nguy_hiểm lần trước ?,Who
+992,người lãnh_đạo phong_trào cách_mạng việt_nam đầu thế_kỷ 20 là ai ?,Who
+993,ai là người đứng sau thành_công của dự_án này ?,Who
+994,người nào đã viết cuốn sách bạn yêu thích nhất ?,Who
+995,ai là người phụ_trách chương_trình từ_thiện này ?,Who
+996,người sáng_lập thương_hiệu thời_trang nổi_tiếng nhất thế_giới là ai ?,Who
+997,ai là tác_giả của bức tranh bạn thích nhất ?,Who
+998,người đứng đầu tổ_chức unesco hiện_nay là ai ?,Who
+999,ai đã phát_minh ra máy_in ?,Who
+1000,người được trao giải nobel hòa_bình năm nay là ai ?,Who
+1001,ai là người bạn đã gặp lần cuối ở quán cà_phê ?,Who
+1002,người nào đã giúp bạn khi xe bạn bị hỏng ?,Who
+1003,ai là người nhận giải_thưởng âm_nhạc quốc_tế năm nay ?,Who
+1004,người nào là nhân_vật chính trong bộ phim “ titanic ” ?,Who
+1005,ai là người viết lời cho bài hát này ?,Who
+1006,người chịu trách_nhiệm về mảng truyền_thông của công_ty là ai ?,Who
+1007,ai đã tặng bạn món quà sinh_nhật đáng nhớ nhất ?,Who
+1008,ai là tác_giả của bộ phim_tài_liệu bạn vừa xem ?,Who
+1009,người thầy đã truyền cảm_hứng cho bạn học môn_toán là ai ?,Who
+1010,ai là người đã làm thay_đổi cách bạn nhìn_nhận cuộc_sống ?,Who
+1011,người nào đã sáng_tạo ra các nhân_vật trong truyện tranh_marvel ?,Who
+1012,ai đã đặt nền_móng cho công_nghệ_trí_tuệ nhân_tạo ?,Who
+1013,ai là người bạn cảm_thấy tin_tưởng nhất trong công_việc ?,Who
+1014,người sáng_lập ra thương_hiệu đồ_ăn nhanh nổi_tiếng này là ai ?,Who
+1015,ai đã tạo ra chiếc máy_tính đầu_tiên ?,Who
+1016,người thiết_kế logo công_ty bạn đang làm_việc là ai ?,Who
+1017,ai đã mang đến thành_công cho đội bóng nước_nhà ?,Who
+1018,ai là người đầu_tiên bạn nghĩ đến khi gặp khó_khăn ?,Who
+1019,người đã đứng lên bảo_vệ bạn trong tình_huống xấu_hổ là ai ?,Who
+1020,ai là nhân_vật quan_trọng nhất trong lịch_sử hiện_đại ?,Who
+1021,người nào đã giúp bạn hoàn_thành luận_văn tốt_nghiệp ?,Who
+1022,ai là tác_giả của bài thơ “ việt_bắc ” ?,Who
+1023,người thắng_cuộc trong cuộc thi hát năm_ngoái là ai ?,Who
+1024,ai đã lên ý_tưởng cho dự_án sáng_tạo này ?,Who
+1025,người nào giữ vai_trò quan_trọng trong việc xây_dựng tổ_chức của bạn ?,Who
+1026,ai là tác_giả của câu_chuyện bạn vừa kể ?,Who
+1027,người bạn ngưỡng_mộ nhất trong lĩnh_vực của mình là ai ?,Who
+1028,ai đã hướng_dẫn bạn khi mới bước chân vào nghề ?,Who
+1029,người nào đã phát_minh ra bóng_đèn huỳnh_quang ?,Who
+1030,ai là người đứng sau sự_kiện văn_hóa lớn này ?,Who
+1031,người thắng giải cuộc thi marathon gần đây là ai ?,Who
+1032,ai là người đã động_viên bạn tiếp_tục cố_gắng ?,Who
+1033,người đã viết cuốn sách “ đắc_nhân_tâm ” là ai ?,Who
+1034,ai là chủ_nhân của chiếc xe đỗ ngoài cổng ?,Who
+1035,người phụ_trách tài_chính của công_ty là ai ?,Who
+1036,ai đã mang món ăn này đến văn_phòng hôm_nay ?,Who
+1037,người nào đã vẽ bức tranh bạn treo ở phòng khách ?,Who
+1038,ai là tổng_biên_tập của tờ báo này ?,Who
+1039,người viết kịch_bản cho bộ phim nổi_tiếng đó là ai ?,Who
+1040,ai đã tổ_chức chuyến đi du_lịch tập_thể năm_ngoái ?,Who
+1041,người đầu_tiên nghĩ ra ý_tưởng về mạng xã_hội là ai ?,Who
+1042,ai là nhân_vật chính trong cuốn tiểu_thuyết bạn đang đọc ?,Who
+1043,người nào đã gửi bưu_kiện cho bạn sáng nay ?,Who
+1044,ai là người nhận trách_nhiệm trong dự_án lần này ?,Who
+1045,người nào đã truyền cảm_hứng cho bạn_học ngôn_ngữ mới ?,Who
+1046,ai là tác_giả của bản_nhạc cổ_điển nổi_tiếng này ?,Who
+1047,người đã sáng_tạo ra công_nghệ blockchain là ai ?,Who
+1048,ai là người thiết_kế giao_diện phần_mềm này ?,Who
+1049,người nào đóng vai_trò chủ_chốt trong việc hoàn_thành công_trình ?,Who
+1050,ai là người đã giúp bạn khi bạn cần trợ_giúp tài_chính ?,Who
+1051,người nào đã tổ_chức buổi hội_thảo chuyên_ngành ?,Who
+1052,ai là nhân_vật phản_diện trong bộ phim bạn vừa xem ?,Who
+1053,người nào đã truyền cảm_hứng để bạn viết bài_văn này ?,Who
+1054,ai đã chụp bức ảnh bạn yêu thích nhất ?,Who
+1055,người nào đã tạo ra sản_phẩm độc_đáo này ?,Who
+1056,ai là ca_sĩ chính trong ban nhạc bạn hâm_mộ ?,Who
+1057,người sáng_tạo nên bức tượng nổi_tiếng này là ai ?,Who
+1058,ai đã sửa chiếc điện_thoại bạn vừa nhận lại ?,Who
+1059,chủ_nhân của cuốn sách này là ai ?,Who
+1060,bạn đã sẵn_sàng cho buổi thuyết_trình chưa ?,Yes/No
+1061,đã đến lúc bắt_đầu họp chưa ?,Yes/No
+1062,bạn đã hoàn_thành bài kiểm_tra tuần này chưa ?,Yes/No
+1063,có cần tôi giúp bạn làm báo_cáo không ?,Yes/No
+1064,đây có phải là tài_liệu bạn đang tìm_kiếm không ?,Yes/No
+1065,bạn có cần thêm thời_gian để hoàn_thành bài_tập không ?,Yes/No
+1066,bạn có nghĩ rằng chúng_ta sẽ đạt được mục_tiêu năm nay không ?,Yes/No
+1067,đây có phải là chiếc xe bạn định mua không ?,Yes/No
+1068,bạn đã từng học một ngoại_ngữ khác ngoài tiếng anh chưa ?,Yes/No
+1069,bạn có nghĩ rằng việc tập_thể_dục hàng ngày là cần_thiết không ?,Yes/No
+1070,có phải bạn đang chờ ai đó ở đây không ?,Yes/No
+1071,bạn có muốn uống cà_phê không ?,Yes/No
+1072,bạn đã từng tham_gia một khóa_học trực_tuyến chưa ?,Yes/No
+1073,đây có phải là giải_pháp tối_ưu cho vấn_đề này không ?,Yes/No
+1074,bạn có muốn thay_đổi ngành học không ?,Yes/No
+1075,bạn đã từng tham_gia chương_trình trao_đổi sinh_viên chưa ?,Yes/No
+1076,có phải bạn đã quên nộp báo_cáo đúng hạn không ?,Yes/No
+1077,bạn đã từng tham_gia một buổi hội_thảo quốc_tế chưa ?,Yes/No
+1078,bạn có nghĩ rằng việc học nhóm mang lại hiệu_quả hơn không ?,Yes/No
+1079,bạn có muốn tham_gia thêm khóa_học kỹ_năng mềm không ?,Yes/No
+1080,bạn đã từng viết một bài báo khoa_học chưa ?,Yes/No
+1081,bạn có muốn thử sức với một lĩnh_vực hoàn_toàn mới không ?,Yes/No
+1082,bạn có thấy tự_tin khi nói trước đám đông không ?,Yes/No
+1083,bạn có nghĩ rằng sự kiên_nhẫn là chìa_khóa để thành_công không ?,Yes/No
+1084,bạn có hài_lòng với điểm_số kỳ này không ?,Yes/No
+1085,đây có phải là lần đầu_tiên bạn tham_gia cuộc thi này không ?,Yes/No
+1086,bạn có muốn thay_đổi kế_hoạch hiện_tại không ?,Yes/No
+1087,có phải bạn đang tìm_kiếm cơ_hội học_bổng không ?,Yes/No
+1088,bạn có đồng_ý với ý_kiến của nhóm trưởng không ?,Yes/No
+1089,bạn có thấy công_việc này phù_hợp với mình không ?,Yes/No
+1090,có phải bạn đang lo_lắng về bài kiểm_tra sắp tới không ?,Yes/No
+1091,bạn có muốn dành thêm thời_gian để học môn này không ?,Yes/No
+1092,đây có phải là một trong những thành_tựu bạn tự_hào nhất không ?,Yes/No
+1093,bạn có nghĩ rằng việc học thạc_sĩ là cần_thiết cho sự_nghiệp không ?,Yes/No
+1094,bạn đã từng thử làm_việc ở nước_ngoài chưa ?,Yes/No
+1095,bạn có dự_định tham_gia chương_trình thực_tập hè không ?,Yes/No
+1096,bạn đã bao_giờ cân_nhắc việc học thêm một chứng_chỉ chuyên_môn chưa ?,Yes/No
+1097,có phải bạn đang cân_nhắc việc chuyển ngành học không ?,Yes/No
+1098,bạn đã từng tham_gia một chương_trình thiện_nguyện chưa ?,Yes/No
+1099,bạn có nghĩ rằng trí_tuệ nhân_tạo sẽ thay_đổi tương_lai không ?,Yes/No
+1100,đây có phải là công_việc bạn mong_muốn từ lâu không ?,Yes/No
+1101,bạn có nghĩ rằng sự giao_tiếp tốt là kỹ_năng quan_trọng nhất không ?,Yes/No
+1102,bạn có muốn thử sức trong một lĩnh_vực hoàn_toàn mới không ?,Yes/No
+1103,bạn có nghĩ rằng học trực_tuyến là hiệu_quả không ?,Yes/No
+1104,bạn có cảm_thấy tự_tin với kế_hoạch mà nhóm đã đề ra không ?,Yes/No
+1105,bạn đã từng tổ_chức một sự_kiện lớn chưa ?,Yes/No
+1106,bạn có nghĩ rằng sự đổi_mới là yếu_tố quan_trọng nhất trong công_việc không ?,Yes/No
+1107,đây có phải là đội bóng bạn yêu thích không ?,Yes/No
+1108,bạn đã từng làm_việc với một nhóm quốc_tế chưa ?,Yes/No
+1109,có phải bạn đang tìm_kiếm cơ_hội việc_làm ở nước_ngoài không ?,Yes/No
+1110,bạn có nghĩ rằng sự đoàn_kết là yếu_tố quyết_định thành_công của một đội nhóm không ?,Yes/No
+1111,bạn đã đọc bao_nhiêu cuốn sách trong năm nay ?,Quantity
+1112,một tháng bạn chi_tiêu bao_nhiêu tiền cho việc học ?,Quantity
+1113,mỗi tuần bạn tập yoga bao_nhiêu buổi ?,Quantity
+1114,công_ty bạn đang làm_việc có bao_nhiêu chi_nhánh ?,Quantity
+1115,bạn đã viết bao_nhiêu bài báo khoa_học ?,Quantity
+1116,mỗi năm bạn thường đi du_lịch bao_nhiêu lần ?,Quantity
+1117,bạn đã thử bao_nhiêu công_thức nấu_ăn mới ?,Quantity
+1118,bạn có bao_nhiêu đôi giày thể_thao ?,Quantity
+1119,trường của bạn có bao_nhiêu sinh_viên quốc_tế ?,Quantity
+1120,mỗi ngày bạn dành bao_nhiêu thời_gian để học tiếng anh ?,Quantity
+1121,nhóm nghiên_cứu của bạn có bao_nhiêu thành_viên ?,Quantity
+1122,trong sự_kiện này có bao_nhiêu khách mời ?,Quantity
+1123,mỗi tháng bạn tham_gia bao_nhiêu cuộc họp ?,Quantity
+1124,bạn đã nộp bao_nhiêu báo_cáo trong kỳ này ?,Quantity
+1125,mỗi tuần bạn thường làm_việc bao_nhiêu giờ ?,Quantity
+1126,bạn đã thực_hiện bao_nhiêu dự_án trong học_kỳ vừa_qua ?,Quantity
+1127,có bao_nhiêu người đăng_ký tham_gia hội_thảo này ?,Quantity
+1128,bạn đã nhận được bao_nhiêu lời mời làm_việc ?,Quantity
+1129,trường đại_học của bạn có bao_nhiêu khoa ?,Quantity
+1130,mỗi ngày bạn uống bao_nhiêu cốc nước ?,Quantity
+1131,công_việc hiện_tại của bạn yêu_cầu làm bao_nhiêu giờ mỗi tuần ?,Quantity
+1132,mỗi tháng bạn thường tiết_kiệm được bao_nhiêu tiền ?,Quantity
+1133,bạn đã tham_gia bao_nhiêu buổi học nhóm ?,Quantity
+1134,trong kỳ thi vừa_qua bạn làm được bao_nhiêu câu hỏi đúng ?,Quantity
+1135,bạn đã hoàn_thành bao_nhiêu phần của dự_án ?,Quantity
+1136,số_lượng bài kiểm_tra bạn phải làm trong tuần này là bao_nhiêu ?,Quantity
+1137,công_ty bạn làm_việc đã tổ_chức bao_nhiêu sự_kiện trong năm nay ?,Quantity
+1138,bạn đã tham_gia bao_nhiêu khóa_học trực_tuyến ?,Quantity
+1139,mỗi ngày bạn dành bao_nhiêu giờ để làm_việc trên máy_tính ?,Quantity
+1140,trong bộ sưu_tập của bạn có bao_nhiêu bức tranh ?,Quantity
+1141,bạn đã nhận được bao_nhiêu email từ đối_tác trong tuần qua ?,Quantity
+1142,bạn đã dành bao_nhiêu thời_gian để chuẩn_bị cho bài thuyết_trình này ?,Quantity
+1143,có bao_nhiêu người trong gia_đình bạn thích xem bóng_đá ?,Quantity
+1144,bạn đã hoàn_thành bao_nhiêu phần của bài_tập lớn ?,Quantity
+1145,mỗi tháng bạn thường mua bao_nhiêu cuốn sách ?,Quantity
+1146,bạn đã gửi bao_nhiêu email trong ngày hôm_nay ?,Quantity
+1147,công_ty bạn đã đạt được bao_nhiêu thành_tựu trong năm nay ?,Quantity
+1148,bạn đã thử bao_nhiêu loại cà_phê trong tháng này ?,Quantity
+1149,bạn có bao_nhiêu tài_liệu tham_khảo cho luận_văn của mình ?,Quantity
+1150,trong lớp_học này có bao_nhiêu học_viên nữ ?,Quantity
+1151,mỗi ngày bạn dành bao_nhiêu phút để thiền ?,Quantity
+1152,bạn đã đi qua bao_nhiêu tỉnh_thành ở việt_nam ?,Quantity
+1153,nhà bạn có bao_nhiêu phòng ngủ ?,Quantity
+1154,bạn đã nộp bao_nhiêu bản báo_cáo cho giáo_viên hướng_dẫn ?,Quantity
+1155,mỗi tuần bạn xem bao_nhiêu bộ phim ?,Quantity
+1156,bạn đã tích_lũy được bao_nhiêu tín_chỉ trong chương_trình học ?,Quantity
+1157,bạn đã hoàn_thành bao_nhiêu mục_tiêu trong năm nay ?,Quantity
+1158,trong cuộc khảo_sát này có bao_nhiêu người tham_gia ?,Quantity
+1159,bạn đã đạt được bao_nhiêu giải_thưởng trong lĩnh_vực của mình ?,Quantity
+1160,mỗi ngày bạn cần bao_nhiêu giờ để ngủ đủ giấc ?,Quantity
+1161,nhóm bạn đang làm_việc có bao_nhiêu người ?,Quantity
+1162,bạn đã đọc bao_nhiêu bài báo chuyên_ngành ?,Quantity
+1163,bạn đã dành bao_nhiêu tiền cho chuyến du_lịch vừa_qua ?,Quantity
+1164,trong tháng này bạn đã hoàn_thành bao_nhiêu bài kiểm_tra ?,Quantity
+1165,bạn đã tham_gia bao_nhiêu buổi hội_thảo chuyên_đề ?,Quantity
+1166,số_lượng khách_hàng công_ty bạn phục_vụ mỗi tháng là bao_nhiêu ?,Quantity
+1167,bạn đã gửi bao_nhiêu bản báo_cáo tuần trước ?,Quantity
+1168,bạn đã thử bao_nhiêu phong_cách thời_trang ?,Quantity
+1169,bạn đã học được bao_nhiêu từ mới trong tuần này ?,Quantity
+1170,bạn đã tham_gia bao_nhiêu chương_trình tình_nguyện ?,Quantity
+1171,bạn đã tải xuống bao_nhiêu ứng_dụng trên điện_thoại ?,Quantity
+1172,bạn đã giải_quyết được bao_nhiêu vấn_đề trong dự_án này ?,Quantity
+1173,có bao_nhiêu người tham_gia kỳ thi đầu_vào ?,Quantity
+1174,bạn đã tham_gia bao_nhiêu buổi hội_thảo quốc_tế ?,Quantity
+1175,bạn đã gửi bao_nhiêu đơn xin việc ?,Quantity
+1176,trong năm qua bạn đã làm được bao_nhiêu việc thiện_nguyện ?,Quantity
+1177,bạn đã hoàn_thành bao_nhiêu bài_tập môn lập_trình ?,Quantity
+1178,bạn đã viết được bao_nhiêu trang_luận_văn ?,Quantity
+1179,bạn đã dạy bao_nhiêu học_sinh trong năm vừa_qua ?,Quantity
+1180,mỗi ngày bạn dành bao_nhiêu thời_gian để đọc sách ?,Quantity
+1181,bạn đã đạt được bao_nhiêu chứng_chỉ chuyên_môn ?,Quantity
+1182,có bao_nhiêu người tham_gia buổi tiệc chia_tay ?,Quantity
+1183,bạn đã học bao_nhiêu khóa_học kỹ_năng mềm ?,Quantity
+1184,bạn đã thử bao_nhiêu công_thức làm bánh ?,Quantity
+1185,bạn đã tham_gia bao_nhiêu câu_lạc_bộ trong trường đại_học ?,Quantity
+1186,bạn đã lưu bao_nhiêu liên_lạc trong danh_bạ điện_thoại ?,Quantity
+1187,trong kỳ_nghỉ này bạn đã ghé thăm bao_nhiêu địa_điểm ?,Quantity
+1188,bạn đã hoàn_thành bao_nhiêu dự_án tự_do ?,Quantity
+1189,bạn đã sửa bao_nhiêu lỗi trong chương_trình của mình ?,Quantity
+1190,bạn đã học được bao_nhiêu kỹ_năng mới trong năm nay ?,Quantity
+1191,bạn đã tham_gia bao_nhiêu cuộc thi tranh_biện ?,Quantity
+1192,bạn đã gặp bao_nhiêu người bạn mới trong kỳ_học này ?,Quantity
+1193,bạn đã đạt được bao_nhiêu mục_tiêu cá_nhân ?,Quantity
+1194,bạn đã thử bao_nhiêu món ăn mới trong tháng này ?,Quantity
+1195,bạn đã hoàn_thành bao_nhiêu bài_tập về nhà ?,Quantity
+1196,bạn đã đạt bao_nhiêu điểm trong bài kiểm_tra cuối kỳ ?,Quantity
+1197,bạn đã dành bao_nhiêu giờ để lập_trình ?,Quantity
+1198,bạn đã thuyết_trình bao_nhiêu lần trong học_kỳ này ?,Quantity
+1199,bạn đã tạo bao_nhiêu mẫu thiết_kế cho dự_án ?,Quantity
+1200,bạn đã làm_việc trên bao_nhiêu dự_án nghiên_cứu ?,Quantity

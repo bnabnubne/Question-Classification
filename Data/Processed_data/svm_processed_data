@@ -1,0 +1,1201 @@
+STT,Question,Label,processed_question
+1,Vì sao mèo ăn những vật thể lạ?,Why,vì sao mèo ăn những vật thể lạ
+2,Bạn đã chạy được bao nhiêu km trong tuần này?,Quantity,bạn đã chạy được bao nhiêu km trong tuần này
+3,"Tôi tính làm tủ áo cánh kính cửa lùa, có nên làm cửa lùa không nhỉ hay làm cửa cánh thôi?",Yes/No,tôi tính làm tủ áo cánh kính cửa lùa có nên làm cửa lùa không nhỉ hay làm cửa cánh thôi
+4,Cách phòng ngừa và điều trị Búi lông “Hairball” của mèo?,How,cách phòng ngừa và điều trị búi lông hairball của mèo
+5,Bạn đã tham gia bao nhiêu buổi tư vấn nghề nghiệp trong năm nay?,Quantity,bạn đã tham gia bao nhiêu buổi tư vấn nghề nghiệp trong năm nay
+6,Nhóm của bạn đã tổ chức bao nhiêu sự kiện trong năm nay?,Quantity,nhóm của bạn đã tổ chức bao nhiêu sự kiện trong năm nay
+7,Bạn đã sửa bao nhiêu bài tập cho học sinh trong tuần này?,Quantity,bạn đã sửa bao nhiêu bài tập cho học sinh trong tuần này
+8,Bạn đã thử bao nhiêu món ăn đường phố trong chuyến du lịch vừa qua?,Quantity,bạn đã thử bao nhiêu món ăn đường phố trong chuyến du lịch vừa qua
+9,Có nên làm tủ quần áo cánh kính không?,Yes/No,có nên làm tủ quần áo cánh kính không
+10,Bạn đã đăng bao nhiêu bài viết lên blog cá nhân?,Quantity,bạn đã đăng bao nhiêu bài viết lên blog cá nhân
+11,Bạn đã nộp bao nhiêu bài tập cho giảng viên trong học kỳ này?,Quantity,bạn đã nộp bao nhiêu bài tập cho giảng viên trong học kỳ này
+12,Đại học Bách Khoa Hà Nội có bao nhiêu ngành?,Quantity,đại học bách khoa hà nội có bao nhiêu ngành
+13,Bạn đã gặp gỡ bao nhiêu đối tác mới trong dự án vừa qua?,Quantity,bạn đã gặp gỡ bao nhiêu đối tác mới trong dự án vừa qua
+14,Bạn đã tham gia bao nhiêu hoạt động ngoại khóa trong học kỳ này?,Quantity,bạn đã tham gia bao nhiêu hoạt động ngoại khóa trong học kỳ này
+15,Đồ chơi 39K có nên mua cho bé?,Yes/No,đồ chơi 39 k có nên mua cho bé
+16,Báo giá đá tự nhiên lát sân vườn?,Quantity,báo giá đá tự nhiên lát sân vườn
+17,Sâm tươi Hàn Quốc thích hợp cho gia đình?,Yes/No,sâm tươi hàn quốc thích hợp cho gia đình
+18,Giá đá bazan bao nhiêu?,Quantity,giá đá bazan bao nhiêu
+19,Có bao nhiêu bài tập bạn cần hoàn thành trước kỳ thi?,Quantity,có bao nhiêu bài tập bạn cần hoàn thành trước kỳ thi
+20,Thuê xe đi Ninh Thuận giá bao nhiêu ? ,Quantity,thuê xe đi ninh thuận giá bao nhiêu
+21,Tác giả của bộ truyện “Harry Potter” là ai?,Who,tác giả của bộ truyện harry potter là ai
+22,Những lý do vì sao nên chọn du học Phần Lan,Why,những lý do vì sao nên chọn du học phần lan
+23,Ẩn comment khách như thế nào?,How,ẩn comment khách như thế nào
+24,Tại sao acid hữu cơ chỉ tiêu diệt vi khuẩn bệnh mà không tiêu diệt vi khuẩn có ích?,Why,tại sao acid hữu cơ chỉ tiêu diệt vi khuẩn bệnh mà không tiêu diệt vi khuẩn có ích
+25,"Giải pháp lưu trữ hồ sơ, tài liệu?",How,giải pháp lưu trữ hồ sơ tài liệu
+26,Công ty bạn đã ký được bao nhiêu hợp đồng trong tháng này?,Quantity,công ty bạn đã ký được bao nhiêu hợp đồng trong tháng này
+27,Các chuyên gia ước tính lợi nhuận khi giao dịch nhị phân bằng phương pháp nào?,How,các chuyên gia ước tính lợi nhuận khi giao dịch nhị phân bằng phương pháp nào
+28,Mua laptop Intel Core i5 là đủ hay thêm tý để có hẳn i7?,Yes/No,mua laptop intel core i5 là đủ hay thêm tý để có hẳn i7
+29,"Gian bếp nhà mình khá hẹp, mình không biết nên trang trí sao cho đẹp?",How,gian bếp nhà mình khá hẹp mình không biết nên trang trí sao cho đẹp
+30,Bạn đã gửi bao nhiêu lời mời kết bạn trên mạng xã hội tuần qua?,Quantity,bạn đã gửi bao nhiêu lời mời kết bạn trên mạng xã hội tuần qua
+31,Bạn đã hoàn thành bao nhiêu câu hỏi trong bài kiểm tra online?,Quantity,bạn đã hoàn thành bao nhiêu câu hỏi trong bài kiểm tra online
+32,Làm sao để nhuộm tóc màu khói?,How,làm sao để nhuộm tóc màu khói
+33,Bạn đã học được bao nhiêu bài học từ khóa học trực tuyến?,Quantity,bạn đã học được bao nhiêu bài học từ khóa học trực tuyến
+34,Tại sao chúng ta cần tái chế rác thải nhựa?,Why,tại sao chúng ta cần tái chế rác thải nhựa
+35,Nguyên nhân chính dẫn đến bệnh tiểu đường?,Why,nguyên nhân chính dẫn đến bệnh tiểu đường
+36,Có bao nhiêu cuốn sách trên kệ sách của bạn?,Quantity,có bao nhiêu cuốn sách trên kệ sách của bạn
+37,Trong tháng này bạn đã tiết kiệm được bao nhiêu tiền?,Quantity,trong tháng này bạn đã tiết kiệm được bao nhiêu tiền
+38,Bạn đã đạt được bao nhiêu giải thưởng trong các cuộc thi quốc gia?,Quantity,bạn đã đạt được bao nhiêu giải thưởng trong các cuộc thi quốc gia
+39,Ai là người sáng lập công ty Microsoft?,Who,ai là người sáng lập công ty microsoft
+40,Tại sao cây xanh giúp giảm nhiệt độ môi trường? ,Why,tại sao cây xanh giúp giảm nhiệt độ môi trường
+41,Bí thư Đoàn trường Điện - Điện tử là ai?,Who,bí thư đoàn trường điện điện tử là ai
+42,Sông Hương chảy qua địa phương nào?,Where,sông hương chảy qua địa phương nào
+43,Thành phố Hồ Chí Minh thuộc miền nào của Việt Nam?,Where,thành phố hồ chí minh thuộc miền nào của việt nam
+44,Di tích Cố đô Huế thuộc tỉnh nào?,Where,di tích cố đô huế thuộc tỉnh nào
+45,Ngôn ngữ lập trình nào phổ biến nhất trong năm 2024? ,What,ngôn ngữ lập trình nào phổ biến nhất trong năm 2024
+46,Vì sao trẻ em cần ngủ đủ giấc mỗi ngày?,Why,vì sao trẻ em cần ngủ đủ giấc mỗi ngày
+47,Khi nào ngày lễ Quốc khánh Việt Nam diễn ra?,When,khi nào ngày lễ quốc khánh việt nam diễn ra
+48,Năm nào đánh dấu sự ra đời của máy tính đầu tiên?,When,năm nào đánh dấu sự ra đời của máy tính đầu tiên
+49,Tại sao việc tập thể dục đều đặn lại quan trọng?,Why,tại sao việc tập thể dục đều đặn lại quan trọng
+50,Đại học Bách Khoa Hà Nội thành lập năm nào?,When,đại học bách khoa hà nội thành lập năm nào
+51,Tại sao rừng nhiệt đới được gọi là “lá phổi của Trái Đất”?,Why,tại sao rừng nhiệt đới được gọi là lá phổi của trái đất
+52,Khi mua một màn hình LCD cũ thì cần kiểm tra như thế nào?,How,khi mua một màn hình lcd cũ thì cần kiểm tra như thế nào
+53,Hướng dẫn để cài đặt phần mềm trên máy tính?,How,hướng dẫn để cài đặt phần mềm trên máy tính
+54,Bạn thân nhất của bạn là ai?,Who,bạn thân nhất của bạn là ai
+55,Nguyễn Ái Quốc là ai trong lịch sử Việt Nam?,Who,nguyễn ái quốc là ai trong lịch sử việt nam
+56,Địa điểm tổ chức Sea Games lần thứ 31 là ở đâu?,Where,địa điểm tổ chức sea games lần thứ 31 là ở đâu
+57,Khi nào xuất hiện hiện tượng nguyệt thực tiếp theo?,When,khi nào xuất hiện hiện tượng nguyệt thực tiếp theo
+58,Tại sao việc học online ngày càng trở nên phổ biến?,Why,tại sao việc học online ngày càng trở nên phổ biến
+59,Cách để học tốt môn toán?,How,cách để học tốt môn toán
+60,Chiếc túi này nhìn thế nào nhỉ?,How,chiếc túi này nhìn thế nào nhỉ
+61,Buổi sáng nay bạn đã ăn gì chưa?,Yes/No,buổi sáng nay bạn đã ăn gì chưa
+62,Căn hộ này có view ra biển hay không?,Yes/No,căn hộ này có view ra biển hay không
+63,Ánh sáng trong phòng có đủ để đọc sách không?,Yes/No,ánh sáng trong phòng có đủ để đọc sách không
+64,Lớp Giải tích 1 chiều nay bắt đầu lúc mấy giờ?,When,lớp giải tích 1 chiều nay bắt đầu lúc mấy giờ
+65,Người mới đến văn phòng hôm qua tên gì?,Who,người mới đến văn phòng hôm qua tên gì
+66,Mẫu thiết kế này hợp với phong cách nào?,What,mẫu thiết kế này hợp với phong cách nào
+67,Số điện thoại bạn lưu hôm qua đâu rồi?,Where,số điện thoại bạn lưu hôm qua đâu rồi
+68,Cái bánh bao này ai làm thế?,Who,cái bánh bao này ai làm thế
+69,Đợt khuyến mãi kéo dài đến bao giờ?,When,đợt khuyến mãi kéo dài đến bao giờ
+70,Bữa tiệc sắp tới sẽ tổ chức ở?,Where,bữa tiệc sắp tới sẽ tổ chức ở
+71,Cách làm món chè này có khó không?,Yes/No,cách làm món chè này có khó không
+72,Lịch trình chuyến đi đã được chốt chưa?,Yes/No,lịch trình chuyến đi đã được chốt chưa
+73,Mẫu xe đạp điện này bao nhiêu tiền?,Quantity,mẫu xe đạp điện này bao nhiêu tiền
+74,Địa điểm hẹn hò tối nay đã được chọn chưa?,Yes/No,địa điểm hẹn hò tối nay đã được chọn chưa
+75,Chỗ nào bán hoa tươi vào sáng sớm?,Where,chỗ nào bán hoa tươi vào sáng sớm
+76,Cuộc họp hôm qua kết quả ra sao?,How,cuộc họp hôm qua kết quả ra sao
+77,Hợp đồng mới đã ký kết chưa?,Yes/No,hợp đồng mới đã ký kết chưa
+78,Phần quà này có gì đặc biệt?,What,phần quà này có gì đặc biệt
+79,Hành lý của bạn đã chuẩn bị đầy đủ chưa?,Yes/No,hành lý của bạn đã chuẩn bị đầy đủ chưa
+80,Bức tranh treo ở phòng khách của ai vẽ?,Who,bức tranh treo ở phòng khách của ai vẽ
+81,Tạp chí này số mới nhất có bài viết gì hay?,What,tạp chí này số mới nhất có bài viết gì hay
+82,Bé nhà bạn dạo này có khỏe không?,Yes/No,bé nhà bạn dạo này có khỏe không
+83,Cách nào để sắp xếp thời gian hiệu quả hơn?,How,cách nào để sắp xếp thời gian hiệu quả hơn
+84,Bộ phim sắp tới có phải do đạo diễn nổi tiếng thực hiện?,Yes/No,bộ phim sắp tới có phải do đạo diễn nổi tiếng thực hiện
+85,Cuốn sách này thuộc thể loại gì?,What,cuốn sách này thuộc thể loại gì
+86,Sản phẩm này xuất xứ từ nước nào?,Where,sản phẩm này xuất xứ từ nước nào
+87,Lớp học yoga có còn chỗ trống không?,Yes/No,lớp học yoga có còn chỗ trống không
+88,Giày thể thao mới của bạn có bền không?,Yes/No,giày thể thao mới của bạn có bền không
+89,Quá trình vận chuyển hàng hóa diễn ra thế nào?,How,quá trình vận chuyển hàng hóa diễn ra thế nào
+90,Chuyến du lịch mùa hè này có gì thú vị?,What,chuyến du lịch mùa hè này có gì thú vị
+91,Công việc hiện tại có đáp ứng được mong muốn của bạn không?,Yes/No,công việc hiện tại có đáp ứng được mong muốn của bạn không
+92,Quyển sổ tay này bạn mua ở đâu vậy?,Where,quyển sổ tay này bạn mua ở đâu vậy
+93,Nhóm trưởng có đưa ra kế hoạch cụ thể chưa?,Yes/No,nhóm trưởng có đưa ra kế hoạch cụ thể chưa
+94,Bạn dự định tham gia sự kiện nào vào tuần tới?,What,bạn dự định tham gia sự kiện nào vào tuần tới
+95,"Bài hát này nghe rất quen, do ai sáng tác?",Who,bài hát này nghe rất quen do ai sáng tác
+96,Mèo có cần tiêm vaccine định kỳ không?,Yes/No,mèo có cần tiêm vaccine định kỳ không
+97,Sự kiện lần này có nhiều người tham dự không?,Yes/No,sự kiện lần này có nhiều người tham dự không
+98,Công viên gần đây có tổ chức hội chợ cuối tuần không?,Yes/No,công viên gần đây có tổ chức hội chợ cuối tuần không
+99,Kỳ nghỉ lễ này bạn dự định làm gì?,What,kỳ nghỉ lễ này bạn dự định làm gì
+100,Mẫu điện thoại này có tính năng mới nào hấp dẫn?,What,mẫu điện thoại này có tính năng mới nào hấp dẫn
+101,Áo sơ mi này chất liệu có mát không?,Yes/No,áo sơ mi này chất liệu có mát không
+102,Công trình kiến trúc này được xây dựng từ năm nào?,When,công trình kiến trúc này được xây dựng từ năm nào
+103,Bài thuyết trình này có cần thêm hình ảnh minh họa không?,Yes/No,bài thuyết trình này có cần thêm hình ảnh minh họa không
+104,Tình hình thời tiết cuối tuần này thế nào?,How,tình hình thời tiết cuối tuần này thế nào
+105,Món quà tặng sếp nhân dịp sinh nhật nên chọn gì?,What,món quà tặng sếp nhân dịp sinh nhật nên chọn gì
+106,Bạn đã nộp bài tập đúng hạn chưa?,Yes/No,bạn đã nộp bài tập đúng hạn chưa
+107,Dự định năm tới của bạn là gì?,What,dự định năm tới của bạn là gì
+108,Ai đã giành giải thưởng Nobel năm nay?,Who,ai đã giành giải thưởng nobel năm nay
+109,Khi nào kỳ thi học kỳ bắt đầu?,When,khi nào kỳ thi học kỳ bắt đầu
+110,Ở đâu có thể thuê xe đạp giá rẻ?,Where,ở đâu có thể thuê xe đạp giá rẻ
+111,Tại sao cá có thể sống trong nước?,Why,tại sao cá có thể sống trong nước
+112,Bạn muốn chọn căn hộ này hay căn hộ kia?,What,bạn muốn chọn căn hộ này hay căn hộ kia
+113,Có phải bạn đã hoàn thành dự án trước thời hạn không?,Yes/No,có phải bạn đã hoàn thành dự án trước thời hạn không
+114,Bao nhiêu chiếc xe máy được bán mỗi tháng tại cửa hàng này?,Quantity,bao nhiêu chiếc xe máy được bán mỗi tháng tại cửa hàng này
+115,Cách nào để quản lý thời gian hiệu quả hơn?,How,cách nào để quản lý thời gian hiệu quả hơn
+116,Ai là người đại diện công ty trong buổi họp hôm qua?,Who,ai là người đại diện công ty trong buổi họp hôm qua
+117,Chỗ nào tổ chức các lớp học miễn phí?,Where,chỗ nào tổ chức các lớp học miễn phí
+118,Khi nào bạn sẽ nghỉ phép?,When,khi nào bạn sẽ nghỉ phép
+119,Tại sao học tiếng Anh lại quan trọng?,Why,tại sao học tiếng anh lại quan trọng
+120,Làm thế nào để tăng năng suất lao động?,How,làm thế nào để tăng năng suất lao động
+121,Nên chọn laptop dùng AMD hay Intel? ,What,nên chọn laptop dùng amd hay intel
+122,Hôm nay có phải là ngày hội sách không?,Yes/No,hôm nay có phải là ngày hội sách không
+123,Điều gì giúp bạn giữ được động lực khi làm việc?,What,điều gì giúp bạn giữ được động lực khi làm việc
+124,Người đã giới thiệu bạn đến công ty này?,Who,người đã giới thiệu bạn đến công ty này
+125,Làm sao để viết báo cáo chuyên nghiệp hơn?,How,làm sao để viết báo cáo chuyên nghiệp hơn
+126,Nơi nào bán đồ điện tử giảm giá?,Where,nơi nào bán đồ điện tử giảm giá
+127,Khi nào bạn dự định học một ngôn ngữ mới?,When,khi nào bạn dự định học một ngôn ngữ mới
+128,Ai sẽ tham gia buổi họp báo ngày mai?,Who,ai sẽ tham gia buổi họp báo ngày mai
+129,Có cách nào để giảm đau đầu nhanh chóng ?,How,có cách nào để giảm đau đầu nhanh chóng
+130,Bạn thích đọc sách giấy hay sách điện tử?,What,bạn thích đọc sách giấy hay sách điện tử
+131,Chiếc xe đạp này có phù hợp với bạn không?,Yes/No,chiếc xe đạp này có phù hợp với bạn không
+132,Bao nhiêu ngày bạn cần để hoàn thành bài tập lớn?,Quantity,bao nhiêu ngày bạn cần để hoàn thành bài tập lớn
+133,Món quà ý nghĩa nhất bạn từng nhận được?,What,món quà ý nghĩa nhất bạn từng nhận được
+134,Ai là lớp trưởng của lớp này?,Who,ai là lớp trưởng của lớp này
+135,Khi nào bạn sẽ tham gia buổi tập huấn kỹ năng?,When,khi nào bạn sẽ tham gia buổi tập huấn kỹ năng
+136,Vì sao con người cần tập thể dục đều đặn?,Why,vì sao con người cần tập thể dục đều đặn
+137,Tương lai của AI sẽ ra sao?,How,tương lai của ai sẽ ra sao
+138,Tôi hợp son hồng hay son đỏ?,What,tôi hợp son hồng hay son đỏ
+139,Bạn đã ăn sáng chưa?,Yes/No,bạn đã ăn sáng chưa
+140,Laptop Gaming có thể nâng cấp những bộ phận nào?,What,laptop gaming có thể nâng cấp những bộ phận nào
+141,Người nào đã lên kế hoạch cho chuyến đi này?,Who,người nào đã lên kế hoạch cho chuyến đi này
+142,Chỗ nào có tổ chức hội chợ việc làm?,Where,chỗ nào có tổ chức hội chợ việc làm
+143,Khi nào bạn cần hoàn thành báo cáo?,When,khi nào bạn cần hoàn thành báo cáo
+144,Lí do khiến giới trẻ thích mua sắm trực tuyến?,Why,lí do khiến giới trẻ thích mua sắm trực tuyến
+145,Làm sao để duy trì chế độ ăn uống lành mạnh?,How,làm sao để duy trì chế độ ăn uống lành mạnh
+146,Bạn chọn đi học trực tiếp hay học trực tuyến?,What,bạn chọn đi học trực tiếp hay học trực tuyến
+147,Hôm nay bạn có cảm thấy khỏe không?,Yes/No,hôm nay bạn có cảm thấy khỏe không
+148,Điều bạn mong muốn nhất trong năm nay?,What,điều bạn mong muốn nhất trong năm nay
+149,Ai là người truyền cảm hứng lớn nhất trong cuộc sống của bạn?,Who,ai là người truyền cảm hứng lớn nhất trong cuộc sống của bạn
+150,Bao nhiêu tiền cần để đi du lịch Châu Âu?,Quantity,bao nhiêu tiền cần để đi du lịch châu âu
+151,Tôi có thể học cách làm đồ thủ công ở đâu?,Where,tôi có thể học cách làm đồ thủ công ở đâu
+152,Khi nào bạn định thử một công việc mới?,When,khi nào bạn định thử một công việc mới
+153,Tại sao chúng ta nên đọc sách mỗi ngày?,Why,tại sao chúng ta nên đọc sách mỗi ngày
+154,Làm thế nào để thiết kế một căn phòng đẹp?,How,làm thế nào để thiết kế một căn phòng đẹp
+155,Bạn thường thức khuya hay dậy sớm để học?,What,bạn thường thức khuya hay dậy sớm để học
+156,Có phải bạn đã quên mang theo tài liệu không?,Yes/No,có phải bạn đã quên mang theo tài liệu không
+157,Muốn cải thiện kỹ năng học tập cần làm gì?,What,muốn cải thiện kỹ năng học tập cần làm gì
+158,Ai đã mời bạn đến tham gia sự kiện này?,Who,ai đã mời bạn đến tham gia sự kiện này
+159,Khi nào bạn có thể nộp bài tập cuối kỳ?,When,khi nào bạn có thể nộp bài tập cuối kỳ
+160,Tại sao bạn lại chọn học đại học ở thành phố này?,Why,tại sao bạn lại chọn học đại học ở thành phố này
+161,Cách để quản lý chi tiêu hàng tháng?,How,cách để quản lý chi tiêu hàng tháng
+162,Bạn sẽ chọn làm việc ở công ty lớn hay công ty nhỏ?,What,bạn sẽ chọn làm việc ở công ty lớn hay công ty nhỏ
+163,Cái gì là điểm mạnh nhất của bạn trong công việc?,What,cái gì là điểm mạnh nhất của bạn trong công việc
+164,Ai đã giúp bạn vượt qua khó khăn lần trước?,Who,ai đã giúp bạn vượt qua khó khăn lần trước
+165,Tìm kiếm các tài liệu chuyên ngành ở đâu?,Where,tìm kiếm các tài liệu chuyên ngành ở đâu
+166,Khi nào bạn sẽ nhận được thông báo kết quả?,When,khi nào bạn sẽ nhận được thông báo kết quả
+167,Lí do nào khiến bạn lại không tham gia buổi họp hôm qua?,Why,lí do nào khiến bạn lại không tham gia buổi họp hôm qua
+168,Làm thế nào để giữ cân bằng giữa công việc và cuộc sống?,How,làm thế nào để giữ cân bằng giữa công việc và cuộc sống
+169,Bạn thích sống ở thành phố hay vùng quê?,Where,bạn thích sống ở thành phố hay vùng quê
+170,Điều bạn cảm thấy tự hào về bản thân?,What,điều bạn cảm thấy tự hào về bản thân
+171,Ai là người bạn ngưỡng mộ nhất trong ngành của mình?,Who,ai là người bạn ngưỡng mộ nhất trong ngành của mình
+172,Thời điểm phù hợp để mua hoa đào chơi Tết?,When,thời điểm phù hợp để mua hoa đào chơi tết
+173,Tại sao loài cá voi lại lớn như vậy?,Why,tại sao loài cá voi lại lớn như vậy
+174,Làm sao để học cách chơi guitar nhanh hơn?,How,làm sao để học cách chơi guitar nhanh hơn
+175,Bạn muốn tham gia câu lạc bộ sách hay câu lạc bộ âm nhạc?,What,bạn muốn tham gia câu lạc bộ sách hay câu lạc bộ âm nhạc
+176,Có nên mua những laptop gaming mỏng nhẹ? ,Yes/No,có nên mua những laptop gaming mỏng nhẹ
+177,Điều gì giúp bạn duy trì sự tập trung khi làm việc?,What,điều gì giúp bạn duy trì sự tập trung khi làm việc
+178,Ai là người đóng góp nhiều nhất trong nhóm?,Who,ai là người đóng góp nhiều nhất trong nhóm
+179,Ở đâu có thể tham gia khóa học ngắn hạn về lập trình?,Where,ở đâu có thể tham gia khóa học ngắn hạn về lập trình
+180,Khi nào bạn sẽ gửi báo cáo tài chính?,When,khi nào bạn sẽ gửi báo cáo tài chính
+181,Tại sao con người lại mơ khi ngủ?,Why,tại sao con người lại mơ khi ngủ
+182,Làm thế nào để cải thiện mối quan hệ với đồng nghiệp?,How,làm thế nào để cải thiện mối quan hệ với đồng nghiệp
+183,Bạn chọn tham gia chuyến đi cuối tuần này hay ở nhà nghỉ ngơi?,What,bạn chọn tham gia chuyến đi cuối tuần này hay ở nhà nghỉ ngơi
+184,Lớp ET-E16 02 - K67 có bao nhiêu sinh viên?,Quantity,lớp ete16 02 k67 có bao nhiêu sinh viên
+185,Ai là người đã viết bài báo khoa học này?,Who,ai là người đã viết bài báo khoa học này
+186,Khi nào bạn dự định học thêm kỹ năng mới?,When,khi nào bạn dự định học thêm kỹ năng mới
+187,Tại sao bạn lại quyết định rời bỏ công việc cũ?,Why,tại sao bạn lại quyết định rời bỏ công việc cũ
+188,Làm sao để lên kế hoạch cho một chuyến du lịch?,How,làm sao để lên kế hoạch cho một chuyến du lịch
+189,Bạn thích làm việc nhóm hay làm việc độc lập hơn?,What,bạn thích làm việc nhóm hay làm việc độc lập hơn
+190,Yếu tố quan trọng để thành công trong công việc?,What,yếu tố quan trọng để thành công trong công việc
+191,Ai sẽ là người đại diện phát biểu trong buổi lễ?,Who,ai sẽ là người đại diện phát biểu trong buổi lễ
+192,Bạn đã từng thử món ăn đặc sản của miền Trung chưa?,Yes/No,bạn đã từng thử món ăn đặc sản của miền trung chưa
+193,Làm thế nào để tải ứng dụng từ App Store?,How,làm thế nào để tải ứng dụng từ app store
+194,Tại sao hoa hướng dương luôn quay về phía mặt trời?,Why,tại sao hoa hướng dương luôn quay về phía mặt trời
+195,Tôi có thể học kỹ năng nấu ăn cơ bản ở đâu?,Where,tôi có thể học kỹ năng nấu ăn cơ bản ở đâu
+196,Kỳ nghỉ lễ sắp tới bạn dự định đi đâu?,Where,kỳ nghỉ lễ sắp tới bạn dự định đi đâu
+197,Điều gì làm bạn cảm thấy tự hào về đất nước mình?,What,điều gì làm bạn cảm thấy tự hào về đất nước mình
+198,Có phải bạn đã quên đem theo sách giáo trình hôm nay?,Yes/No,có phải bạn đã quên đem theo sách giáo trình hôm nay
+199,Cậu đã làm được bao nhiêu bài tập rồi?,Quantity,cậu đã làm được bao nhiêu bài tập rồi
+200,Làm cách nào để khắc phục lỗi khi sử dụng phần mềm?,How,làm cách nào để khắc phục lỗi khi sử dụng phần mềm
+201,Ai phát minh ra điện thoại di động đầu tiên?,Who,ai phát minh ra điện thoại di động đầu tiên
+202,Tại sao cây xanh lại cần ánh sáng mặt trời để sống?,Why,tại sao cây xanh lại cần ánh sáng mặt trời để sống
+203,Bạn thích du lịch nước ngoài hay khám phá trong nước hơn?,What,bạn thích du lịch nước ngoài hay khám phá trong nước hơn
+204,Chiếc áo này có phải là sản phẩm mới nhất trong bộ sưu tập không?,Yes/No,chiếc áo này có phải là sản phẩm mới nhất trong bộ sưu tập không
+205,Khi nào bạn sẽ bắt đầu học đàn piano?,When,khi nào bạn sẽ bắt đầu học đàn piano
+206,Ai đã giúp bạn hoàn thành bài tập lớn này?,Who,ai đã giúp bạn hoàn thành bài tập lớn này
+207,Ở đâu bán sách giáo trình với giá ưu đãi?,Where,ở đâu bán sách giáo trình với giá ưu đãi
+208,Điều gì khiến bạn cảm thấy hạnh phúc nhất trong công việc?,What,điều gì khiến bạn cảm thấy hạnh phúc nhất trong công việc
+209,Làm sao để tiết kiệm năng lượng khi sử dụng điều hòa?,How,làm sao để tiết kiệm năng lượng khi sử dụng điều hòa
+210,Liệu AI có thay thế con người không?,Yes/No,liệu ai có thay thế con người không
+211,Món ăn nào bạn yêu thích nhất trong dịp Tết?,What,món ăn nào bạn yêu thích nhất trong dịp tết
+212,Tại sao chúng ta cần bảo vệ môi trường sống?,Why,tại sao chúng ta cần bảo vệ môi trường sống
+213,Lớp yoga buổi tối mở ở đâu?,Where,lớp yoga buổi tối mở ở đâu
+214,Khi nào bạn dự định mua máy tính mới?,When,khi nào bạn dự định mua máy tính mới
+215,Điều gì làm bạn cảm thấy tự tin khi trình bày trước đám đông?,What,điều gì làm bạn cảm thấy tự tin khi trình bày trước đám đông
+216,Làm thế nào để tăng cường khả năng giao tiếp tiếng Anh?,How,làm thế nào để tăng cường khả năng giao tiếp tiếng anh
+217,AI có nguy hiểm không?,Yes/No,ai có nguy hiểm không
+218,Cần bao nhiêu tiền để mở một cửa hàng nhỏ?,Quantity,cần bao nhiêu tiền để mở một cửa hàng nhỏ
+219,Bạn muốn tham gia câu lạc bộ âm nhạc hay thể thao?,What,bạn muốn tham gia câu lạc bộ âm nhạc hay thể thao
+220,Ai là người phụ trách tổ chức sự kiện tuần này?,Who,ai là người phụ trách tổ chức sự kiện tuần này
+221,Điều gì giúp bạn duy trì động lực học tập?,What,điều gì giúp bạn duy trì động lực học tập
+222,Làm cách nào để cải thiện chất lượng không khí trong nhà?,How,làm cách nào để cải thiện chất lượng không khí trong nhà
+223,Có ai trong gia đình bạn từng học ở trường này không?,Yes/No,có ai trong gia đình bạn từng học ở trường này không
+224,Khi nào là thời điểm tốt nhất để tập thể dục mỗi ngày?,When,khi nào là thời điểm tốt nhất để tập thể dục mỗi ngày
+225,Tại sao trẻ em cần ngủ đủ giấc mỗi ngày?,Why,tại sao trẻ em cần ngủ đủ giấc mỗi ngày
+226,Có đúng không khi cho rằng trí tuệ nhân tạo đang dần thay thế con người trong nhiều lĩnh vực?,Yes/No,có đúng không khi cho rằng trí tuệ nhân tạo đang dần thay thế con người trong nhiều lĩnh vực
+227,Ở đâu có dịch vụ chăm sóc thú cưng uy tín?,Where,ở đâu có dịch vụ chăm sóc thú cưng uy tín
+228,Lý do chính khiến bạn chọn ngành học này?,Why,lý do chính khiến bạn chọn ngành học này
+229,Người đầu tiên chinh phục đỉnh Everest là?,Who,người đầu tiên chinh phục đỉnh everest là
+230,Bạn muốn dùng món tráng miệng nào trong thực đơn hôm nay?,What,bạn muốn dùng món tráng miệng nào trong thực đơn hôm nay
+231,Điều gì bạn thấy thú vị nhất khi làm việc nhóm?,What,điều gì bạn thấy thú vị nhất khi làm việc nhóm
+232,Làm thế nào để phát triển tư duy sáng tạo?,How,làm thế nào để phát triển tư duy sáng tạo
+233,Khi nào bạn sẽ tổ chức sinh nhật cho con?,When,khi nào bạn sẽ tổ chức sinh nhật cho con
+234,Điều gì khiến bạn muốn trở thành nhà khoa học?,What,điều gì khiến bạn muốn trở thành nhà khoa học
+235,Tại sao các loài chim lại di cư vào mùa đông?,Why,tại sao các loài chim lại di cư vào mùa đông
+236,Bạn đã từng tham gia lớp học nấu ăn truyền thống chưa?,Yes/No,bạn đã từng tham gia lớp học nấu ăn truyền thống chưa
+237,Tìm hiểu về lịch sử Việt Nam chi tiết ở đâu?,Where,tìm hiểu về lịch sử việt nam chi tiết ở đâu
+238,Điều gì khiến bạn tin tưởng sản phẩm này hơn?,What,điều gì khiến bạn tin tưởng sản phẩm này hơn
+239,Làm sao để sắp xếp công việc khoa học hơn?,How,làm sao để sắp xếp công việc khoa học hơn
+240,Có phải bạn đang tìm kiếm một công việc mới không?,Yes/No,có phải bạn đang tìm kiếm một công việc mới không
+241,Bao nhiêu người tham gia chương trình thiện nguyện lần trước?,Quantity,bao nhiêu người tham gia chương trình thiện nguyện lần trước
+242,Khi nào bạn sẽ đi du lịch cùng gia đình?,When,khi nào bạn sẽ đi du lịch cùng gia đình
+243,Điều gì làm bạn cảm thấy yêu thích môn toán học?,What,điều gì làm bạn cảm thấy yêu thích môn toán học
+244,Làm cách nào để cải thiện khả năng viết luận văn?,How,làm cách nào để cải thiện khả năng viết luận văn
+245,Có ai trong lớp đã nộp bài tập chưa?,Yes/No,có ai trong lớp đã nộp bài tập chưa
+246,Chỗ nào bán các sản phẩm thủ công mỹ nghệ độc đáo?,Where,chỗ nào bán các sản phẩm thủ công mỹ nghệ độc đáo
+247,Bạn sẽ chọn máy ảnh kỹ thuật số hay máy ảnh film?,What,bạn sẽ chọn máy ảnh kỹ thuật số hay máy ảnh film
+248,Tại sao các loài động vật cần môi trường sống tự nhiên?,Why,tại sao các loài động vật cần môi trường sống tự nhiên
+249,"Chơi game crack, dùng Windows lậu có sao không?",Yes/No,chơi game crack dùng windows lậu có sao không
+250,Chủ đề nào làm bạn thấy hứng thú nhất ?,What,chủ đề nào làm bạn thấy hứng thú nhất
+251,Khi nào là thời điểm thích hợp để bắt đầu một sở thích mới?,When,khi nào là thời điểm thích hợp để bắt đầu một sở thích mới
+252,Ai sẽ là người hướng dẫn bạn trong khóa học này?,Who,ai sẽ là người hướng dẫn bạn trong khóa học này
+253,Điều gì khiến bạn quyết định thay đổi phong cách sống?,What,điều gì khiến bạn quyết định thay đổi phong cách sống
+254,Làm thế nào để bảo vệ dữ liệu cá nhân khi sử dụng mạng xã hội?,How,làm thế nào để bảo vệ dữ liệu cá nhân khi sử dụng mạng xã hội
+255,Có phải bạn đã từng tham gia các cuộc thi tranh biện không?,Yes/No,có phải bạn đã từng tham gia các cuộc thi tranh biện không
+256,Bao nhiêu giờ bạn dành để học ngoại ngữ mỗi tuần?,Quantity,bao nhiêu giờ bạn dành để học ngoại ngữ mỗi tuần
+257,Bạn muốn đi thăm bảo tàng hay công viên sinh thái vào cuối tuần?,Yes/No,bạn muốn đi thăm bảo tàng hay công viên sinh thái vào cuối tuần
+258,Tại sao chúng ta cần tái chế rác thải nhựa?,Why,tại sao chúng ta cần tái chế rác thải nhựa
+259,Điều gì làm bạn thấy thư giãn sau một ngày làm việc dài?,What,điều gì làm bạn thấy thư giãn sau một ngày làm việc dài
+260,AI hoạt động như thế nào?,How,ai hoạt động như thế nào
+261,Người đã giới thiệu bạn vào công việc hiện tại?,Who,người đã giới thiệu bạn vào công việc hiện tại
+262,Bạn muốn học thêm ngoại ngữ nào ngoài tiếng Anh?,What,bạn muốn học thêm ngoại ngữ nào ngoài tiếng anh
+263,Chỗ nào cung cấp các khóa học miễn phí về thiết kế đồ họa?,Where,chỗ nào cung cấp các khóa học miễn phí về thiết kế đồ họa
+264,Điều gì khiến bạn nhớ nhất về thời đi học?,What,điều gì khiến bạn nhớ nhất về thời đi học
+265,Khi nào bạn dự định tham gia các khóa học phát triển kỹ năng?,When,khi nào bạn dự định tham gia các khóa học phát triển kỹ năng
+266,Làm sao để giảm thiểu tác động tiêu cực từ ô nhiễm tiếng ồn?,How,làm sao để giảm thiểu tác động tiêu cực từ ô nhiễm tiếng ồn
+267,Tại sao con người cần phát triển công nghệ xanh?,Why,tại sao con người cần phát triển công nghệ xanh
+268,Bạn đã từng thử nấu món ăn theo phong cách nước ngoài chưa?,Yes/No,bạn đã từng thử nấu món ăn theo phong cách nước ngoài chưa
+269,Tôi có thể tìm kiếm các bài viết học thuật uy tín ở đâu?,Where,tôi có thể tìm kiếm các bài viết học thuật uy tín ở đâu
+270,Giới hạn của AI về mặt phát triển là gì?,What,giới hạn của ai về mặt phát triển là gì
+271,Ai đã truyền cảm hứng cho bạn trong hoạt động này?,Who,ai đã truyền cảm hứng cho bạn trong hoạt động này
+272,Điều gì làm bạn cảm thấy hứng thú khi tham gia hoạt động ngoại khóa?,What,điều gì làm bạn cảm thấy hứng thú khi tham gia hoạt động ngoại khóa
+273,Khắc phục lỗi màn hình không hiển thị chuột bằng cách nào?,How,khắc phục lỗi màn hình không hiển thị chuột bằng cách nào
+274,Bạn đã từng nghĩ đến việc bắt đầu khởi nghiệp chưa?,Yes/No,bạn đã từng nghĩ đến việc bắt đầu khởi nghiệp chưa
+275,Khi nào là thời điểm thích hợp để học cách đầu tư?,When,khi nào là thời điểm thích hợp để học cách đầu tư
+276,Tại sao chúng ta nên chú trọng đến sức khỏe tinh thần?,Why,tại sao chúng ta nên chú trọng đến sức khỏe tinh thần
+277,Điều gì làm bạn cảm thấy hạnh phúc trong cuộc sống hàng ngày?,What,điều gì làm bạn cảm thấy hạnh phúc trong cuộc sống hàng ngày
+278,Làm cách nào để lập kế hoạch học tập hiệu quả?,How,làm cách nào để lập kế hoạch học tập hiệu quả
+279,Có phải bạn đang tìm hiểu về các chương trình trao đổi sinh viên không?,Yes/No,có phải bạn đang tìm hiểu về các chương trình trao đổi sinh viên không
+280,Đăng ký các lớp học kỹ năng mềm ở đâu ?,Where,đăng ký các lớp học kỹ năng mềm ở đâu
+281,Bạn muốn chọn làm việc ở thành phố lớn hay vùng quê yên tĩnh?,Where,bạn muốn chọn làm việc ở thành phố lớn hay vùng quê yên tĩnh
+282,Điều gì khiến bạn cảm thấy yêu thích việc đi du lịch?,What,điều gì khiến bạn cảm thấy yêu thích việc đi du lịch
+283,Làm sao để chọn một cuốn sách phù hợp với sở thích?,How,làm sao để chọn một cuốn sách phù hợp với sở thích
+284,Khi nào bạn sẽ tổ chức buổi họp mặt gia đình?,When,khi nào bạn sẽ tổ chức buổi họp mặt gia đình
+285,Tại sao chúng ta nên học hỏi từ những thất bại?,Why,tại sao chúng ta nên học hỏi từ những thất bại
+286,Bạn đã từng tham gia các buổi hòa nhạc trực tiếp chưa?,Who,bạn đã từng tham gia các buổi hòa nhạc trực tiếp chưa
+287,Cái gì là điều đầu tiên bạn làm khi bắt đầu một ngày mới?,What,cái gì là điều đầu tiên bạn làm khi bắt đầu một ngày mới
+288,Ai đã giúp bạn trong giai đoạn khó khăn nhất?,Who,ai đã giúp bạn trong giai đoạn khó khăn nhất
+289,Điều gì khiến bạn cảm thấy an tâm khi làm việc tại công ty này?,What,điều gì khiến bạn cảm thấy an tâm khi làm việc tại công ty này
+290,Làm thế nào để xây dựng một mối quan hệ bền vững?,How,làm thế nào để xây dựng một mối quan hệ bền vững
+291,Bạn thích gì hơn: chó hay mèo?,What,bạn thích gì hơn chó hay mèo
+292,Bạn học được kỹ năng này như thế nào?,How,bạn học được kỹ năng này như thế nào
+293,Ai là thủ tướng đầu tiên của Việt Nam?,Who,ai là thủ tướng đầu tiên của việt nam
+294,Tương lai của giáo dục sẽ thay đổi như thế nào?,How,tương lai của giáo dục sẽ thay đổi như thế nào
+295,Bạn mong muốn có bao nhiêu căn nhà sau 10 năm nữa?,Quantity,bạn mong muốn có bao nhiêu căn nhà sau 10 năm nữa
+296,Khi nào bạn tốt nghiệp đại học?,When,khi nào bạn tốt nghiệp đại học
+297,"Bạn thường uống gì vào buổi sáng, trà hay cà phê?",What,bạn thường uống gì vào buổi sáng trà hay cà phê
+298,"Nếu có thể sống ở bất kỳ nơi nào trên thế giới, bạn sẽ chọn nơi nào?",Where,nếu có thể sống ở bất kỳ nơi nào trên thế giới bạn sẽ chọn nơi nào
+299,Bạn đã tham gia cuộc họp sáng nay chưa?,Yes/No,bạn đã tham gia cuộc họp sáng nay chưa
+300,Hôm qua cậu được bao nhiêu điểm?,Quantity,hôm qua cậu được bao nhiêu điểm
+301,Nguyên nhân nào dẫn đến sự thay đổi khí hậu?,Why,nguyên nhân nào dẫn đến sự thay đổi khí hậu
+302,Ai sẽ dạy lớp học tuần tới?,Who,ai sẽ dạy lớp học tuần tới
+303,Cách nào để tiết kiệm thời gian khi làm việc?,How,cách nào để tiết kiệm thời gian khi làm việc
+304,Thư viện gần nhất chỗ nào?,Where,thư viện gần nhất chỗ nào
+305,Bạn có đọc sách mỗi ngày không?,Yes/No,bạn có đọc sách mỗi ngày không
+306,Điều gì quan trọng nhất trong cuộc sống của bạn?,What,điều gì quan trọng nhất trong cuộc sống của bạn
+307,Bao giờ công ty tổ chức hội thảo?,When,bao giờ công ty tổ chức hội thảo
+308,Đây có phải là món ăn bạn thích không?,Yes/No,đây có phải là món ăn bạn thích không
+309,Thành phố nào là thủ đô của Việt Nam?,Where,thành phố nào là thủ đô của việt nam
+310,Làm thế nào để giảm cân hiệu quả?,How,làm thế nào để giảm cân hiệu quả
+311,Bạn có bao nhiêu người bạn thân?,Quantity,bạn có bao nhiêu người bạn thân
+312,Công ty của bạn có bao nhiêu nhân viên?,Quantity,công ty của bạn có bao nhiêu nhân viên
+313,Bạn thường nghe loại nhạc nào khi thư giãn?,What,bạn thường nghe loại nhạc nào khi thư giãn
+314,Điều gì sẽ xảy ra nếu bạn trúng xổ số?,What,điều gì sẽ xảy ra nếu bạn trúng xổ số
+315,Lịch sử Việt Nam bắt đầu từ khi nào?,When,lịch sử việt nam bắt đầu từ khi nào
+316,Người nào chịu trách nhiệm về dự án này?,Who,người nào chịu trách nhiệm về dự án này
+317,Điều gì khiến bạn chọn một công việc mới?,What,điều gì khiến bạn chọn một công việc mới
+318,Tại sao bạn quyết định chuyển ngành học?,Why,tại sao bạn quyết định chuyển ngành học
+319,Làm sao để giải bài toán này?,How,làm sao để giải bài toán này
+320,Bạn sẽ làm gì nếu không có internet trong một tuần?,How,bạn sẽ làm gì nếu không có internet trong một tuần
+321,Bạn học trung học ở trường nào?,Where,bạn học trung học ở trường nào
+322,Tại sao bạn nghỉ làm việc ở công ty trước?,Why,tại sao bạn nghỉ làm việc ở công ty trước
+323,Làm thế nào để tạo một kế hoạch tài chính hiệu quả?,How,làm thế nào để tạo một kế hoạch tài chính hiệu quả
+324,Địa điểm nào nổi tiếng nhất ở Việt Nam?,Where,địa điểm nào nổi tiếng nhất ở việt nam
+325,"Nếu không làm công việc này, bạn sẽ làm gì?",What,nếu không làm công việc này bạn sẽ làm gì
+326,Ai đã sáng lập ra Shopee?,Who,ai đã sáng lập ra shopee
+327,Bạn đã gặp anh ấy lần đầu khi nào?,When,bạn đã gặp anh ấy lần đầu khi nào
+328,Bao nhiêu tiền là đủ để mua nhà?,Quantity,bao nhiêu tiền là đủ để mua nhà
+329,Đây có phải là quyết định cuối cùng của bạn không?,Yes/No,đây có phải là quyết định cuối cùng của bạn không
+330,Cái gì làm bạn cảm thấy hạnh phúc?,What,cái gì làm bạn cảm thấy hạnh phúc
+331,Lý do nào khiến bạn chọn học ngành này?,Why,lý do nào khiến bạn chọn học ngành này
+332,Bạn đã hoàn thành bao nhiêu dự án trong năm nay?,Quantity,bạn đã hoàn thành bao nhiêu dự án trong năm nay
+333,Làm thế nào để sửa lỗi phần mềm này?,How,làm thế nào để sửa lỗi phần mềm này
+334,Loại sách nào bạn hay đọc khi có thời gian rảnh?,What,loại sách nào bạn hay đọc khi có thời gian rảnh
+335,Ai là người đứng đầu bộ phận nhân sự?,Who,ai là người đứng đầu bộ phận nhân sự
+336,Thành phố nào bạn muốn ghé thăm nhất?,Where,thành phố nào bạn muốn ghé thăm nhất
+337,Tại sao bạn thích làm việc tại công ty này?,Why,tại sao bạn thích làm việc tại công ty này
+338,Công nghệ này hoạt động như thế nào?,How,công nghệ này hoạt động như thế nào
+339,Khi nào bạn định kết hôn?,When,khi nào bạn định kết hôn
+340,Đây có phải là điện thoại mới của bạn không?,Yes/No,đây có phải là điện thoại mới của bạn không
+341,Điều gì là thách thức lớn nhất trong công việc của bạn?,What,điều gì là thách thức lớn nhất trong công việc của bạn
+342,Vì sao bạn chọn sản phẩm này thay vì sản phẩm khác?,Why,vì sao bạn chọn sản phẩm này thay vì sản phẩm khác
+343,Cách nào nhanh nhất để học một ngôn ngữ mới?,How,cách nào nhanh nhất để học một ngôn ngữ mới
+344,Ai đã giúp bạn vượt qua khó khăn lần trước?,Who,ai đã giúp bạn vượt qua khó khăn lần trước
+345,Ngày nào bạn thích nhất trong tuần?,When,ngày nào bạn thích nhất trong tuần
+346,Bao nhiêu học sinh đang học trong lớp của bạn?,Quantity,bao nhiêu học sinh đang học trong lớp của bạn
+347,Bạn có muốn tham gia sự kiện này không?,Yes/No,bạn có muốn tham gia sự kiện này không
+348,Giảng viên môn NLP lớp bạn là ai?,Who,giảng viên môn nlp lớp bạn là ai
+349,Thành phố nào bạn nghĩ là đáng sống nhất?,Where,thành phố nào bạn nghĩ là đáng sống nhất
+350,Bạn sẽ làm gì nếu trúng giải độc đắc?,How,bạn sẽ làm gì nếu trúng giải độc đắc
+351,Tại sao bạn muốn chuyển đến sống ở thành phố này?,Why,tại sao bạn muốn chuyển đến sống ở thành phố này
+352,Làm thế nào để tiết kiệm chi phí khi mua sắm?,How,làm thế nào để tiết kiệm chi phí khi mua sắm
+353,Giảng viên môn NLP của bạn rất tuyệt vời phải không?,Yes/No,giảng viên môn nlp của bạn rất tuyệt vời phải không
+354,Ai là người gửi email đó cho bạn?,Who,ai là người gửi email đó cho bạn
+355,Đây có phải là lần đầu tiên bạn đến đây không?,Yes/No,đây có phải là lần đầu tiên bạn đến đây không
+356,Khi nào bạn định bắt đầu dự án mới?,When,khi nào bạn định bắt đầu dự án mới
+357,Địa điểm nào ở Việt Nam bạn muốn đến nhất?,Where,địa điểm nào ở việt nam bạn muốn đến nhất
+358,Điều gì khiến bạn cảm thấy hứng thú với công việc hiện tại?,What,điều gì khiến bạn cảm thấy hứng thú với công việc hiện tại
+359,Ai là người lãnh đạo nhóm của bạn?,Who,ai là người lãnh đạo nhóm của bạn
+360,Vì sao bạn lại thay đổi quyết định?,Why,vì sao bạn lại thay đổi quyết định
+361,Bạn sẽ làm gì nếu được nghỉ phép một tuần?,How,bạn sẽ làm gì nếu được nghỉ phép một tuần
+362,Thành phố nào nổi tiếng với món phở?,Where,thành phố nào nổi tiếng với món phở
+363,Bạn đã tham gia lớp học đó chưa?,Yes/No,bạn đã tham gia lớp học đó chưa
+364,Làm thế nào để quản lý thời gian hiệu quả hơn?,How,làm thế nào để quản lý thời gian hiệu quả hơn
+365,Bạn có bao nhiêu anh chị em?,Quantity,bạn có bao nhiêu anh chị em
+366,Sự kiện này diễn ra vào ngày nào?,When,sự kiện này diễn ra vào ngày nào
+367,Cái gì là ưu tiên hàng đầu của bạn trong năm nay?,What,cái gì là ưu tiên hàng đầu của bạn trong năm nay
+368,"Khi nào bạn thích đọc sách nhất, buổi sáng hay buổi tối?",When,khi nào bạn thích đọc sách nhất buổi sáng hay buổi tối
+369,Tại sao bạn lại chọn làm việc ở đây?,Why,tại sao bạn lại chọn làm việc ở đây
+370,Bạn sẽ đi du lịch ở đâu vào kỳ nghỉ này?,Where,bạn sẽ đi du lịch ở đâu vào kỳ nghỉ này
+371,Cách nào để học lập trình nhanh nhất?,How,cách nào để học lập trình nhanh nhất
+372,Khi nào bạn có thể gửi báo cáo cho tôi?,When,khi nào bạn có thể gửi báo cáo cho tôi
+373,Bao nhiêu tiền để bạn mua chiếc xe này?,Quantity,bao nhiêu tiền để bạn mua chiếc xe này
+374,Đây có phải là lần cuối cùng bạn gặp anh ấy không?,Yes/No,đây có phải là lần cuối cùng bạn gặp anh ấy không
+375,Điều gì khiến bạn cảm thấy lo lắng nhất?,What,điều gì khiến bạn cảm thấy lo lắng nhất
+376,Bạn sẽ chọn người nào để dẫn dắt dự án?,Who,bạn sẽ chọn người nào để dẫn dắt dự án
+377,Khi nào bạn sẽ quyết định chọn ngành học?,When,khi nào bạn sẽ quyết định chọn ngành học
+378,"Nếu không phải hôm nay, bạn sẽ chọn ngày nào?",When,nếu không phải hôm nay bạn sẽ chọn ngày nào
+379,Bạn nghĩ rằng công nghệ ảnh hưởng đến cuộc sống như thế nào?,What,bạn nghĩ rằng công nghệ ảnh hưởng đến cuộc sống như thế nào
+380,Khi nào bạn sẽ tổ chức tiệc cưới?,When,khi nào bạn sẽ tổ chức tiệc cưới
+381,Khi nào bạn muốn học một kỹ năng mới?,When,khi nào bạn muốn học một kỹ năng mới
+382,Làm thế nào bạn có thể cải thiện kỹ năng giao tiếp?,How,làm thế nào bạn có thể cải thiện kỹ năng giao tiếp
+383,Cái gì là yếu tố quyết định trong thành công?,What,cái gì là yếu tố quyết định trong thành công
+384,Bạn đã viết được bao nhiêu trang cho báo cáo?,Quantity,bạn đã viết được bao nhiêu trang cho báo cáo
+385,Đây có phải là giải pháp tốt nhất không?,Yes/No,đây có phải là giải pháp tốt nhất không
+386,Ai sẽ đưa ra quyết định cuối cùng?,Who,ai sẽ đưa ra quyết định cuối cùng
+387,Bạn thích ăn ở nhà hàng nào nhất?,Where,bạn thích ăn ở nhà hàng nào nhất
+388,Khi nào bạn cảm thấy mình trưởng thành hơn?,When,khi nào bạn cảm thấy mình trưởng thành hơn
+389,Bạn sẽ chọn địa điểm nào để nghỉ dưỡng?,Where,bạn sẽ chọn địa điểm nào để nghỉ dưỡng
+390,Bạn sinh ra ở đâu?,Where,bạn sinh ra ở đâu
+391,Có bao nhiêu người đã tham gia buổi họp hôm nay?,Quantity,có bao nhiêu người đã tham gia buổi họp hôm nay
+392,Điều gì làm bạn cảm thấy tự hào nhất?,What,điều gì làm bạn cảm thấy tự hào nhất
+393,Tại sao bạn cảm thấy hạnh phúc với công việc này?,Why,tại sao bạn cảm thấy hạnh phúc với công việc này
+394,Cách nào để đạt được mục tiêu trong thời gian ngắn?,How,cách nào để đạt được mục tiêu trong thời gian ngắn
+395,Địa điểm nào bạn sẽ chọn để tổ chức tiệc cưới?,Where,địa điểm nào bạn sẽ chọn để tổ chức tiệc cưới
+396,Bạn có đồng ý với quyết định của họ không?,Yes/No,bạn có đồng ý với quyết định của họ không
+397,Khi nào bạn nghĩ là thời điểm thích hợp để đầu tư?,When,khi nào bạn nghĩ là thời điểm thích hợp để đầu tư
+398,Điều gì khiến bạn quyết định học ở nước ngoài?,Why,điều gì khiến bạn quyết định học ở nước ngoài
+399,Bạn muốn du lịch ở đâu để khám phá mạo hiểm hoặc thư giãn?,Where,bạn muốn du lịch ở đâu để khám phá mạo hiểm hoặc thư giãn
+400,Ai đã phát minh ra bóng đèn?,Who,ai đã phát minh ra bóng đèn
+401,Bạn đã thực hiện bao nhiêu cuộc gọi hôm qua?,Quantity,bạn đã thực hiện bao nhiêu cuộc gọi hôm qua
+402,Tại sao bạn chọn học ngành công nghệ thông tin?,Why,tại sao bạn chọn học ngành công nghệ thông tin
+403,Cách nào bạn sử dụng để tìm kiếm thông tin nhanh nhất?,How,cách nào bạn sử dụng để tìm kiếm thông tin nhanh nhất
+404,Bạn đã từng thử món ăn này chưa?,Yes/No,bạn đã từng thử món ăn này chưa
+405,Bạn thường đến quán cà phê nào?,Where,bạn thường đến quán cà phê nào
+406,Ai là người trả tiền ăn hôm qua?,Who,ai là người trả tiền ăn hôm qua
+407,Bạn có bao nhiêu món đồ cần mua?,Quantity,bạn có bao nhiêu món đồ cần mua
+408,Bạn học ngoại ngữ như thế nào?,How,bạn học ngoại ngữ như thế nào
+409,Thời điểm nào bạn thấy khó khăn nhất?,When,thời điểm nào bạn thấy khó khăn nhất
+410,Bạn nghĩ rằng thế giới sẽ thay đổi ra sao trong 20 năm tới?,What,bạn nghĩ rằng thế giới sẽ thay đổi ra sao trong 20 năm tới
+411,Bạn có muốn tham gia cuộc thi này không?,Yes/No,bạn có muốn tham gia cuộc thi này không
+412,Điều gì làm bạn cảm thấy yêu đời hơn?,What,điều gì làm bạn cảm thấy yêu đời hơn
+413,Tại sao bạn không tham gia sự kiện lần trước?,Why,tại sao bạn không tham gia sự kiện lần trước
+414,Trong lớp bạn có bao nhiêu học sinh?,Quantity,trong lớp bạn có bao nhiêu học sinh
+415,Khi nào bạn nhận ra sở thích của mình?,When,khi nào bạn nhận ra sở thích của mình
+416,Bạn đã ghé thăm bao nhiêu quốc gia?,Quantity,bạn đã ghé thăm bao nhiêu quốc gia
+417,Ai là nhà vô địch giải đấu năm nay?,Who,ai là nhà vô địch giải đấu năm nay
+418,Bạn đã từng đến thăm thành phố Đà Nẵng chưa?,Yes/No,bạn đã từng đến thăm thành phố đà nẵng chưa
+419,Bạn sẽ làm gì nếu gặp lại người bạn cũ?,How,bạn sẽ làm gì nếu gặp lại người bạn cũ
+420,Khái niệm nào là cơ bản nhất trong vật lý?,What,khái niệm nào là cơ bản nhất trong vật lý
+421,Sinh viên xuất sắc Đại học Bách khoa Hà Nội tốt nghiệp có được lương nghìn đô không?,Yes/No,sinh viên xuất sắc đại học bách khoa hà nội tốt nghiệp có được lương nghìn đô không
+422,"Nếu bạn được chọn đi du lịch miễn phí, bạn sẽ đi đâu?",Where,nếu bạn được chọn đi du lịch miễn phí bạn sẽ đi đâu
+423,Cách nào tốt nhất để tiết kiệm tiền?,How,cách nào tốt nhất để tiết kiệm tiền
+424,Nơi nào bạn nghĩ là tốt nhất để học tập?,Where,nơi nào bạn nghĩ là tốt nhất để học tập
+425,Món quà nào bạn muốn nhận vào sinh nhật?,What,món quà nào bạn muốn nhận vào sinh nhật
+426,Ai là người đã gợi ý cho bạn cuốn sách bạn thích nhất?,Who,ai là người đã gợi ý cho bạn cuốn sách bạn thích nhất
+427,Bạn đã dành bao nhiêu giờ để hoàn thành bài tập?,Quantity,bạn đã dành bao nhiêu giờ để hoàn thành bài tập
+428,Khi nào bạn dự định hoàn thành dự án này?,When,khi nào bạn dự định hoàn thành dự án này
+429,Điều gì bạn muốn thay đổi trong tương lai?,What,điều gì bạn muốn thay đổi trong tương lai
+430,Ai sẽ tham gia cùng bạn trong chuyến du lịch sắp tới?,Who,ai sẽ tham gia cùng bạn trong chuyến du lịch sắp tới
+431,Điều gì khiến bạn chọn ngành học này?,What,điều gì khiến bạn chọn ngành học này
+432,Ai đã viết bài hát này?,Who,ai đã viết bài hát này
+433,Đây có phải là lựa chọn cuối cùng của bạn không?,Yes/No,đây có phải là lựa chọn cuối cùng của bạn không
+434,Đâu là nơi bạn cảm thấy bình yên nhất?,Where,đâu là nơi bạn cảm thấy bình yên nhất
+435,Bạn có nghĩ rằng mình sẽ thành công không?,Yes/No,bạn có nghĩ rằng mình sẽ thành công không
+436,Điều gì khiến bạn yêu thích lĩnh vực giáo dục?,Why,điều gì khiến bạn yêu thích lĩnh vực giáo dục
+437,Thành phố nào bạn thích sống nhất?,Where,thành phố nào bạn thích sống nhất
+438,Lý do nào khiến bạn chọn sản phẩm này?,Why,lý do nào khiến bạn chọn sản phẩm này
+439,Số lượng khách mời dự kiến là bao nhiêu?,Quantity,số lượng khách mời dự kiến là bao nhiêu
+440,Làm thế nào bạn vượt qua những khó khăn trong cuộc sống?,How,làm thế nào bạn vượt qua những khó khăn trong cuộc sống
+441,Loại sách nào bạn thích đọc nhất?,What,loại sách nào bạn thích đọc nhất
+442,Bạn nghĩ rằng công nghệ ảnh hưởng đến cuộc sống như thế nào?,What,bạn nghĩ rằng công nghệ ảnh hưởng đến cuộc sống như thế nào
+443,Ai là người đã truyền cảm hứng cho bạn?,Who,ai là người đã truyền cảm hứng cho bạn
+444,Bạn thường làm gì để thư giãn sau một ngày dài?,How,bạn thường làm gì để thư giãn sau một ngày dài
+445,Bạn có cảm thấy cần thêm thời gian không?,Yes/No,bạn có cảm thấy cần thêm thời gian không
+446,Ngày nào bạn cảm thấy hạnh phúc nhất trong đời?,When,ngày nào bạn cảm thấy hạnh phúc nhất trong đời
+447,Đây có phải là lần đầu bạn đến nơi này không?,Yes/No,đây có phải là lần đầu bạn đến nơi này không
+448,Loại hình nghệ thuật nào bạn thấy thú vị nhất?,What,loại hình nghệ thuật nào bạn thấy thú vị nhất
+449,Bạn nghĩ gì về giá trị của lòng trung thực?,What,bạn nghĩ gì về giá trị của lòng trung thực
+450,Thời điểm nào bạn thấy bản thân mạnh mẽ nhất?,When,thời điểm nào bạn thấy bản thân mạnh mẽ nhất
+451,Ai sẽ đại diện công ty tham dự buổi hội thảo?,Who,ai sẽ đại diện công ty tham dự buổi hội thảo
+452,Cái gì giúp bạn vượt qua những thử thách?,What,cái gì giúp bạn vượt qua những thử thách
+453,Làm thế nào để bạn tạo động lực cho nhân viên?,How,làm thế nào để bạn tạo động lực cho nhân viên
+454,Bạn thích loại phim nào nhất?,What,bạn thích loại phim nào nhất
+455,Tại sao bạn nghĩ rằng kế hoạch này sẽ thành công?,Why,tại sao bạn nghĩ rằng kế hoạch này sẽ thành công
+456,Bạn muốn làm gì trong thời gian rảnh rỗi?,What,bạn muốn làm gì trong thời gian rảnh rỗi
+457,Điều gì là nguồn động lực lớn nhất của bạn?,What,điều gì là nguồn động lực lớn nhất của bạn
+458,Cách nào để quản lý dự án hiệu quả hơn?,How,cách nào để quản lý dự án hiệu quả hơn
+459,Cố vấn học tập của lớp ET-E16 02 - K67 là ai?,Who,cố vấn học tập của lớp ete16 02 k67 là ai
+460,Lớp ET-E16 02 - K67 có bao nhiêu sinh viên?,Quantity,lớp ete16 02 k67 có bao nhiêu sinh viên
+461,Lớp ET-E16 02 - K67 có sinh viên nước ngoài không?,Yes/No,lớp ete16 02 k67 có sinh viên nước ngoài không
+462,Làm thế nào để đạt được học bổng?,How,làm thế nào để đạt được học bổng
+463,"Cần làm gì để đạt được danh hiệu ""Sinh viên 5 tốt""",How,cần làm gì để đạt được danh hiệu sinh viên 5 tốt
+464,Bạn đã học được những điều gì từ môn NLP?,What,bạn đã học được những điều gì từ môn nlp
+465,Bạn có thường xuyên tham gia các hoạt động tình nguyện không?,Yes/No,bạn có thường xuyên tham gia các hoạt động tình nguyện không
+466,Làm thế nào bạn chọn được món ăn trong thực đơn?,How,làm thế nào bạn chọn được món ăn trong thực đơn
+467,Mỗi ngày bạn học bao nhiêu giờ?,Quantity,mỗi ngày bạn học bao nhiêu giờ
+468,Người đàn ông cao nhất thế giới là ai?,Who,người đàn ông cao nhất thế giới là ai
+469,SEEECUP diễn ra vào khi nào?,When,seeecup diễn ra vào khi nào
+470,Điều gì làm ảnh hưởng đến kết quả học tập của bạn?,What,điều gì làm ảnh hưởng đến kết quả học tập của bạn
+471,Bạn có kế hoạch gì để cải thiện kết quả học tập của mình?,How,bạn có kế hoạch gì để cải thiện kết quả học tập của mình
+472,Bạn làm thế nào để chọn được sản phẩm điện thoại phù hợp?,How,bạn làm thế nào để chọn được sản phẩm điện thoại phù hợp
+473,Thủ đô của nước Đức là gì?,Where,thủ đô của nước đức là gì
+474,Bạn thường làm gì để giảm stress?,How,bạn thường làm gì để giảm stress
+475,"Trong tuần qua, bạn đã nghe bao nhiêu bài hát thuộc thể loại bạn thích?",Quantity,trong tuần qua bạn đã nghe bao nhiêu bài hát thuộc thể loại bạn thích
+476,Bạn cao bao nhiêu cm?,Quantity,bạn cao bao nhiêu cm
+477,Tại sao bạn lại chọn ngành Truyền thông số và Kỹ thuật đa phương tiện?,Why,tại sao bạn lại chọn ngành truyền thông số và kỹ thuật đa phương tiện
+478,Bạn hài lòng với lựa chọn này chứ?,Yes/No,bạn hài lòng với lựa chọn này chứ
+479,Làm thế nào để học tốt các môn đại cương?,How,làm thế nào để học tốt các môn đại cương
+480,Bạn có yêu Đại học Bách khoa Hà Nội không?,Yes/No,bạn có yêu đại học bách khoa hà nội không
+481,Bạn nghĩ ai sẽ là nhà vô địch SEEECUP 2024?,Who,bạn nghĩ ai sẽ là nhà vô địch seeecup 2024
+482,Điều gì làm bạn cảm thấy hạnh phúc nhất?,What,điều gì làm bạn cảm thấy hạnh phúc nhất
+483,Hiệu trưởng của trường Điện - Điện tử là ai?,Who,hiệu trưởng của trường điện điện tử là ai
+484,Câu slogan của sinh viên trường Điện - Điện tử là gì?,What,câu slogan của sinh viên trường điện điện tử là gì
+485,BCH SEEE có phải là ngôi nhà thứ hai của bạn không?,Yes/No,bch seee có phải là ngôi nhà thứ hai của bạn không
+486,Một tháng bạn thường đọc bao nhiêu cuốn sách?,Quantity,một tháng bạn thường đọc bao nhiêu cuốn sách
+487,Bạn sẽ làm gì vào Noel năm nay?,What,bạn sẽ làm gì vào noel năm nay
+488,Bạn có người yêu chưa?,Yes/No,bạn có người yêu chưa
+489,Bạn có thích học Toán hơn Văn không?,Yes/No,bạn có thích học toán hơn văn không
+490,Ai là người truyền cảm hứng lớn nhất trong cuộc sống của bạn?,Who,ai là người truyền cảm hứng lớn nhất trong cuộc sống của bạn
+491,Món quà nào bạn đã nhận được mà bạn trân trọng nhất?,What,món quà nào bạn đã nhận được mà bạn trân trọng nhất
+492,Khi nào bạn cảm thấy tự hào nhất về bản thân?,When,khi nào bạn cảm thấy tự hào nhất về bản thân
+493,Tại sao bạn chọn học tại ngôi trường này?,Why,tại sao bạn chọn học tại ngôi trường này
+494,Bạn thường làm gì để giữ tinh thần lạc quan trong những ngày khó khăn?,How,bạn thường làm gì để giữ tinh thần lạc quan trong những ngày khó khăn
+495,Có phải bạn thường ưu tiên nghỉ ngơi vào cuối tuần?,Yes/No,có phải bạn thường ưu tiên nghỉ ngơi vào cuối tuần
+496,Điều gì làm bạn ấn tượng nhất khi lần đầu tiên gặp gỡ ai đó?,What,điều gì làm bạn ấn tượng nhất khi lần đầu tiên gặp gỡ ai đó
+497,Kỳ nghỉ cuối cùng bạn đi đâu?,Where,kỳ nghỉ cuối cùng bạn đi đâu
+498,Bạn có chọn làm việc ở công ty yêu thích nếu được mời không?,Yes/No,bạn có chọn làm việc ở công ty yêu thích nếu được mời không
+499,Bạn đã bao giờ tham gia vào một khóa học quân sự chưa?,Yes/No,bạn đã bao giờ tham gia vào một khóa học quân sự chưa
+500,Làm thế nào để bạn đối mặt với áp lực trong công việc hoặc học tập?,How,làm thế nào để bạn đối mặt với áp lực trong công việc hoặc học tập
+501,Bạn nghĩ việc sử dụng công nghệ có ảnh hưởng tích cực hay tiêu cực đến trẻ em?,What,bạn nghĩ việc sử dụng công nghệ có ảnh hưởng tích cực hay tiêu cực đến trẻ em
+502,Bạn có muốn học lý thuyết hơn thực hành không?,Yes/No,bạn có muốn học lý thuyết hơn thực hành không
+503,Điều gì khiến bạn ngủ nhiều như vậy?,What,điều gì khiến bạn ngủ nhiều như vậy
+504,Bạn đã từng nghĩ đến việc thử thách bản thân với một kỹ năng mới chưa?,Yes/No,bạn đã từng nghĩ đến việc thử thách bản thân với một kỹ năng mới chưa
+505,Khi nào bạn cảm thấy mình đang làm điều đúng đắn nhất?,When,khi nào bạn cảm thấy mình đang làm điều đúng đắn nhất
+506,Bạn muốn được sinh sống ở đâu nếu không phải ở quê hương của mình?,Where,bạn muốn được sinh sống ở đâu nếu không phải ở quê hương của mình
+507,Làm thế nào để bạn giúp bạn bè vượt qua khó khăn?,How,làm thế nào để bạn giúp bạn bè vượt qua khó khăn
+508,Ai là người đầu tiên bạn muốn chia sẻ khi có một tin vui?,Who,ai là người đầu tiên bạn muốn chia sẻ khi có một tin vui
+509,"Nếu có thể quay ngược thời gian, bạn muốn sửa chữa điều gì trong quá khứ?",What,nếu có thể quay ngược thời gian bạn muốn sửa chữa điều gì trong quá khứ
+510,Có phải bạn thích các hoạt động ngoài trời hơn ở nhà?,Yes/No,có phải bạn thích các hoạt động ngoài trời hơn ở nhà
+511,Bạn có cảm thấy thoải mái khi làm việc nhóm không?,Yes/No,bạn có cảm thấy thoải mái khi làm việc nhóm không
+512,Tại sao bạn lại chọn ngành học hoặc nghề nghiệp hiện tại?,Why,tại sao bạn lại chọn ngành học hoặc nghề nghiệp hiện tại
+513,Bạn thường dành bao nhiêu thời gian để tập thể dục mỗi tuần?,Quantity,bạn thường dành bao nhiêu thời gian để tập thể dục mỗi tuần
+514,Khi nào bạn bắt đầu cảm thấy mình thực sự trưởng thành?,When,khi nào bạn bắt đầu cảm thấy mình thực sự trưởng thành
+515,Bạn nghĩ yếu tố quan trọng nhất để xây dựng một mối quan hệ tốt đẹp là gì?,What,bạn nghĩ yếu tố quan trọng nhất để xây dựng một mối quan hệ tốt đẹp là gì
+516,Bạn sẽ làm gì để kỷ niệm một ngày đặc biệt của mình?,How,bạn sẽ làm gì để kỷ niệm một ngày đặc biệt của mình
+517,Món ăn truyền thống nào bạn cảm thấy tự hào nhất khi giới thiệu cho bạn bè quốc tế?,What,món ăn truyền thống nào bạn cảm thấy tự hào nhất khi giới thiệu cho bạn bè quốc tế
+518,Bạn có thể giải thích cách bạn quản lý thời gian trong lịch trình bận rộn không?,How,bạn có thể giải thích cách bạn quản lý thời gian trong lịch trình bận rộn không
+519,Điều gì làm bạn cảm thấy khó khăn nhất khi học một ngôn ngữ mới?,What,điều gì làm bạn cảm thấy khó khăn nhất khi học một ngôn ngữ mới
+520,Tại sao bạn chọn loại âm nhạc này để thư giãn?,Why,tại sao bạn chọn loại âm nhạc này để thư giãn
+521,Bạn nghĩ gì về ý tưởng làm việc từ xa trong tương lai?,What,bạn nghĩ gì về ý tưởng làm việc từ xa trong tương lai
+522,Ai là người bạn cảm thấy biết ơn nhất trong cuộc sống của mình?,Who,ai là người bạn cảm thấy biết ơn nhất trong cuộc sống của mình
+523,Khi nào là lần cuối cùng bạn dành thời gian cho gia đình một cách trọn vẹn?,When,khi nào là lần cuối cùng bạn dành thời gian cho gia đình một cách trọn vẹn
+524,Bạn nghĩ điều gì tạo nên một nhà lãnh đạo tốt?,What,bạn nghĩ điều gì tạo nên một nhà lãnh đạo tốt
+525,Bạn sẽ làm gì nếu trúng số độc đắc?,How,bạn sẽ làm gì nếu trúng số độc đắc
+526,Khi nào bạn cảm thấy cần phải thay đổi thói quen hiện tại?,When,khi nào bạn cảm thấy cần phải thay đổi thói quen hiện tại
+527,Bạn đã bao giờ thử nghiệm một công thức nấu ăn mới chưa?,Yes/No,bạn đã bao giờ thử nghiệm một công thức nấu ăn mới chưa
+528,Làm thế nào để bạn duy trì sự tập trung trong công việc?,How,làm thế nào để bạn duy trì sự tập trung trong công việc
+529,Tại sao bạn nghĩ rằng việc học tập suốt đời là quan trọng?,Why,tại sao bạn nghĩ rằng việc học tập suốt đời là quan trọng
+530,"Nếu có cơ hội, bạn sẽ chọn làm việc ở ngành nghề nào khác?",What,nếu có cơ hội bạn sẽ chọn làm việc ở ngành nghề nào khác
+531,Bạn nghĩ như thế nào về việc xây dựng thói quen bảo vệ môi trường?,What,bạn nghĩ như thế nào về việc xây dựng thói quen bảo vệ môi trường
+532,Bạn có thể chia sẻ một kỷ niệm đáng nhớ về thời đi học không?,What,bạn có thể chia sẻ một kỷ niệm đáng nhớ về thời đi học không
+533,Ai là người đã có ảnh hưởng lớn đến quyết định quan trọng nhất của bạn?,Who,ai là người đã có ảnh hưởng lớn đến quyết định quan trọng nhất của bạn
+534,Làm thế nào để bạn vượt qua nỗi sợ hãi trong cuộc sống?,How,làm thế nào để bạn vượt qua nỗi sợ hãi trong cuộc sống
+535,Bạn đã bao giờ phải đưa ra một quyết định khó khăn chưa? ,Yes/No,bạn đã bao giờ phải đưa ra một quyết định khó khăn chưa
+536,Tại sao bạn thích sách thay vì các phương tiện giải trí khác?,Why,tại sao bạn thích sách thay vì các phương tiện giải trí khác
+537,Bạn nghĩ như thế nào về việc kết hợp trí tuệ nhân tạo vào cuộc sống hàng ngày?,What,bạn nghĩ như thế nào về việc kết hợp trí tuệ nhân tạo vào cuộc sống hàng ngày
+538,Bạn có kế hoạch gì đặc biệt cho tương lai gần không?,Yes/No,bạn có kế hoạch gì đặc biệt cho tương lai gần không
+539,"Nếu chỉ còn một ngày để sống, bạn sẽ làm gì?",How,nếu chỉ còn một ngày để sống bạn sẽ làm gì
+540,Tại sao bạn nghĩ rằng sự trung thực là phẩm chất quan trọng?,Why,tại sao bạn nghĩ rằng sự trung thực là phẩm chất quan trọng
+541,Bạn đã từng thay đổi ý kiến của mình về một vấn đề lớn chưa?,Yes/No,bạn đã từng thay đổi ý kiến của mình về một vấn đề lớn chưa
+542,Bạn đã từng làm việc gì khiến bạn cảm thấy hối hận chưa?,Yes/No,bạn đã từng làm việc gì khiến bạn cảm thấy hối hận chưa
+543,Trường Điện - Điện tử có bao nhiêu khoa?,Quantity,trường điện điện tử có bao nhiêu khoa
+544,Con gà này có giá bao nhiêu?,Quantity,con gà này có giá bao nhiêu
+545,Tại sao bạn muốn học ngành này?,Why,tại sao bạn muốn học ngành này
+546,Người yêu đầu tiên của bạn là ai?,Who,người yêu đầu tiên của bạn là ai
+547,Khóa học Python có giá bao nhiêu?,Quantity,khóa học python có giá bao nhiêu
+548,Tại sao mọi người lại thích chơi hơn học?,Why,tại sao mọi người lại thích chơi hơn học
+549,Bạn đang cố gắng vì điều gì?,What,bạn đang cố gắng vì điều gì
+550,Mục tiêu của bạn sau khi ra trường là gì?,What,mục tiêu của bạn sau khi ra trường là gì
+551,Bạn tốt nghiệp Đại học Bách khoa Hà Nội vào năm nào?,When,bạn tốt nghiệp đại học bách khoa hà nội vào năm nào
+552,Tại sao bạn thích tham gia các công tác Đoàn - Hội?,Why,tại sao bạn thích tham gia các công tác đoàn hội
+553,Điện thoại của bạn thuộc hãng nào?,What,điện thoại của bạn thuộc hãng nào
+554,"Nếu có 1 điều ước, bạn sẽ ước điều gì?",What,nếu có 1 điều ước bạn sẽ ước điều gì
+555,Bạn đã từng không thích một người nào đó chưa?,Yes/No,bạn đã từng không thích một người nào đó chưa
+556,Trường Điện - Điện tử được thành lập vào năm nào?,When,trường điện điện tử được thành lập vào năm nào
+557,Trường Điện - Điện tử được gộp từ bao nhiêu viện?,Quantity,trường điện điện tử được gộp từ bao nhiêu viện
+558,Bạn có một ước mơ lớn nào mà chưa thực hiện được không?,Yes/No,bạn có một ước mơ lớn nào mà chưa thực hiện được không
+559,Tại sao bạn chọn tổ chức tiệc cưới ở nhà hàng đó?,Why,tại sao bạn chọn tổ chức tiệc cưới ở nhà hàng đó
+560,Điều gì làm bạn cảm thấy hạnh phúc mỗi ngày?,What,điều gì làm bạn cảm thấy hạnh phúc mỗi ngày
+561,Bạn có nghĩ rằng công nghệ sẽ thay đổi hoàn toàn cách học trong tương lai?,What,bạn có nghĩ rằng công nghệ sẽ thay đổi hoàn toàn cách học trong tương lai
+562,Bạn có bao giờ trải qua một tình huống dở khóc dở cười trong công việc học tập?,Yes/No,bạn có bao giờ trải qua một tình huống dở khóc dở cười trong công việc học tập
+563,Bạn nghĩ thế nào về việc làm việc từ xa?,What,bạn nghĩ thế nào về việc làm việc từ xa
+564,Bạn có bao giờ muốn bắt đầu một công việc kinh doanh riêng không?,Yes/No,bạn có bao giờ muốn bắt đầu một công việc kinh doanh riêng không
+565,"Nếu có thể trở thành một chuyên gia trong một lĩnh vực nào đó, bạn sẽ chọn gì?",What,nếu có thể trở thành một chuyên gia trong một lĩnh vực nào đó bạn sẽ chọn gì
+566,Điều gì làm bạn cảm thấy tự hào nhất về bản thân?,What,điều gì làm bạn cảm thấy tự hào nhất về bản thân
+567,Bạn nghĩ gì về việc học hỏi từ những những người bạn của mình?,What,bạn nghĩ gì về việc học hỏi từ những những người bạn của mình
+568,Bạn cảm thấy thế nào khi đối mặt với những thử thách mới trong công việc học tập?,How,bạn cảm thấy thế nào khi đối mặt với những thử thách mới trong công việc học tập
+569,"Nếu có thể thay đổi một quyết định quan trọng trong cuộc đời, bạn sẽ thay đổi gì?",What,nếu có thể thay đổi một quyết định quan trọng trong cuộc đời bạn sẽ thay đổi gì
+570,Bạn có bao giờ bị ảnh hưởng bởi một cuốn sách hoặc bộ phim nào đó không?,Yes/No,bạn có bao giờ bị ảnh hưởng bởi một cuốn sách hoặc bộ phim nào đó không
+571,"Nếu bạn có thể sống trong một thời đại khác, bạn sẽ chọn thời kỳ nào?",When,nếu bạn có thể sống trong một thời đại khác bạn sẽ chọn thời kỳ nào
+572,Bạn có tin vào định mệnh không?,Yes/No,bạn có tin vào định mệnh không
+573,Bạn nghĩ gì về việc tìm kiếm cơ hội thay vì chờ đợi cơ hội đến?,What,bạn nghĩ gì về việc tìm kiếm cơ hội thay vì chờ đợi cơ hội đến
+574,Bạn chọn sử dụng sản phẩm nilon hay sản phẩm đã tái chế?,Yes/No,bạn chọn sử dụng sản phẩm nilon hay sản phẩm đã tái chế
+575,Bạn rất yêu bố mẹ của bạn đúng không?,Yes/No,bạn rất yêu bố mẹ của bạn đúng không
+576,Bạn đã bao giờ bị bất ngờ bởi một người bạn làm điều tốt đẹp cho bạn?,Yes/No,bạn đã bao giờ bị bất ngờ bởi một người bạn làm điều tốt đẹp cho bạn
+577,"Nếu bạn có thể gặp một người nổi tiếng, bạn muốn gặp ai?",Who,nếu bạn có thể gặp một người nổi tiếng bạn muốn gặp ai
+578,Bạn sẽ làm gì nếu có thể quay lại thời gian và gặp lại bản thân 10 năm trước?,What,bạn sẽ làm gì nếu có thể quay lại thời gian và gặp lại bản thân 10 năm trước
+579,"Nếu có thể sống ở một hành tinh khác, bạn sẽ chọn hành tinh nào?",Where,nếu có thể sống ở một hành tinh khác bạn sẽ chọn hành tinh nào
+580,Bạn nghĩ gì về việc sống một cuộc sống tối giản?,What,bạn nghĩ gì về việc sống một cuộc sống tối giản
+581,Bạn có nghĩ rằng sự tự lập quan trọng hơn việc dựa vào người khác không?,Yes/No,bạn có nghĩ rằng sự tự lập quan trọng hơn việc dựa vào người khác không
+582,Điều gì làm bạn cảm thấy kiên nhẫn nhất trong cuộc sống?,What,điều gì làm bạn cảm thấy kiên nhẫn nhất trong cuộc sống
+583,"Nếu bạn có thể thay đổi một điều trong xã hội, bạn sẽ thay đổi gì?",What,nếu bạn có thể thay đổi một điều trong xã hội bạn sẽ thay đổi gì
+584,Kỳ này bạn học bao nhiêu môn?,Quantity,kỳ này bạn học bao nhiêu môn
+585,Bạn nghĩ rằng một ngày nào đó tất cả công việc sẽ được tự động hóa?,Yes/No,bạn nghĩ rằng một ngày nào đó tất cả công việc sẽ được tự động hóa
+586,Nơi nào bạn thấy bình yên nhất mỗi khi nghĩ về?,Where,nơi nào bạn thấy bình yên nhất mỗi khi nghĩ về
+587,Bạn có quyết tâm đạt được điểm A môn NLP không?,Yes/No,bạn có quyết tâm đạt được điểm a môn nlp không
+588,Bộ dữ liệu của bạn có bao nhiêu câu hỏi?,Quantity,bộ dữ liệu của bạn có bao nhiêu câu hỏi
+589,Cho hỏi yếu tố cốt lõi tạo nên hạnh phúc gia đình là gì?,What,cho hỏi yếu tố cốt lõi tạo nên hạnh phúc gia đình là gì
+590,Bạn cần làm bao nhiêu dự án trong kỳ này?,Quantity,bạn cần làm bao nhiêu dự án trong kỳ này
+591,Chuyện gì xảy ra với bạn vậy? Kể mình nghe với?,What,chuyện gì xảy ra với bạn vậy kể mình nghe với
+592,Mọi người cho em hỏi sở thích như thế nào là lành mạnh?,What,mọi người cho em hỏi sở thích như thế nào là lành mạnh
+593,Điều gì trong cuộc sống này quan trọng nhất theo quan điểm của bạn?,What,điều gì trong cuộc sống này quan trọng nhất theo quan điểm của bạn
+594,Mục tiêu năm nay của bạn là gì? Chia sẻ cho mọi người cùng biết nhé!,What,mục tiêu năm nay của bạn là gì chia sẻ cho mọi người cùng biết nhé
+595,Món tủ của các bạn là món gì?,What,món tủ của các bạn là món gì
+596,Recommend cho mình vài cuốn sách hay nên đọc với?,What,recommend cho mình vài cuốn sách hay nên đọc với
+597,Dạo này có phim gì hay không mọi người?,What,dạo này có phim gì hay không mọi người
+598,Con vật nào bạn thấy đáng yêu nhất?,What,con vật nào bạn thấy đáng yêu nhất
+599,"Theo mọi người, màu sắc nào thể hiện sự sang trọng?",What,theo mọi người màu sắc nào thể hiện sự sang trọng
+600,"Du lịch nước ngoài, nên đi nước nào đầu tiên nhỉ?",What,du lịch nước ngoài nên đi nước nào đầu tiên nhỉ
+601,Nhạc gì nghe lúc buồn là “auto” tâm trạng nhỉ?,What,nhạc gì nghe lúc buồn là auto tâm trạng nhỉ
+602,Công việc lý tưởng trong tương lai của bạn là gì?,What,công việc lý tưởng trong tương lai của bạn là gì
+603,Ước mơ lớn nhất đời bạn là gì?,What,ước mơ lớn nhất đời bạn là gì
+604,Bí kíp để có nhiều tiền là gì?,What,bí kíp để có nhiều tiền là gì
+605,Vượt qua khó khăn bạn hay làm gì?,How,vượt qua khó khăn bạn hay làm gì
+606,"Nấu phở ngon, bí quyết là gì nhỉ?",How,nấu phở ngon bí quyết là gì nhỉ
+607,Cách học thuộc hiệu quả nhất?,How,cách học thuộc hiệu quả nhất
+608,"Giữ lửa học tập, ai có bí kíp gì không?",How,giữ lửa học tập ai có bí kíp gì không
+609,"Gặp tình huống khó xử, bạn thường làm gì?",How,gặp tình huống khó xử bạn thường làm gì
+610,"Mỗi sáng thức dậy tràn đầy năng lượng, bạn làm thế nào vậy?",How,mỗi sáng thức dậy tràn đầy năng lượng bạn làm thế nào vậy
+611,"Để sống khỏe mạnh, cần lưu ý những gì?",How,để sống khỏe mạnh cần lưu ý những gì
+612,Xử lý khủng hoảng truyền thông thế nào cho hiệu quả?,How,xử lý khủng hoảng truyền thông thế nào cho hiệu quả
+613,Quản lý thời gian sao cho khoa học?,How,quản lý thời gian sao cho khoa học
+614,Ai có mẹo gì để tự tin hơn không?,How,ai có mẹo gì để tự tin hơn không
+615,"Xây dựng mối quan hệ tốt với đồng nghiệp, bắt đầu từ đâu?",How,xây dựng mối quan hệ tốt với đồng nghiệp bắt đầu từ đâu
+616,"Tiết kiệm tiền hiệu quả, chia sẻ kinh nghiệm đi ạ?",How,tiết kiệm tiền hiệu quả chia sẻ kinh nghiệm đi ạ
+617,"Để đạt được mục tiêu, chúng ta cần làm gì?",How,để đạt được mục tiêu chúng ta cần làm gì
+618,"Học kỹ năng mới, nên bắt đầu từ đâu nhỉ?",How,học kỹ năng mới nên bắt đầu từ đâu nhỉ
+619,"Chiến thắng nỗi sợ, có ai làm được chưa, chia sẻ với?",How,chiến thắng nỗi sợ có ai làm được chưa chia sẻ với
+620,"Trở thành phiên bản tốt hơn của chính mình, bạn đã làm điều đó như thế nào?",How,trở thành phiên bản tốt hơn của chính mình bạn đã làm điều đó như thế nào
+621,"Tìm kiếm đam mê, có khó lắm không?",How,tìm kiếm đam mê có khó lắm không
+622,"Để hạnh phúc hơn, mình nên thay đổi điều gì?",How,để hạnh phúc hơn mình nên thay đổi điều gì
+623,"Tạo ra sự khác biệt cho cộng đồng, bắt đầu từ những hành động nhỏ nào?",How,tạo ra sự khác biệt cho cộng đồng bắt đầu từ những hành động nhỏ nào
+624,Dùng mạng xã hội sao cho văn minh?,How,dùng mạng xã hội sao cho văn minh
+625,"Giảm thiểu rác thải nhựa, ai có cao kiến gì không?",How,giảm thiểu rác thải nhựa ai có cao kiến gì không
+626,"Du lịch bụi giá rẻ, làm thế nào nhỉ?",How,du lịch bụi giá rẻ làm thế nào nhỉ
+627,"Viết một bài luận “chất”, có bí kíp gì không?",How,viết một bài luận chất có bí kíp gì không
+628,"Phỏng vấn xin việc, làm sao để “ghi điểm” với nhà tuyển dụng?",How,phỏng vấn xin việc làm sao để ghi điểm với nhà tuyển dụng
+629,Học “tủ” có phải là cách học hiệu quả?,How,học tủ có phải là cách học hiệu quả
+630,Bạn học làm bánh ở đâu vậy? Chỉ mình với!,How,bạn học làm bánh ở đâu vậy chỉ mình với
+631,Làm sao họ thắng trận đó vậy? Khó tin thật!,How,làm sao họ thắng trận đó vậy khó tin thật
+632,Đường nào để đi đến đó nhanh nhất?,How,đường nào để đi đến đó nhanh nhất
+633,Bạn thấy sao về lựa chọn của mình?,How,bạn thấy sao về lựa chọn của mình
+634,Quan điểm của bạn về vấn đề này?,How,quan điểm của bạn về vấn đề này
+635,Chất lượng dịch vụ ở đây bạn đánh giá thế nào?,How,chất lượng dịch vụ ở đây bạn đánh giá thế nào
+636,Liên lạc với bạn bằng cách nào?,How,liên lạc với bạn bằng cách nào
+637,"Lúc rảnh rỗi, bạn thường làm gì?",How,lúc rảnh rỗi bạn thường làm gì
+638,"Cải thiện kỹ năng giao tiếp, có ai có kinh nghiệm gì không?",How,cải thiện kỹ năng giao tiếp có ai có kinh nghiệm gì không
+639,"Giảm stress hiệu quả, mách mình với?",How,giảm stress hiệu quả mách mình với
+640,"Tăng cường trí nhớ, có phương pháp nào hay?",How,tăng cường trí nhớ có phương pháp nào hay
+641,"Ngủ ngon hơn, làm thế nào đây?",How,ngủ ngon hơn làm thế nào đây
+642,"Viết lách “mượt” hơn, luyện tập thế nào nhỉ?",How,viết lách mượt hơn luyện tập thế nào nhỉ
+643,Bí quyết để gây ấn tượng trong lần gặp đầu tiên?,How,bí quyết để gây ấn tượng trong lần gặp đầu tiên
+644,"Để sáng tạo hơn, cần thay đổi tư duy như thế nào?",How,để sáng tạo hơn cần thay đổi tư duy như thế nào
+645,"Ra quyết định đúng đắn, khó quá, phải làm sao?",How,ra quyết định đúng đắn khó quá phải làm sao
+646,"Giữ lửa tình yêu, có khó lắm không?",How,giữ lửa tình yêu có khó lắm không
+647,"Vượt qua thất vọng, bạn đã làm điều đó như thế nào?",How,vượt qua thất vọng bạn đã làm điều đó như thế nào
+648,"Trở thành leader giỏi, tố chất cần có là gì?",How,trở thành leader giỏi tố chất cần có là gì
+649,"Học cách tha thứ, liệu có dễ dàng?",How,học cách tha thứ liệu có dễ dàng
+650,"Xây dựng sự nghiệp, bắt đầu từ đâu là hợp lý?",How,xây dựng sự nghiệp bắt đầu từ đâu là hợp lý
+651,"Áp lực công việc, làm sao để vượt qua đây?",How,áp lực công việc làm sao để vượt qua đây
+652,"Tìm sự giúp đỡ khi cần thiết, có ngại lắm không?",How,tìm sự giúp đỡ khi cần thiết có ngại lắm không
+653,"Cân bằng công việc và cuộc sống, có bí kíp gì không ạ?",How,cân bằng công việc và cuộc sống có bí kíp gì không ạ
+654,"Phát triển bản thân, nên bắt đầu từ kỹ năng nào?",How,phát triển bản thân nên bắt đầu từ kỹ năng nào
+655,"Rèn luyện tính kiên nhẫn, ai có phương pháp gì hay không?",How,rèn luyện tính kiên nhẫn ai có phương pháp gì hay không
+656,"Giải quyết mâu thuẫn, làm thế nào cho êm đẹp?",How,giải quyết mâu thuẫn làm thế nào cho êm đẹp
+657,"Lắng nghe hiệu quả, có phải ai cũng làm được?",How,lắng nghe hiệu quả có phải ai cũng làm được
+658,"Tự tin vào bản thân, làm thế nào để có được?",How,tự tin vào bản thân làm thế nào để có được
+659,"Chống lại sự trì hoãn, có cách nào hay không?",How,chống lại sự trì hoãn có cách nào hay không
+660,"Ý nghĩa cuộc sống, bạn đã tìm thấy chưa?",How,ý nghĩa cuộc sống bạn đã tìm thấy chưa
+661,Sống sao cho ý nghĩa nhỉ?,How,sống sao cho ý nghĩa nhỉ
+662,"Đóng góp cho xã hội, nên bắt đầu từ đâu?",How,đóng góp cho xã hội nên bắt đầu từ đâu
+663,"Trở thành người có ích, có khó không mọi người?",How,trở thành người có ích có khó không mọi người
+664,"Để tương lai tốt đẹp hơn, chúng ta cần làm gì ngay từ bây giờ?",How,để tương lai tốt đẹp hơn chúng ta cần làm gì ngay từ bây giờ
+665,Bạn giỏi thế là do đâu?,How,bạn giỏi thế là do đâu
+666,Chỉ mình cách dùng phần mềm này với?,How,chỉ mình cách dùng phần mềm này với
+667,Sửa cái này ở đâu uy tín nhỉ?,How,sửa cái này ở đâu uy tín nhỉ
+668,"Làm video “triệu view”, có khó không?",How,làm video triệu view có khó không
+669,"Trở thành KOL, cần những yếu tố gì?",How,trở thành kol cần những yếu tố gì
+670,"Trồng cây, có kỹ thuật gì để cây mau lớn không?",How,trồng cây có kỹ thuật gì để cây mau lớn không
+671,"Nuôi dạy con, phương pháp nào là tốt nhất?",How,nuôi dạy con phương pháp nào là tốt nhất
+672,"Vì sao việc học cách nói ""không"" lại quan trọng?",Why,vì sao việc học cách nói không lại quan trọng
+673,Tại sao thư viện Tạ Quang Bửu luôn đông nghìn nghịt?,Why,tại sao thư viện tạ quang bửu luôn đông nghìn nghịt
+674,"Nguyên nhân nào dẫn đến tình trạng ""cháy"" phòng vào mùa đăng ký môn học?",Why,nguyên nhân nào dẫn đến tình trạng cháy phòng vào mùa đăng ký môn học
+675,Vì sao đồ án tốt nghiệp lại là nỗi ám ảnh của sinh viên năm cuối?,Why,vì sao đồ án tốt nghiệp lại là nỗi ám ảnh của sinh viên năm cuối
+676,"Điều gì làm nên sự ""khó nhằn"" của các môn đại cương ở Bách Khoa?",What,điều gì làm nên sự khó nhằn của các môn đại cương ở bách khoa
+677,Lý do gì khiến cho việc tìm phòng trọ gần trường lại khó khăn?,Why,lý do gì khiến cho việc tìm phòng trọ gần trường lại khó khăn
+678,"Nguyên nhân của việc ""mất gốc"" kiến thức là gì?",Why,nguyên nhân của việc mất gốc kiến thức là gì
+679,Tại sao sinh viên Bách Khoa lại thích mặc áo đồng phục?,Why,tại sao sinh viên bách khoa lại thích mặc áo đồng phục
+680,Vì sao một số bạn lại chọn học nhóm thay vì học một mình?,Why,vì sao một số bạn lại chọn học nhóm thay vì học một mình
+681,"Điều gì làm cho ""mùa hè xanh"" trở thành một trải nghiệm đáng nhớ?",What,điều gì làm cho mùa hè xanh trở thành một trải nghiệm đáng nhớ
+682,Tại sao con người lại cần nghệ thuật?,Why,tại sao con người lại cần nghệ thuật
+683,Vì sao chúng ta lại cảm thấy hạnh phúc khi giúp đỡ người khác?,Why,vì sao chúng ta lại cảm thấy hạnh phúc khi giúp đỡ người khác
+684,Lý do gì khiến một số người thích đi du lịch bụi?,Why,lý do gì khiến một số người thích đi du lịch bụi
+685,Tại sao việc đọc sách lại quan trọng cho sự phát triển cá nhân?,Why,tại sao việc đọc sách lại quan trọng cho sự phát triển cá nhân
+686,"Vì sao chúng ta lại có những trải nghiệm ""déjà vu""?",Why,vì sao chúng ta lại có những trải nghiệm déjà vu
+687,Điều gì thúc đẩy con người sáng tạo? ,What,điều gì thúc đẩy con người sáng tạo
+688,Tại sao một số người lại sợ độ cao?,Why,tại sao một số người lại sợ độ cao
+689,Vì sao chúng ta lại cảm thấy ghen tị với thành công của người khác?,Why,vì sao chúng ta lại cảm thấy ghen tị với thành công của người khác
+690,Lý do gì khiến một số người ăn chay?,Why,lý do gì khiến một số người ăn chay
+691,Tại sao việc bảo vệ môi trường lại là trách nhiệm chung của toàn xã hội?,Why,tại sao việc bảo vệ môi trường lại là trách nhiệm chung của toàn xã hội
+692,Vì sao chúng ta lại thích nghe nhạc buồn khi thất tình?,Why,vì sao chúng ta lại thích nghe nhạc buồn khi thất tình
+693,Điều gì tạo nên sự khác biệt giữa tình bạn và tình yêu? ,What,điều gì tạo nên sự khác biệt giữa tình bạn và tình yêu
+694,Tại sao một số người lại nghiện mua sắm?,Why,tại sao một số người lại nghiện mua sắm
+695,Vì sao chúng ta lại cảm thấy khó khăn khi đưa ra quyết định quan trọng?,Why,vì sao chúng ta lại cảm thấy khó khăn khi đưa ra quyết định quan trọng
+696,Lý do gì khiến một số người thích sống một mình?,Why,lý do gì khiến một số người thích sống một mình
+697,Tại sao học ngoại ngữ lại mở ra nhiều cơ hội?,Why,tại sao học ngoại ngữ lại mở ra nhiều cơ hội
+698,Vì sao chúng ta lại có những giấc mơ kỳ lạ?,Why,vì sao chúng ta lại có những giấc mơ kỳ lạ
+699,Điều gì ảnh hưởng đến sự hình thành sở thích cá nhân? ,What,điều gì ảnh hưởng đến sự hình thành sở thích cá nhân
+700,Tại sao một số người lại dễ bị stress hơn những người khác?,Why,tại sao một số người lại dễ bị stress hơn những người khác
+701,Vì sao chúng ta lại cảm thấy hối tiếc về những việc mình chưa làm?,Why,vì sao chúng ta lại cảm thấy hối tiếc về những việc mình chưa làm
+702,Lý do gì khiến một số người có khả năng lãnh đạo tốt?,Why,lý do gì khiến một số người có khả năng lãnh đạo tốt
+703,Tại sao đặt mục tiêu lại giúp chúng ta thành công hơn?,Why,tại sao đặt mục tiêu lại giúp chúng ta thành công hơn
+704,Vì sao chúng ta lại cảm thấy đồng cảm với những hoàn cảnh khó khăn?,Why,vì sao chúng ta lại cảm thấy đồng cảm với những hoàn cảnh khó khăn
+705,Điều gì tạo nên sự gắn kết giữa các thành viên trong một cộng đồng? ,What,điều gì tạo nên sự gắn kết giữa các thành viên trong một cộng đồng
+706,Tại sao một số người lại sợ thất bại?,Why,tại sao một số người lại sợ thất bại
+707,Vì sao chúng ta lại thích xem phim kinh dị?,Why,vì sao chúng ta lại thích xem phim kinh dị
+708,Lý do gì khiến một số người có khả năng thuyết phục người khác?,Why,lý do gì khiến một số người có khả năng thuyết phục người khác
+709,Tại sao việc duy trì các mối quan hệ xã hội lại quan trọng?,Why,tại sao việc duy trì các mối quan hệ xã hội lại quan trọng
+710,Vì sao chúng ta lại cảm thấy hài lòng khi hoàn thành một công việc khó khăn?,Why,vì sao chúng ta lại cảm thấy hài lòng khi hoàn thành một công việc khó khăn
+711,Điều gì ảnh hưởng đến quyết định mua hàng của chúng ta? ,What,điều gì ảnh hưởng đến quyết định mua hàng của chúng ta
+712,Tại sao một số người lại thích mạo hiểm?,Why,tại sao một số người lại thích mạo hiểm
+713,Vì sao chúng ta lại cảm thấy khó chịu khi bị người khác chỉ trích?,Why,vì sao chúng ta lại cảm thấy khó chịu khi bị người khác chỉ trích
+714,Lý do gì khiến một số người có khả năng sáng tạo nghệ thuật?,Why,lý do gì khiến một số người có khả năng sáng tạo nghệ thuật
+715,Tại sao việc học cách quản lý tài chính cá nhân lại cần thiết?,Why,tại sao việc học cách quản lý tài chính cá nhân lại cần thiết
+716,Vì sao chúng ta lại cảm thấy vui vẻ khi được khen ngợi?,Why,vì sao chúng ta lại cảm thấy vui vẻ khi được khen ngợi
+717,Điều gì tạo nên sự khác biệt giữa các nền văn hóa? ,What,điều gì tạo nên sự khác biệt giữa các nền văn hóa
+718,Tại sao một số người lại có trí nhớ tốt hơn những người khác?,Why,tại sao một số người lại có trí nhớ tốt hơn những người khác
+719,Vì sao chúng ta lại cảm thấy bồn chồn trước những sự kiện quan trọng?,Why,vì sao chúng ta lại cảm thấy bồn chồn trước những sự kiện quan trọng
+720,Lý do gì khiến một số người có khả năng tự học hiệu quả?,Why,lý do gì khiến một số người có khả năng tự học hiệu quả
+721,Tại sao nói Bách Khoa Hà Nội là cái nôi của các start-up công nghệ?,Why,tại sao nói bách khoa hà nội là cái nôi của các startup công nghệ
+722,Vì sao chúng ta lại cảm thấy khó chịu khi bị mắc kẹt trong giao thông?,Why,vì sao chúng ta lại cảm thấy khó chịu khi bị mắc kẹt trong giao thông
+723,Điều gì ảnh hưởng đến sự tự tin của một người? ,What,điều gì ảnh hưởng đến sự tự tin của một người
+724,Tại sao một số người lại thích nuôi thú cưng?,Why,tại sao một số người lại thích nuôi thú cưng
+725,Vì sao chúng ta lại cảm thấy tức giận khi bị đối xử bất công?,Why,vì sao chúng ta lại cảm thấy tức giận khi bị đối xử bất công
+726,Lý do gì khiến một số người có khả năng phục hồi sau thất bại nhanh hơn?,Why,lý do gì khiến một số người có khả năng phục hồi sau thất bại nhanh hơn
+727,"Nguyên nhân của hiện tượng ""cộng hưởng đám đông"" là gì?",Why,nguyên nhân của hiện tượng cộng hưởng đám đông là gì
+728,Vì sao chúng ta lại cảm thấy lo lắng khi phải thuyết trình trước đám đông?,Why,vì sao chúng ta lại cảm thấy lo lắng khi phải thuyết trình trước đám đông
+729,Điều gì tạo nên sự hấp dẫn của một người? ,What,điều gì tạo nên sự hấp dẫn của một người
+730,Tại sao một số người lại thích làm việc nhóm hơn làm việc độc lập?,Why,tại sao một số người lại thích làm việc nhóm hơn làm việc độc lập
+731,Vì sao chúng ta lại cảm thấy hối hận khi làm tổn thương người khác?,Why,vì sao chúng ta lại cảm thấy hối hận khi làm tổn thương người khác
+732,Lý do gì khiến một số người có khả năng truyền cảm hứng cho người khác?,Why,lý do gì khiến một số người có khả năng truyền cảm hứng cho người khác
+733,"Nguyên nhân của hiện tượng ""bóng đè"" là gì?",Why,nguyên nhân của hiện tượng bóng đè là gì
+734,Vì sao chúng ta lại cảm thấy căng thẳng khi phải thay đổi thói quen?,Why,vì sao chúng ta lại cảm thấy căng thẳng khi phải thay đổi thói quen
+735,Điều gì ảnh hưởng đến sự phát triển trí tuệ cảm xúc của một người?,What,điều gì ảnh hưởng đến sự phát triển trí tuệ cảm xúc của một người
+736,Tại sao một số người lại thích sống ở thành phố hơn nông thôn?,Why,tại sao một số người lại thích sống ở thành phố hơn nông thôn
+737,Vì sao chúng ta lại cảm thấy buồn khi nghe tin người thân qua đời?,Why,vì sao chúng ta lại cảm thấy buồn khi nghe tin người thân qua đời
+738,Lý do gì khiến một số người có khả năng giải quyết vấn đề tốt hơn?,Why,lý do gì khiến một số người có khả năng giải quyết vấn đề tốt hơn
+739,Tại sao việc học cách tha thứ lại giúp chúng ta thanh thản hơn?,Why,tại sao việc học cách tha thứ lại giúp chúng ta thanh thản hơn
+740,Vì sao chúng ta lại cảm thấy hào hứng khi bắt đầu một dự án mới?,Why,vì sao chúng ta lại cảm thấy hào hứng khi bắt đầu một dự án mới
+741,Điều gì tạo nên sự khác biệt giữa các thế hệ? ,What,điều gì tạo nên sự khác biệt giữa các thế hệ
+742,Tại sao một số người lại thích chơi game?,Why,tại sao một số người lại thích chơi game
+743,Vì sao chúng ta lại cảm thấy sợ hãi khi phải đối mặt với những điều không chắc chắn?,Why,vì sao chúng ta lại cảm thấy sợ hãi khi phải đối mặt với những điều không chắc chắn
+744,Lý do gì khiến một số người có khả năng sáng tác âm nhạc?,Why,lý do gì khiến một số người có khả năng sáng tác âm nhạc
+745,Tại sao việc học cách quản lý cảm xúc lại quan trọng?,Why,tại sao việc học cách quản lý cảm xúc lại quan trọng
+746,Vì sao chúng ta lại cảm thấy thoải mái khi ở bên cạnh những người thân yêu?,Why,vì sao chúng ta lại cảm thấy thoải mái khi ở bên cạnh những người thân yêu
+747,Điều gì ảnh hưởng đến sự lựa chọn nghề nghiệp của một người? ,What,điều gì ảnh hưởng đến sự lựa chọn nghề nghiệp của một người
+748,Tại sao một số người lại thích đọc sách trinh thám?,Why,tại sao một số người lại thích đọc sách trinh thám
+749,Vì sao chúng ta lại cảm thấy khó chịu khi bị người khác lừa dối?,Why,vì sao chúng ta lại cảm thấy khó chịu khi bị người khác lừa dối
+750,Vì sao thời gian lại trôi nhanh hơn khi chúng ta già đi?,Why,vì sao thời gian lại trôi nhanh hơn khi chúng ta già đi
+751,Tại sao việc học cách yêu thương bản thân lại quan trọng?,Why,tại sao việc học cách yêu thương bản thân lại quan trọng
+752,Vì sao chúng ta lại cảm thấy phấn khích khi đạt được mục tiêu?,Why,vì sao chúng ta lại cảm thấy phấn khích khi đạt được mục tiêu
+753,"Điều gì làm cho ""tuổi thanh xuân"" ở Bách Khoa trở nên đáng nhớ?",What,điều gì làm cho tuổi thanh xuân ở bách khoa trở nên đáng nhớ
+754,Tại sao một số người lại thích xem phim cổ trang?,Why,tại sao một số người lại thích xem phim cổ trang
+755,Vì sao chúng ta lại cảm thấy hối tiếc khi không dành đủ thời gian cho gia đình?,Why,vì sao chúng ta lại cảm thấy hối tiếc khi không dành đủ thời gian cho gia đình
+756,Lý do gì khiến một số người có khả năng vượt qua nghịch cảnh?,Why,lý do gì khiến một số người có khả năng vượt qua nghịch cảnh
+757,Tại sao việc học cách từ chối lại quan trọng?,Why,tại sao việc học cách từ chối lại quan trọng
+758,Vì sao chúng ta lại cảm thấy buồn chán khi không có việc gì để làm?,Why,vì sao chúng ta lại cảm thấy buồn chán khi không có việc gì để làm
+759,Điều gì ảnh hưởng đến sự hình thành giá trị quan của một người? ,What,điều gì ảnh hưởng đến sự hình thành giá trị quan của một người
+760,Tại sao một số người lại thích tập thể dục?,Why,tại sao một số người lại thích tập thể dục
+761,Vì sao chúng ta lại cảm thấy tức giận khi chứng kiến sự bất công?,Why,vì sao chúng ta lại cảm thấy tức giận khi chứng kiến sự bất công
+762,Lý do gì khiến một số người có khả năng sáng tạo ra những ý tưởng mới?,Why,lý do gì khiến một số người có khả năng sáng tạo ra những ý tưởng mới
+763,Tại sao việc học cách xây dựng các mối quan hệ lành mạnh lại quan trọng?,Why,tại sao việc học cách xây dựng các mối quan hệ lành mạnh lại quan trọng
+764,Vì sao chúng ta lại cảm thấy hạnh phúc khi được làm điều mình yêu thích?,Why,vì sao chúng ta lại cảm thấy hạnh phúc khi được làm điều mình yêu thích
+765,Điều gì tạo nên sự khác biệt giữa các quốc gia? ,What,điều gì tạo nên sự khác biệt giữa các quốc gia
+766,Vì lẽ gì con người luôn khao khát tìm kiếm ý nghĩa của cuộc sống?,Why,vì lẽ gì con người luôn khao khát tìm kiếm ý nghĩa của cuộc sống
+767,Nguyên nhân gì khiến nhiều người trẻ ngại kết hôn và sinh con?,Why,nguyên nhân gì khiến nhiều người trẻ ngại kết hôn và sinh con
+768,Vì sao lừa đảo qua mạng ngày càng tinh vi và phổ biến?,Why,vì sao lừa đảo qua mạng ngày càng tinh vi và phổ biến
+769,"Lý do gì khiến nhiều người mắc các bệnh về tâm lý như trầm cảm, lo âu?",Why,lý do gì khiến nhiều người mắc các bệnh về tâm lý như trầm cảm lo âu
+770,Tại sao giá xăng dầu lại biến động liên tục?,Why,tại sao giá xăng dầu lại biến động liên tục
+771,Lý do gì khiến giá nhà đất ở các thành phố lớn ngày càng tăng cao?,Why,lý do gì khiến giá nhà đất ở các thành phố lớn ngày càng tăng cao
+772,Tại sao một số người lại có thói quen mua sắm để giải tỏa căng thẳng?,Why,tại sao một số người lại có thói quen mua sắm để giải tỏa căng thẳng
+773,Vì sao ca sĩ Chi Dân lại vướng vào scandal?,Why,vì sao ca sĩ chi dân lại vướng vào scandal
+774,"Tại sao concert của BlackPink lại ""cháy vé"" nhanh chóng?",Why,tại sao concert của blackpink lại cháy vé nhanh chóng
+775,Tại sao nhóm nhạc T-ara lại tan rã dù đang ở đỉnh cao sự nghiệp?,Why,tại sao nhóm nhạc tara lại tan rã dù đang ở đỉnh cao sự nghiệp
+776,Vì sao phong cách thời trang của Sơn Tùng MTP lại trở thành xu hướng?,Why,vì sao phong cách thời trang của sơn tùng mtp lại trở thành xu hướng
+777,Lý do gì khiến một số nghệ sĩ bị tẩy chay?,Why,lý do gì khiến một số nghệ sĩ bị tẩy chay
+778,Tại sao chương trình truyền hình thực tế này lại thu hút đông đảo khán giả?,Why,tại sao chương trình truyền hình thực tế này lại thu hút đông đảo khán giả
+779,Nguyên nhân sâu xa đằng sau những cuộc chiến tranh tôn giáo là gì?,Why,nguyên nhân sâu xa đằng sau những cuộc chiến tranh tôn giáo là gì
+780,Bạn dự định học tiếng Nhật khi nào?,When,bạn dự định học tiếng nhật khi nào
+781,Thời điểm nào trong năm bạn thấy thích hợp nhất để đi du lịch?,When,thời điểm nào trong năm bạn thấy thích hợp nhất để đi du lịch
+782,"Theo bạn, khi nào một người được coi là trưởng thành?",When,theo bạn khi nào một người được coi là trưởng thành
+783,Chuyến bay của bạn khi nào sẽ cất cánh?,When,chuyến bay của bạn khi nào sẽ cất cánh
+784,Đến khi nào bạn mới chịu thừa nhận sai lầm của mình?,When,đến khi nào bạn mới chịu thừa nhận sai lầm của mình
+785,Bạn nghĩ bao giờ thì mình mới mua được nhà?,When,bạn nghĩ bao giờ thì mình mới mua được nhà
+786,Khi nào bạn cảm thấy cần phải thay đổi bản thân?,When,khi nào bạn cảm thấy cần phải thay đổi bản thân
+787,Lần cuối cùng bạn đi khám sức khỏe tổng quát là khi nào?,When,lần cuối cùng bạn đi khám sức khỏe tổng quát là khi nào
+788,Khi nào bạn nghĩ là thời điểm thích hợp để kết hôn?,When,khi nào bạn nghĩ là thời điểm thích hợp để kết hôn
+789,Bạn thường thức dậy vào lúc mấy giờ? ,When,bạn thường thức dậy vào lúc mấy giờ
+790,Khi nào bạn cảm thấy hối hận vì đã không nỗ lực hết mình?,When,khi nào bạn cảm thấy hối hận vì đã không nỗ lực hết mình
+791,"Theo bạn, khi nào thì nên bắt đầu tiết kiệm cho tương lai?",When,theo bạn khi nào thì nên bắt đầu tiết kiệm cho tương lai
+792,"Lần gần nhất bạn khóc là khi nào, vì lý do gì?",When,lần gần nhất bạn khóc là khi nào vì lý do gì
+793,Khi nào bạn dự định sẽ nghỉ hưu?,When,khi nào bạn dự định sẽ nghỉ hưu
+794,Bạn nghĩ khi nào thì nên bắt đầu học cách đầu tư?,When,bạn nghĩ khi nào thì nên bắt đầu học cách đầu tư
+795,Thời điểm nào trong ngày bạn cảm thấy làm việc hiệu quả nhất?,When,thời điểm nào trong ngày bạn cảm thấy làm việc hiệu quả nhất
+796,Khi nào bạn cảm thấy cần phải ở một mình?,When,khi nào bạn cảm thấy cần phải ở một mình
+797,"Lần cuối bạn nói ""Tôi yêu bạn"" với bố mẹ là khi nào?",When,lần cuối bạn nói tôi yêu bạn với bố mẹ là khi nào
+798,Khi nào bạn nghĩ rằng mình đã sẵn sàng để trở thành cha mẹ?,When,khi nào bạn nghĩ rằng mình đã sẵn sàng để trở thành cha mẹ
+799,Bạn thường đi ngủ vào lúc nào?,When,bạn thường đi ngủ vào lúc nào
+800,Khi nào bạn cảm thấy lo lắng về tương lai?,When,khi nào bạn cảm thấy lo lắng về tương lai
+801,"Theo bạn, khi nào thì nên buông bỏ một mối quan hệ?",When,theo bạn khi nào thì nên buông bỏ một mối quan hệ
+802,Lần đầu tiên bạn biết yêu là khi nào?,When,lần đầu tiên bạn biết yêu là khi nào
+803,Bạn nghĩ khi nào thì con người có thể đặt chân lên Sao Hỏa?,When,bạn nghĩ khi nào thì con người có thể đặt chân lên sao hỏa
+804,Thời điểm nào trong quá khứ bạn muốn quay lại nhất?,When,thời điểm nào trong quá khứ bạn muốn quay lại nhất
+805,Khi nào bạn cảm thấy tự tin vào bản thân mình?,When,khi nào bạn cảm thấy tự tin vào bản thân mình
+806,Lần cuối cùng bạn làm việc tốt là khi nào?,When,lần cuối cùng bạn làm việc tốt là khi nào
+807,Khi nào bạn nghĩ là thời điểm thích hợp để nói lời xin lỗi?,When,khi nào bạn nghĩ là thời điểm thích hợp để nói lời xin lỗi
+808,Bạn thường dành thời gian cho gia đình vào lúc nào?,When,bạn thường dành thời gian cho gia đình vào lúc nào
+809,Khi nào bạn cảm thấy cần phải thay đổi công việc?,When,khi nào bạn cảm thấy cần phải thay đổi công việc
+810,Lần gần nhất bạn học được một điều mới là khi nào?,When,lần gần nhất bạn học được một điều mới là khi nào
+811,Khi nào bạn dự định sẽ đi du lịch một mình?,When,khi nào bạn dự định sẽ đi du lịch một mình
+812,Bạn nghĩ khi nào thì nên bắt đầu lập kế hoạch cho tương lai?,When,bạn nghĩ khi nào thì nên bắt đầu lập kế hoạch cho tương lai
+813,Thời điểm nào trong năm bạn cảm thấy hạnh phúc nhất?,When,thời điểm nào trong năm bạn cảm thấy hạnh phúc nhất
+814,Khi nào bạn cảm thấy cô đơn và lạc lõng?,When,khi nào bạn cảm thấy cô đơn và lạc lõng
+815,Lần cuối bạn đọc một cuốn sách là khi nào?,When,lần cuối bạn đọc một cuốn sách là khi nào
+816,Khi nào bạn nghĩ là thời điểm thích hợp để bắt đầu lại từ đầu?,When,khi nào bạn nghĩ là thời điểm thích hợp để bắt đầu lại từ đầu
+817,Bạn thường làm gì vào cuối tuần? ,When,bạn thường làm gì vào cuối tuần
+818,Khi nào bạn cảm thấy hối tiếc vì đã không nói ra suy nghĩ của mình?,When,khi nào bạn cảm thấy hối tiếc vì đã không nói ra suy nghĩ của mình
+819,"Theo bạn, khi nào thì nên ngừng theo đuổi một mục tiêu?",When,theo bạn khi nào thì nên ngừng theo đuổi một mục tiêu
+820,Lần đầu tiên bạn kiếm được tiền là khi nào?,When,lần đầu tiên bạn kiếm được tiền là khi nào
+821,Khi nào bạn dự định sẽ học thêm một kỹ năng mới?,When,khi nào bạn dự định sẽ học thêm một kỹ năng mới
+822,Bạn nghĩ khi nào thì nên tha thứ cho bản thân?,When,bạn nghĩ khi nào thì nên tha thứ cho bản thân
+823,Thời điểm nào trong ngày bạn cảm thấy thư giãn nhất?,When,thời điểm nào trong ngày bạn cảm thấy thư giãn nhất
+824,Khi nào bạn cảm thấy cần phải trốn chạy khỏi thực tại?,When,khi nào bạn cảm thấy cần phải trốn chạy khỏi thực tại
+825,Lần cuối bạn dành thời gian cho sở thích cá nhân là khi nào?,When,lần cuối bạn dành thời gian cho sở thích cá nhân là khi nào
+826,Khi nào bạn nghĩ là thời điểm thích hợp để kết thúc một tình bạn?,When,khi nào bạn nghĩ là thời điểm thích hợp để kết thúc một tình bạn
+827,Bạn thường suy nghĩ về tương lai vào lúc nào?,When,bạn thường suy nghĩ về tương lai vào lúc nào
+828,Khi nào bạn cảm thấy hối hận vì đã làm tổn thương người khác?,When,khi nào bạn cảm thấy hối hận vì đã làm tổn thương người khác
+829,"Theo bạn, khi nào thì nên đặt ra giới hạn cho bản thân?",When,theo bạn khi nào thì nên đặt ra giới hạn cho bản thân
+830,Lần đầu tiên bạn biết đến mạng xã hội là khi nào?,When,lần đầu tiên bạn biết đến mạng xã hội là khi nào
+831,Khi nào bạn dự định sẽ mua xe ô tô?,When,khi nào bạn dự định sẽ mua xe ô tô
+832,Bạn nghĩ khi nào thì nên ngừng học hỏi?,When,bạn nghĩ khi nào thì nên ngừng học hỏi
+833,Thời điểm nào trong quá khứ bạn cảm thấy tự hào về bản thân nhất?,When,thời điểm nào trong quá khứ bạn cảm thấy tự hào về bản thân nhất
+834,Khi nào bạn cảm thấy cần phải thay đổi thói quen sinh hoạt?,When,khi nào bạn cảm thấy cần phải thay đổi thói quen sinh hoạt
+835,Lần cuối bạn giúp đỡ người khác là khi nào?,When,lần cuối bạn giúp đỡ người khác là khi nào
+836,Khi nào bạn nghĩ là thời điểm thích hợp để lập gia đình?,When,khi nào bạn nghĩ là thời điểm thích hợp để lập gia đình
+837,Bạn thường nghe nhạc vào lúc nào?,When,bạn thường nghe nhạc vào lúc nào
+838,Khi nào bạn cảm thấy hối tiếc vì đã không nắm bắt cơ hội?,When,khi nào bạn cảm thấy hối tiếc vì đã không nắm bắt cơ hội
+839,"Theo bạn, khi nào thì nên chấp nhận rủi ro?",When,theo bạn khi nào thì nên chấp nhận rủi ro
+840,Lần đầu tiên bạn biết nói dối là khi nào?,When,lần đầu tiên bạn biết nói dối là khi nào
+841,Khi nào bạn dự định sẽ nghỉ việc?,When,khi nào bạn dự định sẽ nghỉ việc
+842,Bạn nghĩ khi nào thì nên học cách buông bỏ?,When,bạn nghĩ khi nào thì nên học cách buông bỏ
+843,Thời điểm nào trong ngày bạn cảm thấy suy nghĩ sáng suốt nhất?,When,thời điểm nào trong ngày bạn cảm thấy suy nghĩ sáng suốt nhất
+844,Khi nào bạn cảm thấy cần phải tìm kiếm sự giúp đỡ?,When,khi nào bạn cảm thấy cần phải tìm kiếm sự giúp đỡ
+845,Bạn thường gọi điện cho bố mẹ vào lúc nào?,When,bạn thường gọi điện cho bố mẹ vào lúc nào
+846,Khi nào bạn cảm thấy hối hận vì đã lãng phí thời gian?,When,khi nào bạn cảm thấy hối hận vì đã lãng phí thời gian
+847,"Theo bạn, khi nào thì nên tin vào trực giác?",When,theo bạn khi nào thì nên tin vào trực giác
+848,Lần đầu tiên bạn biết đến Bách Khoa Hà Nội là khi nào?,When,lần đầu tiên bạn biết đến bách khoa hà nội là khi nào
+849,Khi nào bạn dự định sẽ tham gia hoạt động tình nguyện?,When,khi nào bạn dự định sẽ tham gia hoạt động tình nguyện
+850,Bạn nghĩ khi nào thì nên học cách lắng nghe nhiều hơn?,When,bạn nghĩ khi nào thì nên học cách lắng nghe nhiều hơn
+851,Thời điểm nào trong năm bạn cảm thấy uể oải nhất?,When,thời điểm nào trong năm bạn cảm thấy uể oải nhất
+852,Khi nào bạn cảm thấy cần phải thay đổi môi trường sống?,When,khi nào bạn cảm thấy cần phải thay đổi môi trường sống
+853,Lần cuối bạn làm việc nhà là khi nào?,When,lần cuối bạn làm việc nhà là khi nào
+854,Khi nào bạn nghĩ là thời điểm thích hợp để đầu tư vào bản thân?,When,khi nào bạn nghĩ là thời điểm thích hợp để đầu tư vào bản thân
+855,Bạn thường xem phim vào lúc nào?,When,bạn thường xem phim vào lúc nào
+856,Khi nào bạn cảm thấy hối hận vì đã không kiên trì?,When,khi nào bạn cảm thấy hối hận vì đã không kiên trì
+857,"Theo bạn, khi nào thì nên đặt câu hỏi về những điều mình tin tưởng?",When,theo bạn khi nào thì nên đặt câu hỏi về những điều mình tin tưởng
+858,Lần đầu tiên bạn sử dụng máy tính là khi nào?,When,lần đầu tiên bạn sử dụng máy tính là khi nào
+859,Khi nào bạn dự định sẽ học lái xe ô tô?,When,khi nào bạn dự định sẽ học lái xe ô tô
+860,Bạn nghĩ khi nào thì nên học cách chấp nhận thất bại?,When,bạn nghĩ khi nào thì nên học cách chấp nhận thất bại
+861,Thời điểm nào trong ngày bạn cảm thấy tâm trạng tốt nhất?,When,thời điểm nào trong ngày bạn cảm thấy tâm trạng tốt nhất
+862,Khi nào bạn cảm thấy cần phải tha thứ cho người khác?,When,khi nào bạn cảm thấy cần phải tha thứ cho người khác
+863,Lần cuối bạn đi xem phim rạp là khi nào?,When,lần cuối bạn đi xem phim rạp là khi nào
+864,Khi nào bạn nghĩ là thời điểm thích hợp để bắt đầu một mối quan hệ nghiêm túc?,When,khi nào bạn nghĩ là thời điểm thích hợp để bắt đầu một mối quan hệ nghiêm túc
+865,Bạn thường tập thể dục vào lúc nào?,When,bạn thường tập thể dục vào lúc nào
+866,Khi nào bạn cảm thấy hối hận vì đã không dũng cảm hơn?,When,khi nào bạn cảm thấy hối hận vì đã không dũng cảm hơn
+867,"Theo bạn, khi nào thì nên học cách nói ""không""?",When,theo bạn khi nào thì nên học cách nói không
+868,Lần đầu tiên bạn đi máy bay là khi nào?,When,lần đầu tiên bạn đi máy bay là khi nào
+869,Khi nào bạn dự định sẽ viết một cuốn sách?,When,khi nào bạn dự định sẽ viết một cuốn sách
+870,Bạn nghĩ khi nào thì nên học cách yêu thương bản thân?,When,bạn nghĩ khi nào thì nên học cách yêu thương bản thân
+871,Bạn cảm thấy cần làm việc chăm chỉ hơn vào lúc nào?,When,bạn cảm thấy cần làm việc chăm chỉ hơn vào lúc nào
+872,Lần cuối cùng bạn thức khuya là khi nào?,When,lần cuối cùng bạn thức khuya là khi nào
+873,Ở đâu bán trái cây tươi sạch giá tốt?,Where,ở đâu bán trái cây tươi sạch giá tốt
+874,Nơi nào cung cấp dịch vụ sửa chữa điện thoại uy tín?,Where,nơi nào cung cấp dịch vụ sửa chữa điện thoại uy tín
+875,Ở đâu có dịch vụ giao đồ ăn nhanh?,Where,ở đâu có dịch vụ giao đồ ăn nhanh
+876,Tôi có thể mua máy ảnh cũ chất lượng ở đâu?,Where,tôi có thể mua máy ảnh cũ chất lượng ở đâu
+877,Địa chỉ nào bán quần áo thời trang cho nam ở Hà Nội?,Where,địa chỉ nào bán quần áo thời trang cho nam ở hà nội
+878,Chỗ nào cho thuê xe máy giá rẻ?,Where,chỗ nào cho thuê xe máy giá rẻ
+879,Ở đâu có tổ chức các sự kiện văn hóa truyền thống?,Where,ở đâu có tổ chức các sự kiện văn hóa truyền thống
+880,Tôi có thể học tiếng Anh giao tiếp ở đâu?,Where,tôi có thể học tiếng anh giao tiếp ở đâu
+881,Ở đâu có các lớp học vẽ cơ bản?,Where,ở đâu có các lớp học vẽ cơ bản
+882,Ở đâu bán đồ trang trí Tết độc đáo?,Where,ở đâu bán đồ trang trí tết độc đáo
+883,Tôi nên sửa xe đạp ở đâu tại Hà Nội?,Where,tôi nên sửa xe đạp ở đâu tại hà nội
+884,Chỗ nào bán nhạc cụ cho người mới học?,Where,chỗ nào bán nhạc cụ cho người mới học
+885,Ở đâu bán vé máy bay giá rẻ?,Where,ở đâu bán vé máy bay giá rẻ
+886,Nhà hàng nào có món ăn Việt Nam ngon nhất?,Where,nhà hàng nào có món ăn việt nam ngon nhất
+887,Tôi có thể tham gia câu lạc bộ bóng đá ở đâu?,Where,tôi có thể tham gia câu lạc bộ bóng đá ở đâu
+888,Địa điểm nào phù hợp để tổ chức tiệc cưới?,Where,địa điểm nào phù hợp để tổ chức tiệc cưới
+889,Nơi nào tổ chức các buổi hòa nhạc ngoài trời?,Where,nơi nào tổ chức các buổi hòa nhạc ngoài trời
+890,Ở đâu có chợ bán đồ second-hand tốt nhất?,Where,ở đâu có chợ bán đồ secondhand tốt nhất
+891,Ở đâu có thể đổi ngoại tệ với tỷ giá tốt?,Where,ở đâu có thể đổi ngoại tệ với tỷ giá tốt
+892,Tôi có thể mua máy tính xách tay chính hãng ở đâu?,Where,tôi có thể mua máy tính xách tay chính hãng ở đâu
+893,Ở đâu tổ chức lễ hội hoa lớn nhất trong năm?,Where,ở đâu tổ chức lễ hội hoa lớn nhất trong năm
+894,Nơi nào bán bánh trung thu ngon và nổi tiếng?,Where,nơi nào bán bánh trung thu ngon và nổi tiếng
+895,Tôi có thể học lái xe ô tô ở đâu?,Where,tôi có thể học lái xe ô tô ở đâu
+896,Ở đâu cung cấp các khóa học yoga cho người mới bắt đầu?,Where,ở đâu cung cấp các khóa học yoga cho người mới bắt đầu
+897,Ở đâu có cửa hàng bán sản phẩm hữu cơ chất lượng?,Where,ở đâu có cửa hàng bán sản phẩm hữu cơ chất lượng
+898,Nhà sách nào có nhiều đầu sách học thuật nhất?,Where,nhà sách nào có nhiều đầu sách học thuật nhất
+899,Tôi có thể thuê người chụp ảnh chuyên nghiệp ở đâu?,Where,tôi có thể thuê người chụp ảnh chuyên nghiệp ở đâu
+900,Chỗ nào bán đồ chơi trẻ em an toàn và giá tốt?,Where,chỗ nào bán đồ chơi trẻ em an toàn và giá tốt
+901,Ở đâu có dịch vụ dọn dẹp nhà cửa chuyên nghiệp?,Where,ở đâu có dịch vụ dọn dẹp nhà cửa chuyên nghiệp
+902,Nơi nào bán giày thể thao chính hãng?,Where,nơi nào bán giày thể thao chính hãng
+903,Tôi có thể đặt phòng khách sạn giá rẻ ở đâu?,Where,tôi có thể đặt phòng khách sạn giá rẻ ở đâu
+904,Địa điểm nào nổi tiếng với cảnh hoàng hôn đẹp nhất?,Where,địa điểm nào nổi tiếng với cảnh hoàng hôn đẹp nhất
+905,Ở đâu có thể học nhảy hiện đại?,Where,ở đâu có thể học nhảy hiện đại
+906,Tôi có thể mua các món đồ lưu niệm độc đáo ở đâu?,Where,tôi có thể mua các món đồ lưu niệm độc đáo ở đâu
+907,Chỗ nào có các lớp học võ thuật miễn phí?,Where,chỗ nào có các lớp học võ thuật miễn phí
+908,Ở đâu có khu vui chơi giải trí cho trẻ em?,Where,ở đâu có khu vui chơi giải trí cho trẻ em
+909,Quán cà phê nào có không gian yên tĩnh để học bài?,Where,quán cà phê nào có không gian yên tĩnh để học bài
+910,Tôi có thể tìm mua vật liệu xây dựng giá rẻ ở đâu?,Where,tôi có thể tìm mua vật liệu xây dựng giá rẻ ở đâu
+911,Địa chỉ nào cung cấp dịch vụ spa uy tín?,Where,địa chỉ nào cung cấp dịch vụ spa uy tín
+912,Chỗ nào tổ chức các buổi hội thảo công nghệ?,Where,chỗ nào tổ chức các buổi hội thảo công nghệ
+913,Ở đâu có các quán ăn chay ngon?,Where,ở đâu có các quán ăn chay ngon
+914,Tôi có thể sửa máy tính ở đâu nhanh nhất?,Where,tôi có thể sửa máy tính ở đâu nhanh nhất
+915,Ở đâu có các lớp học tiếng Hàn cho người đi làm?,Where,ở đâu có các lớp học tiếng hàn cho người đi làm
+916,Chỗ nào bán phụ kiện điện thoại giá rẻ?,Where,chỗ nào bán phụ kiện điện thoại giá rẻ
+917,Tôi có thể mua vé xem phim trực tuyến ở đâu?,Where,tôi có thể mua vé xem phim trực tuyến ở đâu
+918,Ở đâu có các trung tâm dạy nhạc chất lượng?,Where,ở đâu có các trung tâm dạy nhạc chất lượng
+919,Tôi nên thuê xe hơi tự lái ở đâu?,Where,tôi nên thuê xe hơi tự lái ở đâu
+920,Địa điểm nào phù hợp để cắm trại cuối tuần?,Where,địa điểm nào phù hợp để cắm trại cuối tuần
+921,Chỗ nào bán đồ trang sức handmade đẹp?,Where,chỗ nào bán đồ trang sức handmade đẹp
+922,Ở đâu có thể học nấu các món ăn Việt Nam truyền thống?,Where,ở đâu có thể học nấu các món ăn việt nam truyền thống
+923,Nơi nào có dịch vụ sửa chữa máy lạnh tại nhà?,Where,nơi nào có dịch vụ sửa chữa máy lạnh tại nhà
+924,Tôi có thể học múa truyền thống ở đâu?,Where,tôi có thể học múa truyền thống ở đâu
+925,Ở đâu bán đồ nội thất hiện đại?,Where,ở đâu bán đồ nội thất hiện đại
+926,Chỗ nào cho thuê văn phòng chia sẻ?,Where,chỗ nào cho thuê văn phòng chia sẻ
+927,Ở đâu có các lớp học phát triển kỹ năng mềm?,Where,ở đâu có các lớp học phát triển kỹ năng mềm
+928,Tôi có thể tìm kiếm các bài tập thể dục tại nhà ở đâu?,Where,tôi có thể tìm kiếm các bài tập thể dục tại nhà ở đâu
+929,Ở đâu bán các loại cây cảnh độc đáo?,Where,ở đâu bán các loại cây cảnh độc đáo
+930,Nơi nào có thư viện mở cửa 24/7?,Where,nơi nào có thư viện mở cửa 247
+931,Địa chỉ nào bán vé xe khách uy tín?,Where,địa chỉ nào bán vé xe khách uy tín
+932,Ở đâu có thể tham quan di tích lịch sử?,Where,ở đâu có thể tham quan di tích lịch sử
+933,Tôi có thể mua bánh mì tươi vào sáng sớm ở đâu?,Where,tôi có thể mua bánh mì tươi vào sáng sớm ở đâu
+934,Ở đâu có các khu nghỉ dưỡng gần biển?,Where,ở đâu có các khu nghỉ dưỡng gần biển
+935,Chỗ nào bán đồ gia dụng thông minh?,Where,chỗ nào bán đồ gia dụng thông minh
+936,Địa điểm nào tổ chức các buổi hội thảo khởi nghiệp?,Where,địa điểm nào tổ chức các buổi hội thảo khởi nghiệp
+937,Tôi có thể tham gia các câu lạc bộ sách ở đâu?,Where,tôi có thể tham gia các câu lạc bộ sách ở đâu
+938,Ở đâu bán các loại hoa quả nhập khẩu chất lượng?,Where,ở đâu bán các loại hoa quả nhập khẩu chất lượng
+939,Tôi nên sửa đồng hồ ở đâu?,Where,tôi nên sửa đồng hồ ở đâu
+940,Ở đâu có thể tham gia các lớp học phát triển cá nhân?,Where,ở đâu có thể tham gia các lớp học phát triển cá nhân
+941,Địa chỉ nào cung cấp dịch vụ giặt ủi nhanh?,Where,địa chỉ nào cung cấp dịch vụ giặt ủi nhanh
+942,Tôi có thể tìm chỗ học sửa chữa xe máy ở đâu?,Where,tôi có thể tìm chỗ học sửa chữa xe máy ở đâu
+943,Ở đâu có các khu chợ đêm đông vui?,Where,ở đâu có các khu chợ đêm đông vui
+944,Chỗ nào bán đồ điện tử đã qua sử dụng?,Where,chỗ nào bán đồ điện tử đã qua sử dụng
+945,Nơi nào có công viên giải trí lớn nhất?,Where,nơi nào có công viên giải trí lớn nhất
+946,Tôi có thể thuê thợ sơn nhà ở đâu?,Where,tôi có thể thuê thợ sơn nhà ở đâu
+947,Ở đâu bán các loại đồ chơi giáo dục?,Where,ở đâu bán các loại đồ chơi giáo dục
+948,Địa điểm nào nổi tiếng với các món ăn đường phố?,Where,địa điểm nào nổi tiếng với các món ăn đường phố
+949,Tôi có thể tìm mua các loại sách ngoại văn ở đâu?,Where,tôi có thể tìm mua các loại sách ngoại văn ở đâu
+950,Chỗ nào bán đồng hồ chính hãng?,Where,chỗ nào bán đồng hồ chính hãng
+951,Tôi nên tìm nơi học kỹ năng giao tiếp ở đâu?,Where,tôi nên tìm nơi học kỹ năng giao tiếp ở đâu
+952,Nơi nào cung cấp dịch vụ chăm sóc cây cảnh?,Where,nơi nào cung cấp dịch vụ chăm sóc cây cảnh
+953,Tôi có thể tham gia các khóa học miễn phí trực tuyến ở đâu?,Where,tôi có thể tham gia các khóa học miễn phí trực tuyến ở đâu
+954,Ở đâu bán dụng cụ thể thao chất lượng?,Where,ở đâu bán dụng cụ thể thao chất lượng
+955,Chỗ nào tổ chức các lớp học làm bánh?,Where,chỗ nào tổ chức các lớp học làm bánh
+956,Tôi có thể mua vé xem hòa nhạc ở đâu?,Where,tôi có thể mua vé xem hòa nhạc ở đâu
+957,Ở đâu có các lớp học kỹ thuật miễn phí?,Where,ở đâu có các lớp học kỹ thuật miễn phí
+958,Nơi nào tổ chức các buổi hội thảo văn hóa?,Where,nơi nào tổ chức các buổi hội thảo văn hóa
+959,Tôi có thể tìm mua đồ dùng học tập giá rẻ ở đâu?,Where,tôi có thể tìm mua đồ dùng học tập giá rẻ ở đâu
+960,Chỗ nào cung cấp dịch vụ lắp đặt camera an ninh?,Where,chỗ nào cung cấp dịch vụ lắp đặt camera an ninh
+961,Ở đâu có thể tham quan vườn hoa?,Where,ở đâu có thể tham quan vườn hoa
+962,Địa điểm nào tổ chức hội thảo về phát triển kinh doanh?,Where,địa điểm nào tổ chức hội thảo về phát triển kinh doanh
+963,Tôi có thể tìm mua nhạc cụ cổ truyền ở đâu?,Where,tôi có thể tìm mua nhạc cụ cổ truyền ở đâu
+964,Chỗ nào tổ chức các lớp học ngoại ngữ vào buổi tối?,Where,chỗ nào tổ chức các lớp học ngoại ngữ vào buổi tối
+965,Ở đâu có dịch vụ giao hàng nhanh trong ngày?,Where,ở đâu có dịch vụ giao hàng nhanh trong ngày
+966,Địa chỉ nào bán đồ chơi trí tuệ cho trẻ em?,Where,địa chỉ nào bán đồ chơi trí tuệ cho trẻ em
+967,Tôi nên học thiết kế thời trang ở đâu?,Where,tôi nên học thiết kế thời trang ở đâu
+968,Nơi nào có các lớp học sáng tạo nội dung?,Where,nơi nào có các lớp học sáng tạo nội dung
+969,Ở đâu có các khu chợ nổi truyền thống?,Where,ở đâu có các khu chợ nổi truyền thống
+970,Ai là người đứng đầu chính phủ Việt Nam hiện nay?,Who,ai là người đứng đầu chính phủ việt nam hiện nay
+971,Người phát minh ra máy bay là ai?,Who,người phát minh ra máy bay là ai
+972,Ai là người thiết kế tòa nhà cao nhất thế giới?,Who,ai là người thiết kế tòa nhà cao nhất thế giới
+973,Ai đã viết cuốn tiểu thuyết “Chiến tranh và Hòa bình”?,Who,ai đã viết cuốn tiểu thuyết chiến tranh và hòa bình
+974,Người thắng giải Oscar cho Nam diễn viên chính xuất sắc nhất năm nay là ai?,Who,người thắng giải oscar cho nam diễn viên chính xuất sắc nhất năm nay là ai
+975,Ai đã khởi xướng phong trào chống phân biệt chủng tộc ở Mỹ?,Who,ai đã khởi xướng phong trào chống phân biệt chủng tộc ở mỹ
+976,Ai là tác giả của tác phẩm “Tắt đèn”?,Who,ai là tác giả của tác phẩm tắt đèn
+977,Người sáng lập công ty Apple là ai?,Who,người sáng lập công ty apple là ai
+978,Ai là nhân vật lịch sử được in trên tờ tiền mệnh giá cao nhất ở Việt Nam?,Who,ai là nhân vật lịch sử được in trên tờ tiền mệnh giá cao nhất ở việt nam
+979,Ai là tổng thống đầu tiên của Mỹ?,Who,ai là tổng thống đầu tiên của mỹ
+980,Người phát hiện ra thuyết tương đối là ai?,Who,người phát hiện ra thuyết tương đối là ai
+981,Ai là người đầu tiên đặt chân lên mặt trăng?,Who,ai là người đầu tiên đặt chân lên mặt trăng
+982,Người đóng vai chính trong bộ phim này là ai?,Who,người đóng vai chính trong bộ phim này là ai
+983,Ai là người giữ kỷ lục chạy 100m nhanh nhất thế giới?,Who,ai là người giữ kỷ lục chạy 100 m nhanh nhất thế giới
+984,Ai là nhà vô địch thế giới bóng đá năm nay?,Who,ai là nhà vô địch thế giới bóng đá năm nay
+985,Ai đã sáng tác bài Quốc ca Việt Nam?,Who,ai đã sáng tác bài quốc ca việt nam
+986,Ai là người dẫn chương trình truyền hình nổi tiếng nhất ở Việt Nam?,Who,ai là người dẫn chương trình truyền hình nổi tiếng nhất ở việt nam
+987,Người được bầu làm Miss Universe năm nay là ai?,Who,người được bầu làm miss universe năm nay là ai
+988,Ai là nhân vật chính trong cuốn sách bạn vừa đọc?,Who,ai là nhân vật chính trong cuốn sách bạn vừa đọc
+989,Ai là người bạn thân nhất của bạn?,Who,ai là người bạn thân nhất của bạn
+990,Người giáo viên bạn yêu quý nhất thời học sinh là ai?,Who,người giáo viên bạn yêu quý nhất thời học sinh là ai
+991,Ai là người đã cứu bạn trong tình huống nguy hiểm lần trước?,Who,ai là người đã cứu bạn trong tình huống nguy hiểm lần trước
+992,Người lãnh đạo phong trào cách mạng Việt Nam đầu thế kỷ 20 là ai?,Who,người lãnh đạo phong trào cách mạng việt nam đầu thế kỷ 20 là ai
+993,Ai là người đứng sau thành công của dự án này?,Who,ai là người đứng sau thành công của dự án này
+994,Người nào đã viết cuốn sách bạn yêu thích nhất?,Who,người nào đã viết cuốn sách bạn yêu thích nhất
+995,Ai là người phụ trách chương trình từ thiện này?,Who,ai là người phụ trách chương trình từ thiện này
+996,Người sáng lập thương hiệu thời trang nổi tiếng nhất thế giới là ai?,Who,người sáng lập thương hiệu thời trang nổi tiếng nhất thế giới là ai
+997,Ai là tác giả của bức tranh bạn thích nhất?,Who,ai là tác giả của bức tranh bạn thích nhất
+998,Người đứng đầu tổ chức UNESCO hiện nay là ai?,Who,người đứng đầu tổ chức unesco hiện nay là ai
+999,Ai đã phát minh ra máy in?,Who,ai đã phát minh ra máy in
+1000,Người được trao giải Nobel Hòa bình năm nay là ai?,Who,người được trao giải nobel hòa bình năm nay là ai
+1001,Ai là người bạn đã gặp lần cuối ở quán cà phê?,Who,ai là người bạn đã gặp lần cuối ở quán cà phê
+1002,Người nào đã giúp bạn khi xe bạn bị hỏng?,Who,người nào đã giúp bạn khi xe bạn bị hỏng
+1003,Ai là người nhận giải thưởng âm nhạc quốc tế năm nay?,Who,ai là người nhận giải thưởng âm nhạc quốc tế năm nay
+1004,Người nào là nhân vật chính trong bộ phim “Titanic”?,Who,người nào là nhân vật chính trong bộ phim titanic
+1005,Ai là người viết lời cho bài hát này?,Who,ai là người viết lời cho bài hát này
+1006,Người chịu trách nhiệm về mảng truyền thông của công ty là ai?,Who,người chịu trách nhiệm về mảng truyền thông của công ty là ai
+1007,Ai đã tặng bạn món quà sinh nhật đáng nhớ nhất?,Who,ai đã tặng bạn món quà sinh nhật đáng nhớ nhất
+1008,Ai là tác giả của bộ phim tài liệu bạn vừa xem?,Who,ai là tác giả của bộ phim tài liệu bạn vừa xem
+1009,Người thầy đã truyền cảm hứng cho bạn học môn Toán là ai?,Who,người thầy đã truyền cảm hứng cho bạn học môn toán là ai
+1010,Ai là người đã làm thay đổi cách bạn nhìn nhận cuộc sống?,Who,ai là người đã làm thay đổi cách bạn nhìn nhận cuộc sống
+1011,Người nào đã sáng tạo ra các nhân vật trong truyện tranh Marvel?,Who,người nào đã sáng tạo ra các nhân vật trong truyện tranh marvel
+1012,Ai đã đặt nền móng cho công nghệ trí tuệ nhân tạo?,Who,ai đã đặt nền móng cho công nghệ trí tuệ nhân tạo
+1013,Ai là người bạn cảm thấy tin tưởng nhất trong công việc?,Who,ai là người bạn cảm thấy tin tưởng nhất trong công việc
+1014,Người sáng lập ra thương hiệu đồ ăn nhanh nổi tiếng này là ai?,Who,người sáng lập ra thương hiệu đồ ăn nhanh nổi tiếng này là ai
+1015,Ai đã tạo ra chiếc máy tính đầu tiên?,Who,ai đã tạo ra chiếc máy tính đầu tiên
+1016,Người thiết kế logo công ty bạn đang làm việc là ai?,Who,người thiết kế logo công ty bạn đang làm việc là ai
+1017,Ai đã mang đến thành công cho đội bóng nước nhà?,Who,ai đã mang đến thành công cho đội bóng nước nhà
+1018,Ai là người đầu tiên bạn nghĩ đến khi gặp khó khăn?,Who,ai là người đầu tiên bạn nghĩ đến khi gặp khó khăn
+1019,Người đã đứng lên bảo vệ bạn trong tình huống xấu hổ là ai?,Who,người đã đứng lên bảo vệ bạn trong tình huống xấu hổ là ai
+1020,Ai là nhân vật quan trọng nhất trong lịch sử hiện đại?,Who,ai là nhân vật quan trọng nhất trong lịch sử hiện đại
+1021,Người nào đã giúp bạn hoàn thành luận văn tốt nghiệp?,Who,người nào đã giúp bạn hoàn thành luận văn tốt nghiệp
+1022,Ai là tác giả của bài thơ “Việt Bắc”?,Who,ai là tác giả của bài thơ việt bắc
+1023,Người thắng cuộc trong cuộc thi hát năm ngoái là ai?,Who,người thắng cuộc trong cuộc thi hát năm ngoái là ai
+1024,Ai đã lên ý tưởng cho dự án sáng tạo này?,Who,ai đã lên ý tưởng cho dự án sáng tạo này
+1025,Người nào giữ vai trò quan trọng trong việc xây dựng tổ chức của bạn?,Who,người nào giữ vai trò quan trọng trong việc xây dựng tổ chức của bạn
+1026,Ai là tác giả của câu chuyện bạn vừa kể?,Who,ai là tác giả của câu chuyện bạn vừa kể
+1027,Người bạn ngưỡng mộ nhất trong lĩnh vực của mình là ai?,Who,người bạn ngưỡng mộ nhất trong lĩnh vực của mình là ai
+1028,Ai đã hướng dẫn bạn khi mới bước chân vào nghề?,Who,ai đã hướng dẫn bạn khi mới bước chân vào nghề
+1029,Người nào đã phát minh ra bóng đèn huỳnh quang?,Who,người nào đã phát minh ra bóng đèn huỳnh quang
+1030,Ai là người đứng sau sự kiện văn hóa lớn này?,Who,ai là người đứng sau sự kiện văn hóa lớn này
+1031,Người thắng giải cuộc thi marathon gần đây là ai?,Who,người thắng giải cuộc thi marathon gần đây là ai
+1032,Ai là người đã động viên bạn tiếp tục cố gắng?,Who,ai là người đã động viên bạn tiếp tục cố gắng
+1033,Người đã viết cuốn sách “Đắc nhân tâm” là ai?,Who,người đã viết cuốn sách đắc nhân tâm là ai
+1034,Ai là chủ nhân của chiếc xe đỗ ngoài cổng?,Who,ai là chủ nhân của chiếc xe đỗ ngoài cổng
+1035,Người phụ trách tài chính của công ty là ai?,Who,người phụ trách tài chính của công ty là ai
+1036,Ai đã mang món ăn này đến văn phòng hôm nay?,Who,ai đã mang món ăn này đến văn phòng hôm nay
+1037,Người nào đã vẽ bức tranh bạn treo ở phòng khách?,Who,người nào đã vẽ bức tranh bạn treo ở phòng khách
+1038,Ai là tổng biên tập của tờ báo này?,Who,ai là tổng biên tập của tờ báo này
+1039,Người viết kịch bản cho bộ phim nổi tiếng đó là ai?,Who,người viết kịch bản cho bộ phim nổi tiếng đó là ai
+1040,Ai đã tổ chức chuyến đi du lịch tập thể năm ngoái?,Who,ai đã tổ chức chuyến đi du lịch tập thể năm ngoái
+1041,Người đầu tiên nghĩ ra ý tưởng về mạng xã hội là ai?,Who,người đầu tiên nghĩ ra ý tưởng về mạng xã hội là ai
+1042,Ai là nhân vật chính trong cuốn tiểu thuyết bạn đang đọc?,Who,ai là nhân vật chính trong cuốn tiểu thuyết bạn đang đọc
+1043,Người nào đã gửi bưu kiện cho bạn sáng nay?,Who,người nào đã gửi bưu kiện cho bạn sáng nay
+1044,Ai là người nhận trách nhiệm trong dự án lần này?,Who,ai là người nhận trách nhiệm trong dự án lần này
+1045,Người nào đã truyền cảm hứng cho bạn học ngôn ngữ mới?,Who,người nào đã truyền cảm hứng cho bạn học ngôn ngữ mới
+1046,Ai là tác giả của bản nhạc cổ điển nổi tiếng này?,Who,ai là tác giả của bản nhạc cổ điển nổi tiếng này
+1047,Người đã sáng tạo ra công nghệ blockchain là ai?,Who,người đã sáng tạo ra công nghệ blockchain là ai
+1048,Ai là người thiết kế giao diện phần mềm này?,Who,ai là người thiết kế giao diện phần mềm này
+1049,Người nào đóng vai trò chủ chốt trong việc hoàn thành công trình?,Who,người nào đóng vai trò chủ chốt trong việc hoàn thành công trình
+1050,Ai là người đã giúp bạn khi bạn cần trợ giúp tài chính?,Who,ai là người đã giúp bạn khi bạn cần trợ giúp tài chính
+1051,Người nào đã tổ chức buổi hội thảo chuyên ngành?,Who,người nào đã tổ chức buổi hội thảo chuyên ngành
+1052,Ai là nhân vật phản diện trong bộ phim bạn vừa xem?,Who,ai là nhân vật phản diện trong bộ phim bạn vừa xem
+1053,Người nào đã truyền cảm hứng để bạn viết bài văn này?,Who,người nào đã truyền cảm hứng để bạn viết bài văn này
+1054,Ai đã chụp bức ảnh bạn yêu thích nhất?,Who,ai đã chụp bức ảnh bạn yêu thích nhất
+1055,Người nào đã tạo ra sản phẩm độc đáo này?,Who,người nào đã tạo ra sản phẩm độc đáo này
+1056,Ai là ca sĩ chính trong ban nhạc bạn hâm mộ?,Who,ai là ca sĩ chính trong ban nhạc bạn hâm mộ
+1057,Người sáng tạo nên bức tượng nổi tiếng này là ai?,Who,người sáng tạo nên bức tượng nổi tiếng này là ai
+1058,Ai đã sửa chiếc điện thoại bạn vừa nhận lại?,Who,ai đã sửa chiếc điện thoại bạn vừa nhận lại
+1059,Chủ nhân của cuốn sách này là ai?,Who,chủ nhân của cuốn sách này là ai
+1060,Bạn đã sẵn sàng cho buổi thuyết trình chưa?,Yes/No,bạn đã sẵn sàng cho buổi thuyết trình chưa
+1061,Đã đến lúc bắt đầu họp chưa?,Yes/No,đã đến lúc bắt đầu họp chưa
+1062,Bạn đã hoàn thành bài kiểm tra tuần này chưa?,Yes/No,bạn đã hoàn thành bài kiểm tra tuần này chưa
+1063,Có cần tôi giúp bạn làm báo cáo không?,Yes/No,có cần tôi giúp bạn làm báo cáo không
+1064,Đây có phải là tài liệu bạn đang tìm kiếm không?,Yes/No,đây có phải là tài liệu bạn đang tìm kiếm không
+1065,Bạn có cần thêm thời gian để hoàn thành bài tập không?,Yes/No,bạn có cần thêm thời gian để hoàn thành bài tập không
+1066,Bạn có nghĩ rằng chúng ta sẽ đạt được mục tiêu năm nay không?,Yes/No,bạn có nghĩ rằng chúng ta sẽ đạt được mục tiêu năm nay không
+1067,Đây có phải là chiếc xe bạn định mua không?,Yes/No,đây có phải là chiếc xe bạn định mua không
+1068,Bạn đã từng học một ngoại ngữ khác ngoài tiếng Anh chưa?,Yes/No,bạn đã từng học một ngoại ngữ khác ngoài tiếng anh chưa
+1069,Bạn có nghĩ rằng việc tập thể dục hàng ngày là cần thiết không?,Yes/No,bạn có nghĩ rằng việc tập thể dục hàng ngày là cần thiết không
+1070,Có phải bạn đang chờ ai đó ở đây không?,Yes/No,có phải bạn đang chờ ai đó ở đây không
+1071,Bạn có muốn uống cà phê không?,Yes/No,bạn có muốn uống cà phê không
+1072,Bạn đã từng tham gia một khóa học trực tuyến chưa?,Yes/No,bạn đã từng tham gia một khóa học trực tuyến chưa
+1073,Đây có phải là giải pháp tối ưu cho vấn đề này không?,Yes/No,đây có phải là giải pháp tối ưu cho vấn đề này không
+1074,Bạn có muốn thay đổi ngành học không?,Yes/No,bạn có muốn thay đổi ngành học không
+1075,Bạn đã từng tham gia chương trình trao đổi sinh viên chưa?,Yes/No,bạn đã từng tham gia chương trình trao đổi sinh viên chưa
+1076,Có phải bạn đã quên nộp báo cáo đúng hạn không?,Yes/No,có phải bạn đã quên nộp báo cáo đúng hạn không
+1077,Bạn đã từng tham gia một buổi hội thảo quốc tế chưa?,Yes/No,bạn đã từng tham gia một buổi hội thảo quốc tế chưa
+1078,Bạn có nghĩ rằng việc học nhóm mang lại hiệu quả hơn không?,Yes/No,bạn có nghĩ rằng việc học nhóm mang lại hiệu quả hơn không
+1079,Bạn có muốn tham gia thêm khóa học kỹ năng mềm không?,Yes/No,bạn có muốn tham gia thêm khóa học kỹ năng mềm không
+1080,Bạn đã từng viết một bài báo khoa học chưa?,Yes/No,bạn đã từng viết một bài báo khoa học chưa
+1081,Bạn có muốn thử sức với một lĩnh vực hoàn toàn mới không?,Yes/No,bạn có muốn thử sức với một lĩnh vực hoàn toàn mới không
+1082,Bạn có thấy tự tin khi nói trước đám đông không?,Yes/No,bạn có thấy tự tin khi nói trước đám đông không
+1083,Bạn có nghĩ rằng sự kiên nhẫn là chìa khóa để thành công không?,Yes/No,bạn có nghĩ rằng sự kiên nhẫn là chìa khóa để thành công không
+1084,Bạn có hài lòng với điểm số kỳ này không?,Yes/No,bạn có hài lòng với điểm số kỳ này không
+1085,Đây có phải là lần đầu tiên bạn tham gia cuộc thi này không?,Yes/No,đây có phải là lần đầu tiên bạn tham gia cuộc thi này không
+1086,Bạn có muốn thay đổi kế hoạch hiện tại không?,Yes/No,bạn có muốn thay đổi kế hoạch hiện tại không
+1087,Có phải bạn đang tìm kiếm cơ hội học bổng không?,Yes/No,có phải bạn đang tìm kiếm cơ hội học bổng không
+1088,Bạn có đồng ý với ý kiến của nhóm trưởng không?,Yes/No,bạn có đồng ý với ý kiến của nhóm trưởng không
+1089,Bạn có thấy công việc này phù hợp với mình không?,Yes/No,bạn có thấy công việc này phù hợp với mình không
+1090,Có phải bạn đang lo lắng về bài kiểm tra sắp tới không?,Yes/No,có phải bạn đang lo lắng về bài kiểm tra sắp tới không
+1091,Bạn có muốn dành thêm thời gian để học môn này không?,Yes/No,bạn có muốn dành thêm thời gian để học môn này không
+1092,Đây có phải là một trong những thành tựu bạn tự hào nhất không?,Yes/No,đây có phải là một trong những thành tựu bạn tự hào nhất không
+1093,Bạn có nghĩ rằng việc học thạc sĩ là cần thiết cho sự nghiệp không?,Yes/No,bạn có nghĩ rằng việc học thạc sĩ là cần thiết cho sự nghiệp không
+1094,Bạn đã từng thử làm việc ở nước ngoài chưa?,Yes/No,bạn đã từng thử làm việc ở nước ngoài chưa
+1095,Bạn có dự định tham gia chương trình thực tập hè không?,Yes/No,bạn có dự định tham gia chương trình thực tập hè không
+1096,Bạn đã bao giờ cân nhắc việc học thêm một chứng chỉ chuyên môn chưa?,Yes/No,bạn đã bao giờ cân nhắc việc học thêm một chứng chỉ chuyên môn chưa
+1097,Có phải bạn đang cân nhắc việc chuyển ngành học không?,Yes/No,có phải bạn đang cân nhắc việc chuyển ngành học không
+1098,Bạn đã từng tham gia một chương trình thiện nguyện chưa?,Yes/No,bạn đã từng tham gia một chương trình thiện nguyện chưa
+1099,Bạn có nghĩ rằng trí tuệ nhân tạo sẽ thay đổi tương lai không?,Yes/No,bạn có nghĩ rằng trí tuệ nhân tạo sẽ thay đổi tương lai không
+1100,Đây có phải là công việc bạn mong muốn từ lâu không?,Yes/No,đây có phải là công việc bạn mong muốn từ lâu không
+1101,Bạn có nghĩ rằng sự giao tiếp tốt là kỹ năng quan trọng nhất không?,Yes/No,bạn có nghĩ rằng sự giao tiếp tốt là kỹ năng quan trọng nhất không
+1102,Bạn có muốn thử sức trong một lĩnh vực hoàn toàn mới không?,Yes/No,bạn có muốn thử sức trong một lĩnh vực hoàn toàn mới không
+1103,Bạn có nghĩ rằng học trực tuyến là hiệu quả không?,Yes/No,bạn có nghĩ rằng học trực tuyến là hiệu quả không
+1104,Bạn có cảm thấy tự tin với kế hoạch mà nhóm đã đề ra không?,Yes/No,bạn có cảm thấy tự tin với kế hoạch mà nhóm đã đề ra không
+1105,Bạn đã từng tổ chức một sự kiện lớn chưa?,Yes/No,bạn đã từng tổ chức một sự kiện lớn chưa
+1106,Bạn có nghĩ rằng sự đổi mới là yếu tố quan trọng nhất trong công việc không?,Yes/No,bạn có nghĩ rằng sự đổi mới là yếu tố quan trọng nhất trong công việc không
+1107,Đây có phải là đội bóng bạn yêu thích không?,Yes/No,đây có phải là đội bóng bạn yêu thích không
+1108,Bạn đã từng làm việc với một nhóm quốc tế chưa?,Yes/No,bạn đã từng làm việc với một nhóm quốc tế chưa
+1109,Có phải bạn đang tìm kiếm cơ hội việc làm ở nước ngoài không?,Yes/No,có phải bạn đang tìm kiếm cơ hội việc làm ở nước ngoài không
+1110,Bạn có nghĩ rằng sự đoàn kết là yếu tố quyết định thành công của một đội nhóm không?,Yes/No,bạn có nghĩ rằng sự đoàn kết là yếu tố quyết định thành công của một đội nhóm không
+1111,Bạn đã đọc bao nhiêu cuốn sách trong năm nay?,Quantity,bạn đã đọc bao nhiêu cuốn sách trong năm nay
+1112,Một tháng bạn chi tiêu bao nhiêu tiền cho việc học?,Quantity,một tháng bạn chi tiêu bao nhiêu tiền cho việc học
+1113,Mỗi tuần bạn tập yoga bao nhiêu buổi?,Quantity,mỗi tuần bạn tập yoga bao nhiêu buổi
+1114,Công ty bạn đang làm việc có bao nhiêu chi nhánh?,Quantity,công ty bạn đang làm việc có bao nhiêu chi nhánh
+1115,Bạn đã viết bao nhiêu bài báo khoa học?,Quantity,bạn đã viết bao nhiêu bài báo khoa học
+1116,Mỗi năm bạn thường đi du lịch bao nhiêu lần?,Quantity,mỗi năm bạn thường đi du lịch bao nhiêu lần
+1117,Bạn đã thử bao nhiêu công thức nấu ăn mới?,Quantity,bạn đã thử bao nhiêu công thức nấu ăn mới
+1118,Bạn có bao nhiêu đôi giày thể thao?,Quantity,bạn có bao nhiêu đôi giày thể thao
+1119,Trường của bạn có bao nhiêu sinh viên quốc tế?,Quantity,trường của bạn có bao nhiêu sinh viên quốc tế
+1120,Mỗi ngày bạn dành bao nhiêu thời gian để học tiếng Anh?,Quantity,mỗi ngày bạn dành bao nhiêu thời gian để học tiếng anh
+1121,Nhóm nghiên cứu của bạn có bao nhiêu thành viên?,Quantity,nhóm nghiên cứu của bạn có bao nhiêu thành viên
+1122,Trong sự kiện này có bao nhiêu khách mời?,Quantity,trong sự kiện này có bao nhiêu khách mời
+1123,Mỗi tháng bạn tham gia bao nhiêu cuộc họp?,Quantity,mỗi tháng bạn tham gia bao nhiêu cuộc họp
+1124,Bạn đã nộp bao nhiêu báo cáo trong kỳ này?,Quantity,bạn đã nộp bao nhiêu báo cáo trong kỳ này
+1125,Mỗi tuần bạn thường làm việc bao nhiêu giờ?,Quantity,mỗi tuần bạn thường làm việc bao nhiêu giờ
+1126,Bạn đã thực hiện bao nhiêu dự án trong học kỳ vừa qua?,Quantity,bạn đã thực hiện bao nhiêu dự án trong học kỳ vừa qua
+1127,Có bao nhiêu người đăng ký tham gia hội thảo này?,Quantity,có bao nhiêu người đăng ký tham gia hội thảo này
+1128,Bạn đã nhận được bao nhiêu lời mời làm việc?,Quantity,bạn đã nhận được bao nhiêu lời mời làm việc
+1129,Trường đại học của bạn có bao nhiêu khoa?,Quantity,trường đại học của bạn có bao nhiêu khoa
+1130,Mỗi ngày bạn uống bao nhiêu cốc nước?,Quantity,mỗi ngày bạn uống bao nhiêu cốc nước
+1131,Công việc hiện tại của bạn yêu cầu làm bao nhiêu giờ mỗi tuần?,Quantity,công việc hiện tại của bạn yêu cầu làm bao nhiêu giờ mỗi tuần
+1132,Mỗi tháng bạn thường tiết kiệm được bao nhiêu tiền?,Quantity,mỗi tháng bạn thường tiết kiệm được bao nhiêu tiền
+1133,Bạn đã tham gia bao nhiêu buổi học nhóm?,Quantity,bạn đã tham gia bao nhiêu buổi học nhóm
+1134,Trong kỳ thi vừa qua bạn làm được bao nhiêu câu hỏi đúng?,Quantity,trong kỳ thi vừa qua bạn làm được bao nhiêu câu hỏi đúng
+1135,Bạn đã hoàn thành bao nhiêu phần của dự án?,Quantity,bạn đã hoàn thành bao nhiêu phần của dự án
+1136,Số lượng bài kiểm tra bạn phải làm trong tuần này là bao nhiêu?,Quantity,số lượng bài kiểm tra bạn phải làm trong tuần này là bao nhiêu
+1137,Công ty bạn làm việc đã tổ chức bao nhiêu sự kiện trong năm nay?,Quantity,công ty bạn làm việc đã tổ chức bao nhiêu sự kiện trong năm nay
+1138,Bạn đã tham gia bao nhiêu khóa học trực tuyến?,Quantity,bạn đã tham gia bao nhiêu khóa học trực tuyến
+1139,Mỗi ngày bạn dành bao nhiêu giờ để làm việc trên máy tính?,Quantity,mỗi ngày bạn dành bao nhiêu giờ để làm việc trên máy tính
+1140,Trong bộ sưu tập của bạn có bao nhiêu bức tranh?,Quantity,trong bộ sưu tập của bạn có bao nhiêu bức tranh
+1141,Bạn đã nhận được bao nhiêu email từ đối tác trong tuần qua?,Quantity,bạn đã nhận được bao nhiêu email từ đối tác trong tuần qua
+1142,Bạn đã dành bao nhiêu thời gian để chuẩn bị cho bài thuyết trình này?,Quantity,bạn đã dành bao nhiêu thời gian để chuẩn bị cho bài thuyết trình này
+1143,Có bao nhiêu người trong gia đình bạn thích xem bóng đá?,Quantity,có bao nhiêu người trong gia đình bạn thích xem bóng đá
+1144,Bạn đã hoàn thành bao nhiêu phần của bài tập lớn?,Quantity,bạn đã hoàn thành bao nhiêu phần của bài tập lớn
+1145,Mỗi tháng bạn thường mua bao nhiêu cuốn sách?,Quantity,mỗi tháng bạn thường mua bao nhiêu cuốn sách
+1146,Bạn đã gửi bao nhiêu email trong ngày hôm nay?,Quantity,bạn đã gửi bao nhiêu email trong ngày hôm nay
+1147,Công ty bạn đã đạt được bao nhiêu thành tựu trong năm nay?,Quantity,công ty bạn đã đạt được bao nhiêu thành tựu trong năm nay
+1148,Bạn đã thử bao nhiêu loại cà phê trong tháng này?,Quantity,bạn đã thử bao nhiêu loại cà phê trong tháng này
+1149,Bạn có bao nhiêu tài liệu tham khảo cho luận văn của mình?,Quantity,bạn có bao nhiêu tài liệu tham khảo cho luận văn của mình
+1150,Trong lớp học này có bao nhiêu học viên nữ?,Quantity,trong lớp học này có bao nhiêu học viên nữ
+1151,Mỗi ngày bạn dành bao nhiêu phút để thiền?,Quantity,mỗi ngày bạn dành bao nhiêu phút để thiền
+1152,Bạn đã đi qua bao nhiêu tỉnh thành ở Việt Nam?,Quantity,bạn đã đi qua bao nhiêu tỉnh thành ở việt nam
+1153,Nhà bạn có bao nhiêu phòng ngủ?,Quantity,nhà bạn có bao nhiêu phòng ngủ
+1154,Bạn đã nộp bao nhiêu bản báo cáo cho giáo viên hướng dẫn?,Quantity,bạn đã nộp bao nhiêu bản báo cáo cho giáo viên hướng dẫn
+1155,Mỗi tuần bạn xem bao nhiêu bộ phim?,Quantity,mỗi tuần bạn xem bao nhiêu bộ phim
+1156,Bạn đã tích lũy được bao nhiêu tín chỉ trong chương trình học?,Quantity,bạn đã tích lũy được bao nhiêu tín chỉ trong chương trình học
+1157,Bạn đã hoàn thành bao nhiêu mục tiêu trong năm nay?,Quantity,bạn đã hoàn thành bao nhiêu mục tiêu trong năm nay
+1158,Trong cuộc khảo sát này có bao nhiêu người tham gia?,Quantity,trong cuộc khảo sát này có bao nhiêu người tham gia
+1159,Bạn đã đạt được bao nhiêu giải thưởng trong lĩnh vực của mình?,Quantity,bạn đã đạt được bao nhiêu giải thưởng trong lĩnh vực của mình
+1160,Mỗi ngày bạn cần bao nhiêu giờ để ngủ đủ giấc?,Quantity,mỗi ngày bạn cần bao nhiêu giờ để ngủ đủ giấc
+1161,Nhóm bạn đang làm việc có bao nhiêu người?,Quantity,nhóm bạn đang làm việc có bao nhiêu người
+1162,Bạn đã đọc bao nhiêu bài báo chuyên ngành?,Quantity,bạn đã đọc bao nhiêu bài báo chuyên ngành
+1163,Bạn đã dành bao nhiêu tiền cho chuyến du lịch vừa qua?,Quantity,bạn đã dành bao nhiêu tiền cho chuyến du lịch vừa qua
+1164,Trong tháng này bạn đã hoàn thành bao nhiêu bài kiểm tra?,Quantity,trong tháng này bạn đã hoàn thành bao nhiêu bài kiểm tra
+1165,Bạn đã tham gia bao nhiêu buổi hội thảo chuyên đề?,Quantity,bạn đã tham gia bao nhiêu buổi hội thảo chuyên đề
+1166,Số lượng khách hàng công ty bạn phục vụ mỗi tháng là bao nhiêu?,Quantity,số lượng khách hàng công ty bạn phục vụ mỗi tháng là bao nhiêu
+1167,Bạn đã gửi bao nhiêu bản báo cáo tuần trước?,Quantity,bạn đã gửi bao nhiêu bản báo cáo tuần trước
+1168,Bạn đã thử bao nhiêu phong cách thời trang?,Quantity,bạn đã thử bao nhiêu phong cách thời trang
+1169,Bạn đã học được bao nhiêu từ mới trong tuần này?,Quantity,bạn đã học được bao nhiêu từ mới trong tuần này
+1170,Bạn đã tham gia bao nhiêu chương trình tình nguyện?,Quantity,bạn đã tham gia bao nhiêu chương trình tình nguyện
+1171,Bạn đã tải xuống bao nhiêu ứng dụng trên điện thoại?,Quantity,bạn đã tải xuống bao nhiêu ứng dụng trên điện thoại
+1172,Bạn đã giải quyết được bao nhiêu vấn đề trong dự án này?,Quantity,bạn đã giải quyết được bao nhiêu vấn đề trong dự án này
+1173,Có bao nhiêu người tham gia kỳ thi đầu vào?,Quantity,có bao nhiêu người tham gia kỳ thi đầu vào
+1174,Bạn đã tham gia bao nhiêu buổi hội thảo quốc tế?,Quantity,bạn đã tham gia bao nhiêu buổi hội thảo quốc tế
+1175,Bạn đã gửi bao nhiêu đơn xin việc?,Quantity,bạn đã gửi bao nhiêu đơn xin việc
+1176,Trong năm qua bạn đã làm được bao nhiêu việc thiện nguyện?,Quantity,trong năm qua bạn đã làm được bao nhiêu việc thiện nguyện
+1177,Bạn đã hoàn thành bao nhiêu bài tập môn lập trình?,Quantity,bạn đã hoàn thành bao nhiêu bài tập môn lập trình
+1178,Bạn đã viết được bao nhiêu trang luận văn?,Quantity,bạn đã viết được bao nhiêu trang luận văn
+1179,Bạn đã dạy bao nhiêu học sinh trong năm vừa qua?,Quantity,bạn đã dạy bao nhiêu học sinh trong năm vừa qua
+1180,Mỗi ngày bạn dành bao nhiêu thời gian để đọc sách?,Quantity,mỗi ngày bạn dành bao nhiêu thời gian để đọc sách
+1181,Bạn đã đạt được bao nhiêu chứng chỉ chuyên môn?,Quantity,bạn đã đạt được bao nhiêu chứng chỉ chuyên môn
+1182,Có bao nhiêu người tham gia buổi tiệc chia tay?,Quantity,có bao nhiêu người tham gia buổi tiệc chia tay
+1183,Bạn đã học bao nhiêu khóa học kỹ năng mềm?,Quantity,bạn đã học bao nhiêu khóa học kỹ năng mềm
+1184,Bạn đã thử bao nhiêu công thức làm bánh?,Quantity,bạn đã thử bao nhiêu công thức làm bánh
+1185,Bạn đã tham gia bao nhiêu câu lạc bộ trong trường đại học?,Quantity,bạn đã tham gia bao nhiêu câu lạc bộ trong trường đại học
+1186,Bạn đã lưu bao nhiêu liên lạc trong danh bạ điện thoại?,Quantity,bạn đã lưu bao nhiêu liên lạc trong danh bạ điện thoại
+1187,Trong kỳ nghỉ này bạn đã ghé thăm bao nhiêu địa điểm?,Quantity,trong kỳ nghỉ này bạn đã ghé thăm bao nhiêu địa điểm
+1188,Bạn đã hoàn thành bao nhiêu dự án tự do?,Quantity,bạn đã hoàn thành bao nhiêu dự án tự do
+1189,Bạn đã sửa bao nhiêu lỗi trong chương trình của mình?,Quantity,bạn đã sửa bao nhiêu lỗi trong chương trình của mình
+1190,Bạn đã học được bao nhiêu kỹ năng mới trong năm nay?,Quantity,bạn đã học được bao nhiêu kỹ năng mới trong năm nay
+1191,Bạn đã tham gia bao nhiêu cuộc thi tranh biện?,Quantity,bạn đã tham gia bao nhiêu cuộc thi tranh biện
+1192,Bạn đã gặp bao nhiêu người bạn mới trong kỳ học này?,Quantity,bạn đã gặp bao nhiêu người bạn mới trong kỳ học này
+1193,Bạn đã đạt được bao nhiêu mục tiêu cá nhân?,Quantity,bạn đã đạt được bao nhiêu mục tiêu cá nhân
+1194,Bạn đã thử bao nhiêu món ăn mới trong tháng này?,Quantity,bạn đã thử bao nhiêu món ăn mới trong tháng này
+1195,Bạn đã hoàn thành bao nhiêu bài tập về nhà?,Quantity,bạn đã hoàn thành bao nhiêu bài tập về nhà
+1196,Bạn đã đạt bao nhiêu điểm trong bài kiểm tra cuối kỳ?,Quantity,bạn đã đạt bao nhiêu điểm trong bài kiểm tra cuối kỳ
+1197,Bạn đã dành bao nhiêu giờ để lập trình?,Quantity,bạn đã dành bao nhiêu giờ để lập trình
+1198,Bạn đã thuyết trình bao nhiêu lần trong học kỳ này?,Quantity,bạn đã thuyết trình bao nhiêu lần trong học kỳ này
+1199,Bạn đã tạo bao nhiêu mẫu thiết kế cho dự án?,Quantity,bạn đã tạo bao nhiêu mẫu thiết kế cho dự án
+1200,Bạn đã làm việc trên bao nhiêu dự án nghiên cứu?,Quantity,bạn đã làm việc trên bao nhiêu dự án nghiên cứu
